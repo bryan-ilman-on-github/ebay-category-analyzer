@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 3001;
 app.use(
   cors({
     origin: [
-      "https://ebay-category-analyzer-web.vercel.app/",
+      "https://ebay-category-analyzer-web.vercel.app",
       "http://localhost:5173",
     ],
   })
