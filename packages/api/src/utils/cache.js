@@ -14,7 +14,7 @@ const __dirname = path.dirname(__filename);
 export class CacheManager {
   constructor(cacheDir = null) {
     this.cacheDir = cacheDir || path.join(__dirname, '../../data');
-    this.cacheDuration = parseInt(process.env.CACHE_DURATION || 24) * 60 * 60 * 1000; // hours to ms
+    this.cacheDuration = parseInt(process.env.CACHE_DURATION || 2) * 60 * 60 * 1000; // hours to ms
 
     // Ensure cache directory exists
     if (!fs.existsSync(this.cacheDir)) {

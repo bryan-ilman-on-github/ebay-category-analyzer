@@ -46,22 +46,55 @@ export class TrendAnalyzer {
     const freeShipping = item.shippingOptions?.[0]?.shippingCost?.value === '0.00';
 
     return {
+      // Basic info
       price: parseFloat(item.price.value || 0),
       currency: item.price.currency || 'USD',
       originalPrice: hasDiscount ? parseFloat(item.marketingPrice.originalPrice.value) : null,
       discountPercent: hasDiscount ? item.marketingPrice.discountPercentage : null,
       condition: item.condition || 'Unknown',
+      itemUrl: item.itemWebUrl || '#',
+      itemId: item.legacyItemId || item.itemId || 'N/A',
+
+      // Item details
+      title: item.title || 'Unknown Product',
+      imageUrl: item.imageUrl || item.image?.imageUrl || null,
+      additionalImages: item.additionalImages || [],
+      shortDescription: item.shortDescription || null,
+      categoryPath: item.categoryPath || null,
+
+      // Seller info
       sellerFeedback: parseInt(item.seller?.feedbackScore || 0),
       sellerRating: parseFloat(item.seller?.feedbackPercentage || 0),
       sellerUsername: item.seller?.username || 'Unknown',
       topRated: item.topRatedBuyingExperience || false,
       promoted: item.priorityListing || false,
+
+      // Shipping
       freeShipping,
+      shippingCost: item.shippingCost?.value ? `$${item.shippingCost.value}` : null,
+      shippingType: item.shippingType || null,
+      shipToLocations: item.shipToLocations || null,
+
+      // Return policy
+      returnsAccepted: item.returnsAccepted || false,
+      returnPeriod: item.returnPeriod || null,
+      returnShippingPayer: item.returnShippingPayer || null,
+
+      // Engagement
       watchCount: parseInt(item.watchCount || 0),
       quantitySold: parseInt(item.quantitySold || 0),
-      itemUrl: item.itemWebUrl || '#',
-      itemId: item.legacyItemId || item.itemId || 'N/A',
-      categories: item.categories?.map(c => c.categoryName) || [],
+
+      // Availability/Stock
+      availabilityThreshold: item.availabilityThreshold || null,
+      availabilityThresholdType: item.availabilityThresholdType || null,
+      estimatedAvailableQuantity: item.estimatedAvailableQuantity || null,
+      estimatedRemainingQuantity: item.estimatedRemainingQuantity || null,
+      stockLevel: item.estimatedAvailableQuantity || item.estimatedRemainingQuantity ||
+                  (item.availabilityThreshold && item.availabilityThresholdType !== 'MORE_THAN' ? item.availabilityThreshold : null),
+
+      // Location
+      itemLocation: [item.itemLocationCity, item.itemLocationState, item.itemLocationCountry]
+        .filter(Boolean).join(', ') || null,
     };
   }
 

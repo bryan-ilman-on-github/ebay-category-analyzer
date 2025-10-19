@@ -125,7 +125,18 @@ class EbayClient {
         },
       });
 
-      return response.data;
+      const data = response.data;
+
+      // Log availability fields for debugging (first item only)
+      if (!this._loggedAvailability) {
+        console.log('eBay API availability fields:', {
+          estimatedAvailabilities: data.estimatedAvailabilities,
+          quantityLimitPerBuyer: data.quantityLimitPerBuyer,
+        });
+        this._loggedAvailability = true;
+      }
+
+      return data;
 
     } catch (error) {
       console.warn(`Could not fetch details for item ${itemId}:`, error.message);
@@ -146,9 +157,40 @@ class EbayClient {
         if (details) {
           return {
             ...item,
+            // Engagement data
             watchCount: details.watchCount,
             quantitySold: details.estimatedAvailabilities?.[0]?.estimatedSoldQuantity,
-            description: details.shortDescription,
+
+            // Images - check both additionalImages and images fields
+            imageUrl: details.image?.imageUrl || item.image?.imageUrl,
+            additionalImages: details.additionalImages || details.images || [],
+
+            // Item details
+            title: details.title || item.title,
+            shortDescription: details.shortDescription,
+            categoryPath: details.categoryPath,
+
+            // Shipping
+            shippingCost: details.shippingOptions?.[0]?.shippingCost,
+            shippingType: details.shippingOptions?.[0]?.type,
+            shipToLocations: details.shipToLocations?.regionIncluded,
+
+            // Return policy
+            returnsAccepted: details.returnTerms?.returnsAccepted,
+            returnPeriod: details.returnTerms?.returnPeriod?.value + ' ' + details.returnTerms?.returnPeriod?.unit,
+            returnShippingPayer: details.returnTerms?.returnShippingCostPayer,
+
+            // Availability/Stock
+            availabilityThreshold: details.estimatedAvailabilities?.[0]?.availabilityThreshold,
+            availabilityThresholdType: details.estimatedAvailabilities?.[0]?.availabilityThresholdType,
+            estimatedAvailableQuantity: details.estimatedAvailabilities?.[0]?.estimatedAvailableQuantity,
+            estimatedRemainingQuantity: details.estimatedAvailabilities?.[0]?.estimatedRemainingQuantity,
+            deliveryOptions: details.estimatedAvailabilities?.[0]?.deliveryOptions,
+
+            // Location
+            itemLocationCity: details.itemLocation?.city,
+            itemLocationState: details.itemLocation?.stateOrProvince,
+            itemLocationCountry: details.itemLocation?.country,
           };
         }
 

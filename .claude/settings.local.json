@@ -12,7 +12,16 @@
       "Bash(node test-api-debug.js)",
       "Bash(node test-browse-api.js)",
       "Bash(timeout:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "WebFetch(domain:www.ebay.com)",
+      "Bash(npm start)",
+      "Bash(git restore:*)",
+      "Bash(npm create:*)",
+      "Bash(taskkill:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(curl -s \"http://localhost:3001/api/category/293\")",
+      "Bash(npm --prefix packages/api run dev)"
     ],
     "deny": [],
     "ask": []

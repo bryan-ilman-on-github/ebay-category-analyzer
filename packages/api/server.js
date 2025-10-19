@@ -19,6 +19,24 @@ const analyzer = new TrendAnalyzer();
 const cache = new CacheManager();
 
 /**
+ * Format cache age as "Cached X hour(s) Y minutes ago"
+ */
+function formatCacheAge(ageInHours) {
+  const totalMinutes = Math.floor(ageInHours * 60);
+  const hours = Math.floor(totalMinutes / 60);
+  const minutes = totalMinutes % 60;
+
+  if (hours >= 1) {
+    const hourText = hours === 1 ? 'hour' : 'hours';
+    const minuteText = minutes === 1 ? 'minute' : 'minutes';
+    return `Cached ${hours} ${hourText} ${minutes} ${minuteText} ago`;
+  } else {
+    const minuteText = minutes === 1 ? 'minute' : 'minutes';
+    return `Cached ${minutes} ${minuteText} ago`;
+  }
+}
+
+/**
  * GET /api/categories
  * Returns list of all available categories
  */
@@ -58,7 +76,7 @@ app.get('/api/category/:id', async (req, res) => {
         metadata: {
           ...cached.metadata,
           cached: true,
-          cacheAge: age.toFixed(1) + ' hours',
+          cacheAge: formatCacheAge(age),
         },
       });
     }
