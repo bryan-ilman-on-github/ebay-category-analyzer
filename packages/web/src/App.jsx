@@ -31,7 +31,6 @@ function App() {
   };
 
   const fetchCategoryData = async (categoryId) => {
-    setLoading(true);
     setError(null);
     setSortConfig({ key: null, direction: "asc" });
     try {
@@ -39,18 +38,22 @@ function App() {
       const data = await res.json();
       if (data.success) {
         setCategoryData(data);
+        setLoading(false);
       } else {
         setError(data.error);
+        setLoading(false);
       }
     } catch (err) {
       setError("Failed to load category data");
-    } finally {
       setLoading(false);
     }
   };
 
   const handleCategorySelect = (category) => {
     setSelectedCategory(category);
+    setCategoryData(null); // Clear old data
+    setLoading(true); // Show skeleton
+    // Fetch in background without blocking
     fetchCategoryData(category.id);
   };
 
@@ -225,8 +228,79 @@ function App() {
             </div>
           )}
 
-          {loading && (
-            <div className="loading">Loading trending products...</div>
+          {selectedCategory && loading && (
+            <>
+              <div className="category-header">
+                <h2>{selectedCategory.name}</h2>
+                <p className="metadata">
+                  <span className="skeleton skeleton-text" style={{ width: "200px" }}></span>
+                </p>
+              </div>
+
+              <div className="stats-grid">
+                {[1, 2, 3, 4].map((i) => (
+                  <div key={i} className="stat-card skeleton-card">
+                    <div className="stat-label skeleton skeleton-text" style={{ width: "120px" }}></div>
+                    <div className="stat-value skeleton skeleton-text" style={{ width: "80px", height: "28px" }}></div>
+                  </div>
+                ))}
+              </div>
+
+              <div className="table-wrapper">
+                <div className="table-header">
+                  <h3>Top 20 Trending Products</h3>
+                  <p className="algorithm-note">
+                    Shows the hottest items across all subcategories, ranked
+                    internally by eBay's algorithm based on sales, popularity,
+                    and seller quality
+                  </p>
+                </div>
+                <div className="table-container">
+                  <table className="data-table">
+                    <thead>
+                      <tr>
+                        <th>#</th>
+                        <th>Images</th>
+                        <th>Product Details</th>
+                        <th>Price</th>
+                        <th>Condition</th>
+                        <th>Seller Information</th>
+                        <th>Shipping Details</th>
+                        <th>Return Policy</th>
+                        <th>Availability</th>
+                        <th>Ships From</th>
+                        <th>Engagement</th>
+                        <th>Status Badges</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {[1, 2, 3, 4, 5].map((i) => (
+                        <tr key={i}>
+                          <td><div className="skeleton skeleton-text" style={{ width: "20px" }}></div></td>
+                          <td><div className="skeleton skeleton-image"></div></td>
+                          <td>
+                            <div className="skeleton skeleton-text" style={{ width: "250px", marginBottom: "8px" }}></div>
+                            <div className="skeleton skeleton-text" style={{ width: "120px" }}></div>
+                          </td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "60px" }}></div></td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "80px" }}></div></td>
+                          <td>
+                            <div className="skeleton skeleton-text" style={{ width: "100px", marginBottom: "6px" }}></div>
+                            <div className="skeleton skeleton-text" style={{ width: "90px" }}></div>
+                          </td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "100px" }}></div></td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "140px" }}></div></td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "80px" }}></div></td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "100px" }}></div></td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "70px" }}></div></td>
+                          <td><div className="skeleton skeleton-text" style={{ width: "90px" }}></div></td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </>
           )}
 
           {categoryData && !loading && (

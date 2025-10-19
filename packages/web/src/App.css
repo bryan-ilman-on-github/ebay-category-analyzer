@@ -745,3 +745,47 @@ body {
     height: 30px;
   }
 }
+
+/* Skeleton loading styles */
+@keyframes skeleton-shimmer {
+  0% {
+    background-position: -468px 0;
+  }
+  100% {
+    background-position: 468px 0;
+  }
+}
+
+.skeleton {
+  animation: skeleton-shimmer 1.2s ease-in-out infinite;
+  background: linear-gradient(
+    to right,
+    #f2f3f3 0%,
+    #e6e6e6 20%,
+    #f2f3f3 40%,
+    #f2f3f3 100%
+  );
+  background-size: 800px 100px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.skeleton-text {
+  height: 14px;
+  width: 100%;
+}
+
+.skeleton-image {
+  width: 320px;
+  height: 320px;
+  border-radius: 4px;
+}
+
+.skeleton-card {
+  pointer-events: none;
+}
+
+.skeleton-card .stat-label,
+.skeleton-card .stat-value {
+  color: transparent;
+}
