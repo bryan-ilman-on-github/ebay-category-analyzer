@@ -34,18 +34,24 @@ export class TrendAnalyzer {
    * Extract key metrics from eBay item data (Browse API format)
    */
   extractMetrics(item) {
+    const hasDiscount = item.marketingPrice?.discountPercentage;
+    const freeShipping = item.shippingOptions?.[0]?.shippingCost?.value === '0.00';
+
     return {
       price: parseFloat(item.price?.value || 0),
       currency: item.price?.currency || 'USD',
-      watchers: parseInt(item.watchCount || 0),
-      bidCount: parseInt(item.bidCount || 0),
-      listingType: item.buyingOptions?.[0] || 'Unknown',
+      originalPrice: hasDiscount ? parseFloat(item.marketingPrice.originalPrice.value) : null,
+      discountPercent: hasDiscount ? item.marketingPrice.discountPercentage : null,
       condition: item.condition || 'Unknown',
       sellerFeedback: parseInt(item.seller?.feedbackScore || 0),
       sellerRating: parseFloat(item.seller?.feedbackPercentage || 0),
-      topRatedSeller: item.seller?.sellerAccountType === 'BUSINESS',
-      itemUrl: item.itemWebUrl || item.itemAffiliateWebUrl || '#',
-      itemId: item.itemId || 'N/A',
+      sellerUsername: item.seller?.username || 'Unknown',
+      topRated: item.topRatedBuyingExperience || false,
+      promoted: item.priorityListing || false,
+      freeShipping,
+      itemUrl: item.itemWebUrl || '#',
+      itemId: item.legacyItemId || item.itemId || 'N/A',
+      categories: item.categories?.map(c => c.categoryName) || [],
     };
   }
 

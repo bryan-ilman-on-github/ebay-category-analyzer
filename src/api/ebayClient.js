@@ -68,8 +68,8 @@ class EbayClient {
       const params = {
         category_ids: categoryId,
         limit: Math.min(limit, 200),
-        sort: 'price', // Sort by price (low to high) - shows best deals
-        filter: 'price:[1..],buyingOptions:{FIXED_PRICE},conditions:{NEW|USED_EXCELLENT|USED_VERY_GOOD}',
+        // Default sort = "Best Match" - eBay's algorithm for popular/relevant items
+        filter: 'price:[1..],buyingOptions:{FIXED_PRICE}',
       };
 
       const response = await axios.get(`${EBAY_BROWSE_API_URL}/item_summary/search`, {

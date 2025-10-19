@@ -16,19 +16,28 @@ export class ProductFormatter {
   formatProduct(item, index, trend, metrics) {
     const title = this.truncateTitle(item.title || 'Unknown Product');
     const itemUrl = metrics.itemUrl || '#';
-    const itemId = metrics.itemId || 'N/A';
 
-    // Format price with currency
-    const price = `${metrics.currency} ${metrics.price.toFixed(2)}`;
+    // Format price with discount if available
+    let priceDisplay = chalk.green(`$${metrics.price.toFixed(2)}`);
+    if (metrics.originalPrice) {
+      priceDisplay = chalk.green(`$${metrics.price.toFixed(2)}`) +
+                     chalk.gray(` (was $${metrics.originalPrice.toFixed(2)})`) +
+                     chalk.red(` -${metrics.discountPercent}%`);
+    }
 
-    // Format seller info for trust
-    const sellerBadge = metrics.topRatedSeller ? chalk.yellow('⭐') : '';
+    // Badges for hot indicators
+    const badges = [];
+    if (metrics.topRated) badges.push(chalk.yellow('⭐ Top Rated'));
+    if (metrics.promoted) badges.push(chalk.magenta('🔥 Promoted'));
+    if (metrics.freeShipping) badges.push(chalk.cyan('📦 Free Ship'));
+
+    const badgeStr = badges.length > 0 ? ' ' + badges.join(' ') : '';
 
     return `
-${chalk.bold(`${index}. ${title}`)}
-   ${chalk.gray('├─')} Price: ${chalk.green(price)}
+${chalk.bold(`${index}. ${title}`)}${badgeStr}
+   ${chalk.gray('├─')} Price: ${priceDisplay}
    ${chalk.gray('├─')} Condition: ${metrics.condition}
-   ${chalk.gray('├─')} Seller: ${metrics.sellerFeedback} feedback (${metrics.sellerRating.toFixed(1)}%) ${sellerBadge}
+   ${chalk.gray('├─')} Seller: @${metrics.sellerUsername} (${metrics.sellerFeedback} feedback, ${metrics.sellerRating.toFixed(1)}%)
    ${chalk.gray('└─')} ${chalk.blue(itemUrl)}`;
   }
 

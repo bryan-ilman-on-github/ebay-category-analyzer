@@ -132,8 +132,8 @@ class TrendSpotter {
       console.log(this.formatter.formatMarketComparison(comparison));
     }
 
-    // Top 20 products (sorted by price)
-    console.log(chalk.bold('TOP 20 PRODUCTS (LOWEST PRICE FIRST):\n'));
+    // Top 20 trending products (eBay's Best Match algorithm)
+    console.log(chalk.bold('TOP 20 TRENDING PRODUCTS (eBay Best Match):\n'));
 
     products.slice(0, 20).forEach((product, index) => {
       console.log(
@@ -155,10 +155,10 @@ class TrendSpotter {
   printHeader() {
     console.clear();
     console.log(chalk.bold.cyan(`
-📊 eBay Category Browser
+📊 TrendSpotter - eBay Category Analyzer
 
-Browse products in eBay categories
-Real-time data from eBay Browse API
+Discover trending products in eBay categories
+Sorted by eBay's "Best Match" algorithm - shows popular & relevant items
     `));
   }
 
