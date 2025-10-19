@@ -161,14 +161,10 @@ class TrendSpotter {
   printHeader() {
     console.clear();
     console.log(chalk.bold.cyan(`
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║                  📊 TRENDSPOTTER - eBay Analyzer                  ║
-║                                                                   ║
-║          Analyze trending products in eBay categories             ║
-║              Real-time data from eBay Finding API                 ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+📊 TRENDSPOTTER - eBay Analyzer
+
+Analyze trending products in eBay categories
+Real-time data from eBay Finding API
     `));
   }
 

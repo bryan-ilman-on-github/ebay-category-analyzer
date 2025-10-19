@@ -7,7 +7,7 @@ import chalk from 'chalk';
 
 export class ProductFormatter {
   constructor() {
-    this.maxTitleLength = 60;
+    this.maxTitleWords = 12;
   }
 
   /**
@@ -39,9 +39,7 @@ ${chalk.bold(`${index}. ${trend.symbol} ${title}`)}
    */
   formatCategorySummary(categoryName, stats, metadata) {
     return `
-${chalk.bold.cyan('═'.repeat(70))}
-${chalk.bold.cyan(`  CATEGORY: ${categoryName.toUpperCase()}`)}
-${chalk.bold.cyan('═'.repeat(70))}
+${chalk.bold.cyan(`CATEGORY: ${categoryName.toUpperCase()}`)}
 
 ${chalk.bold('Market Overview:')}
   ${chalk.gray('•')} Total Active Listings: ${chalk.yellow(stats.totalListings.toLocaleString())}
@@ -56,8 +54,6 @@ ${chalk.bold('Data Source:')}
   ${chalk.gray('•')} API Version: ${chalk.gray(metadata.version)}
   ${chalk.gray('•')} Fetched: ${chalk.gray(this.formatTimestamp(metadata.timestamp))}
   ${chalk.gray('•')} Showing top 20 of ${metadata.totalPages} pages available
-
-${chalk.bold.cyan('─'.repeat(70))}
 `;
   }
 
@@ -78,8 +74,6 @@ ${chalk.bold('Market Health (vs Recently Sold Items):')}
   ${chalk.gray('•')} Avg Sold Price: ${chalk.gray(`$${comparison.avgSoldPrice.toFixed(2)}`)}
   ${chalk.gray('•')} Price Change: ${trendColor(`${comparison.priceChange > 0 ? '+' : ''}${comparison.priceChange.toFixed(1)}%`)} ${trendSymbol}
   ${chalk.gray('•')} Market Trend: ${chalk.bold(comparison.trend)}
-
-${chalk.bold.cyan('─'.repeat(70))}
 `;
   }
 
@@ -88,11 +82,9 @@ ${chalk.bold.cyan('─'.repeat(70))}
    */
   formatFooter() {
     return `
-${chalk.bold.cyan('─'.repeat(70))}
 ${chalk.dim('Data Source: eBay Finding API')}
 ${chalk.dim('All prices and statistics are real-time from eBay.com')}
 ${chalk.dim('Click product links to verify data authenticity')}
-${chalk.bold.cyan('═'.repeat(70))}
 `;
   }
 
@@ -111,11 +103,12 @@ ${chalk.yellow('Troubleshooting:')}
   }
 
   /**
-   * Truncate long titles
+   * Truncate long titles by word count
    */
   truncateTitle(title) {
-    if (title.length <= this.maxTitleLength) return title;
-    return title.substring(0, this.maxTitleLength - 3) + '...';
+    const words = title.split(' ');
+    if (words.length <= this.maxTitleWords) return title;
+    return words.slice(0, this.maxTitleWords).join(' ') + '...';
   }
 
   /**
