@@ -85,12 +85,12 @@ export class TrendAnalyzer {
     );
 
     return {
-      avgPrice: prices.reduce((a, b) => a + b, 0) / prices.length,
-      minPrice: Math.min(...prices),
-      maxPrice: Math.max(...prices),
+      avgPrice: prices.length > 0 ? prices.reduce((a, b) => a + b, 0) / prices.length : 0,
+      minPrice: prices.length > 0 ? Math.min(...prices) : 0,
+      maxPrice: prices.length > 0 ? Math.max(...prices) : 0,
       totalListings: items.length,
       totalWatchers: watchers.reduce((a, b) => a + b, 0),
-      avgWatchers: watchers.reduce((a, b) => a + b, 0) / watchers.length,
+      avgWatchers: watchers.length > 0 ? watchers.reduce((a, b) => a + b, 0) / watchers.length : 0,
     };
   }
 
@@ -98,30 +98,8 @@ export class TrendAnalyzer {
    * Compare with completed items to determine market health
    */
   compareWithSoldItems(activeItems, soldItems) {
-    if (!soldItems || soldItems.length === 0) {
-      return { available: false, reason: 'No sold items data available' };
-    }
-
-    const activePrices = activeItems.map(item =>
-      parseFloat(item.sellingStatus?.[0]?.currentPrice?.[0].__value__ || 0)
-    );
-
-    const soldPrices = soldItems.map(item =>
-      parseFloat(item.sellingStatus?.[0]?.currentPrice?.[0].__value__ || 0)
-    );
-
-    const avgActivePrice = activePrices.reduce((a, b) => a + b, 0) / activePrices.length;
-    const avgSoldPrice = soldPrices.reduce((a, b) => a + b, 0) / soldPrices.length;
-
-    const priceChange = ((avgActivePrice - avgSoldPrice) / avgSoldPrice) * 100;
-
-    return {
-      available: true,
-      avgActivePrice,
-      avgSoldPrice,
-      priceChange,
-      trend: priceChange > 5 ? 'Increasing' : priceChange < -5 ? 'Decreasing' : 'Stable',
-    };
+    // Browse API doesn't support sold items
+    return { available: false, reason: 'No sold items data available' };
   }
 }
 
