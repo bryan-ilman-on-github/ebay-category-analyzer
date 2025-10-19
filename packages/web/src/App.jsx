@@ -239,15 +239,24 @@ function App() {
               <div className="category-header">
                 <h2>{selectedCategory.name}</h2>
                 <p className="metadata">
-                  <span className="skeleton skeleton-text" style={{ width: "200px" }}></span>
+                  <span
+                    className="skeleton skeleton-text"
+                    style={{ width: "200px" }}
+                  ></span>
                 </p>
               </div>
 
               <div className="stats-grid">
                 {[1, 2, 3, 4].map((i) => (
                   <div key={i} className="stat-card skeleton-card">
-                    <div className="stat-label skeleton skeleton-text" style={{ width: "120px" }}></div>
-                    <div className="stat-value skeleton skeleton-text" style={{ width: "80px", height: "28px" }}></div>
+                    <div
+                      className="stat-label skeleton skeleton-text"
+                      style={{ width: "120px" }}
+                    ></div>
+                    <div
+                      className="stat-value skeleton skeleton-text"
+                      style={{ width: "80px", height: "28px" }}
+                    ></div>
                   </div>
                 ))}
               </div>
@@ -282,24 +291,83 @@ function App() {
                     <tbody>
                       {[1, 2, 3, 4, 5].map((i) => (
                         <tr key={i}>
-                          <td><div className="skeleton skeleton-text" style={{ width: "20px" }}></div></td>
-                          <td><div className="skeleton skeleton-image"></div></td>
                           <td>
-                            <div className="skeleton skeleton-text" style={{ width: "250px", marginBottom: "8px" }}></div>
-                            <div className="skeleton skeleton-text" style={{ width: "120px" }}></div>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "20px" }}
+                            ></div>
                           </td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "60px" }}></div></td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "80px" }}></div></td>
                           <td>
-                            <div className="skeleton skeleton-text" style={{ width: "100px", marginBottom: "6px" }}></div>
-                            <div className="skeleton skeleton-text" style={{ width: "90px" }}></div>
+                            <div className="skeleton skeleton-image"></div>
                           </td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "100px" }}></div></td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "140px" }}></div></td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "80px" }}></div></td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "100px" }}></div></td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "70px" }}></div></td>
-                          <td><div className="skeleton skeleton-text" style={{ width: "90px" }}></div></td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "250px", marginBottom: "8px" }}
+                            ></div>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "120px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "60px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "80px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "100px", marginBottom: "6px" }}
+                            ></div>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "90px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "100px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "140px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "80px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "100px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "70px" }}
+                            ></div>
+                          </td>
+                          <td>
+                            <div
+                              className="skeleton skeleton-text"
+                              style={{ width: "90px" }}
+                            ></div>
+                          </td>
                         </tr>
                       ))}
                     </tbody>
@@ -523,13 +591,16 @@ function App() {
                                 </span>
                               ) : item.estimatedAvailableQuantity ? (
                                 // If quantity is round number (10, 20, 50, 100), likely means "X or more"
-                                [10, 20, 50, 100].includes(item.estimatedAvailableQuantity) ? (
+                                [10, 20, 50, 100].includes(
+                                  item.estimatedAvailableQuantity
+                                ) ? (
                                   <span className="stock-ok">
                                     {item.estimatedAvailableQuantity}+ in stock
                                   </span>
                                 ) : item.estimatedAvailableQuantity <= 5 ? (
                                   <span className="stock-low">
-                                    Only {item.estimatedAvailableQuantity} in stock
+                                    Only {item.estimatedAvailableQuantity} in
+                                    stock
                                   </span>
                                 ) : (
                                   <span className="stock-ok">
@@ -537,13 +608,16 @@ function App() {
                                   </span>
                                 )
                               ) : item.estimatedRemainingQuantity ? (
-                                [10, 20, 50, 100].includes(item.estimatedRemainingQuantity) ? (
+                                [10, 20, 50, 100].includes(
+                                  item.estimatedRemainingQuantity
+                                ) ? (
                                   <span className="stock-ok">
                                     {item.estimatedRemainingQuantity}+ remaining
                                   </span>
                                 ) : item.estimatedRemainingQuantity <= 5 ? (
                                   <span className="stock-low">
-                                    Only {item.estimatedRemainingQuantity} remaining
+                                    Only {item.estimatedRemainingQuantity}{" "}
+                                    remaining
                                   </span>
                                 ) : (
                                   <span className="stock-ok">
@@ -551,7 +625,8 @@ function App() {
                                   </span>
                                 )
                               ) : item.availabilityThreshold ? (
-                                item.availabilityThresholdType === "MORE_THAN" ? (
+                                item.availabilityThresholdType ===
+                                "MORE_THAN" ? (
                                   <span className="stock-ok">
                                     {item.availabilityThreshold}+ in stock
                                   </span>
@@ -582,7 +657,8 @@ function App() {
                                   </div>
                                 )}
                                 {(!item.watchCount || item.watchCount === 0) &&
-                                  (!item.quantitySold || item.quantitySold === 0) && (
+                                  (!item.quantitySold ||
+                                    item.quantitySold === 0) && (
                                     <span className="muted">No data</span>
                                   )}
                               </div>
@@ -616,10 +692,7 @@ function App() {
 
               <div className="footer-note">
                 All data sourced from official eBay Browse API. Click product
-                IDs to verify on eBay.com. Click images to enlarge.
-                <br />
-                <strong>Note:</strong> Watch count and quantity sold data may be
-                delayed or incomplete compared to live eBay website data.
+                IDs to verify on eBay.com.
               </div>
             </>
           )}
