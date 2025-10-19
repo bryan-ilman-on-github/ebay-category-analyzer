@@ -34,12 +34,18 @@ export class TrendAnalyzer {
    * Extract key metrics from eBay item data (Browse API format)
    */
   extractMetrics(item) {
+    // Safety check for Browse API format
+    if (!item || !item.price) {
+      console.error('Invalid item format:', item);
+      throw new Error('Invalid item data format - cache may be outdated');
+    }
+
     const hasDiscount = item.marketingPrice?.discountPercentage;
     const freeShipping = item.shippingOptions?.[0]?.shippingCost?.value === '0.00';
 
     return {
-      price: parseFloat(item.price?.value || 0),
-      currency: item.price?.currency || 'USD',
+      price: parseFloat(item.price.value || 0),
+      currency: item.price.currency || 'USD',
       originalPrice: hasDiscount ? parseFloat(item.marketingPrice.originalPrice.value) : null,
       discountPercent: hasDiscount ? item.marketingPrice.discountPercentage : null,
       condition: item.condition || 'Unknown',

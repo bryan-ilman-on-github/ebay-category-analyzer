@@ -98,13 +98,21 @@ ${chalk.dim('Click product links to verify data authenticity')}
    * Format error message
    */
   formatError(error) {
-    return `
-${chalk.bold.red('ERROR:')} ${error.message}
-
+    let troubleshooting = `
 ${chalk.yellow('Troubleshooting:')}
   ${chalk.gray('•')} Verify your EBAY_APP_ID in .env file
   ${chalk.gray('•')} Check internet connection
-  ${chalk.gray('•')} Verify eBay API status: https://developer.ebay.com
+  ${chalk.gray('•')} Verify eBay API status: https://developer.ebay.com`;
+
+    // Add cache-specific help if it's a cache issue
+    if (error.message.includes('cache') || error.message.includes('format')) {
+      troubleshooting += `
+  ${chalk.gray('•')} ${chalk.yellow('Try clearing cache:')} Delete files in data/ folder`;
+    }
+
+    return `
+${chalk.bold.red('ERROR:')} ${error.message}
+${troubleshooting}
 `;
   }
 
