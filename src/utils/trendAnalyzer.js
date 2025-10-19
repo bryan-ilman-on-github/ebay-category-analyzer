@@ -40,7 +40,9 @@ export class TrendAnalyzer {
       throw new Error('Invalid item data format - cache may be outdated');
     }
 
-    const hasDiscount = item.marketingPrice?.discountPercentage;
+    const hasDiscount = item.marketingPrice?.originalPrice &&
+                       item.marketingPrice?.discountPercentage &&
+                       parseFloat(item.marketingPrice.discountPercentage) > 0;
     const freeShipping = item.shippingOptions?.[0]?.shippingCost?.value === '0.00';
 
     return {
@@ -55,6 +57,8 @@ export class TrendAnalyzer {
       topRated: item.topRatedBuyingExperience || false,
       promoted: item.priorityListing || false,
       freeShipping,
+      watchCount: parseInt(item.watchCount || 0),
+      quantitySold: parseInt(item.quantitySold || 0),
       itemUrl: item.itemWebUrl || '#',
       itemId: item.legacyItemId || item.itemId || 'N/A',
       categories: item.categories?.map(c => c.categoryName) || [],

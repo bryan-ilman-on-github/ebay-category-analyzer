@@ -111,6 +111,55 @@ class EbayClient {
   }
 
   /**
+   * Get detailed item info including watch count, quantity sold
+   * @param {string} itemId - Item ID from search results
+   */
+  async getItemDetails(itemId) {
+    try {
+      const token = await this.getAccessToken();
+
+      const response = await axios.get(`${EBAY_BROWSE_API_URL}/item/${itemId}`, {
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'X-EBAY-C-MARKETPLACE-ID': this.marketplace,
+        },
+      });
+
+      return response.data;
+
+    } catch (error) {
+      console.warn(`Could not fetch details for item ${itemId}:`, error.message);
+      return null;
+    }
+  }
+
+  /**
+   * Enrich item summaries with detailed data (watchCount, quantitySold, etc.)
+   */
+  async enrichItemsWithDetails(items) {
+    console.log('Fetching detailed data for items...');
+
+    const enrichedItems = await Promise.all(
+      items.map(async (item) => {
+        const details = await this.getItemDetails(item.itemId);
+
+        if (details) {
+          return {
+            ...item,
+            watchCount: details.watchCount,
+            quantitySold: details.estimatedAvailabilities?.[0]?.estimatedSoldQuantity,
+            description: details.shortDescription,
+          };
+        }
+
+        return item;
+      })
+    );
+
+    return enrichedItems;
+  }
+
+  /**
    * Get completed/sold listings to analyze price trends
    * Browse API doesn't support sold items search, so we return empty
    */

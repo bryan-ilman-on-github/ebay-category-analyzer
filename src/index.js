@@ -77,18 +77,19 @@ class TrendSpotter {
     // Fetch fresh data
     console.log(chalk.gray('Fetching live data from eBay API...\n'));
 
-    const [activeData, soldData] = await Promise.all([
-      this.ebayClient.findItemsByCategory(categoryId, 20),
-      this.ebayClient.findCompletedItems(categoryId, 20),
-    ]);
+    const activeData = await this.ebayClient.findItemsByCategory(categoryId, 20);
 
     if (!activeData.success) {
       throw new Error('Failed to fetch category data from eBay');
     }
 
+    // Enrich with detailed data (watchCount, quantitySold)
+    const enrichedItems = await this.ebayClient.enrichItemsWithDetails(activeData.items);
+
     const result = {
       ...activeData,
-      soldItems: soldData.items || [],
+      items: enrichedItems,
+      soldItems: [],
     };
 
     // Cache the result
@@ -103,18 +104,25 @@ class TrendSpotter {
   analyzeProducts(items) {
     const products = [];
 
-    for (const item of items) {
-      const metrics = this.analyzer.extractMetrics(item);
-      const trend = { symbol: '', label: '' }; // No trend analysis
+    for (let i = 0; i < items.length; i++) {
+      const item = items[i];
+      try {
+        const metrics = this.analyzer.extractMetrics(item);
+        const trend = { symbol: '', label: '' }; // No trend analysis
 
-      products.push({
-        item,
-        metrics,
-        trend,
-      });
+        products.push({
+          item,
+          metrics,
+          trend,
+        });
+      } catch (error) {
+        console.error(`Error processing item ${i + 1}:`, error.message);
+        console.error('Item data:', JSON.stringify(item, null, 2));
+        throw error;
+      }
     }
 
-    // No sorting - keep API order (sorted by price low to high)
+    // No sorting - keep API order
     return products;
   }
 

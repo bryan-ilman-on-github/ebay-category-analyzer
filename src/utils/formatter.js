@@ -33,8 +33,14 @@ export class ProductFormatter {
 
     const badgeStr = badges.length > 0 ? ' ' + badges.join(' ') : '';
 
+    // Hot indicators
+    const hotIndicators = [];
+    if (metrics.watchCount > 0) hotIndicators.push(`${metrics.watchCount} watching`);
+    if (metrics.quantitySold > 0) hotIndicators.push(`${metrics.quantitySold} sold`);
+    const hotStr = hotIndicators.length > 0 ? chalk.yellow(` 🔥 ${hotIndicators.join(', ')}`) : '';
+
     return `
-${chalk.bold(`${index}. ${title}`)}${badgeStr}
+${chalk.bold(`${index}. ${title}`)}${badgeStr}${hotStr}
    ${chalk.gray('├─')} Price: ${priceDisplay}
    ${chalk.gray('├─')} Condition: ${metrics.condition}
    ${chalk.gray('├─')} Seller: @${metrics.sellerUsername} (${metrics.sellerFeedback} feedback, ${metrics.sellerRating.toFixed(1)}%)
