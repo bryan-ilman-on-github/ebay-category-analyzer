@@ -1,6 +1,6 @@
 {
   "key": "category_293",
-  "timestamp": 1760888021588,
+  "timestamp": 1760896227175,
   "data": {
     "success": true,
     "items": [
@@ -40,14 +40,14 @@
         "seller": {
           "username": "metaofficial",
           "feedbackPercentage": "98.7",
-          "feedbackScore": 4629
+          "feedbackScore": 4632
         },
         "marketingPrice": {
           "originalPrice": {
             "value": "499.99",
             "currency": "USD"
           },
-          "discountPercentage": "10",
+          "discountPercentage": "10.0",
           "discountAmount": {
             "value": "50.00",
             "currency": "USD"
@@ -75,7 +75,7 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/406273663306?hash=item5e97cc214a:g:o3AAAeSwRG1o5wPa&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYN8iM8Sd4h3HPenL7pIm0wL3Tmx6sLsv7tE1Cdzh2DMC5B%2FEJ7AKq50nsGfSU19qFzrWs1j%2FixIQaho%2FHsjisVdmLLm93eUZCV9N%2BPzb8hd8PFx7pRui6rwL%2F%2Buq4oykP0QrcEWY763pdsS6kzKNy%2BiY7sW2vlVRmTWyDa2n0b6eVdfn%2BEHkr9IewQ3cgQPYeVBqIyB0EeS44uvioVFzzr7LXPKQPjhUJQSgOmTK%2BCyFwJex%2BURSH6TgbCshvDQHLUjSrs0f28cobE4xwhLBGY",
+        "itemWebUrl": "https://www.ebay.com/itm/406273663306?hash=item5e97cc214a:g:o3AAAeSwRG1o5wPa&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYN8iM8Sd4h3HPenL7pIm0wL3Tmx6sLsv7tE1Cdzh2DMC5B%2FEJ7AKq50nsGfSU19qFzrWs1j%2FixIQaho%2FHsjisVdmLLm93eUZCV9N%2BPzb8hd8PFx7pRui6rwL%2F%2Buq4oykN9rIRS%2FrM3D1m%2Bs3DYMZvVFdbHHCFx%2FZ7%2Bm67VcshoqbQ5EqoSezhU9f342EvlnrhtC3FsW%2Ba%2BZkmrJOn957kmV9gq52splLTeUGmNCp9EMVxenKEMd0l4pyJq865DHrUuiTGLSwSLEka7vr5RM7dA",
         "itemLocation": {
           "postalCode": "401**",
           "country": "US"
@@ -180,14 +180,14 @@
         "seller": {
           "username": "metaofficial",
           "feedbackPercentage": "98.7",
-          "feedbackScore": 4629
+          "feedbackScore": 4632
         },
         "marketingPrice": {
           "originalPrice": {
             "value": "299.99",
             "currency": "USD"
           },
-          "discountPercentage": "10",
+          "discountPercentage": "10.0",
           "discountAmount": {
             "value": "30.00",
             "currency": "USD"
@@ -215,7 +215,7 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/405845419215?hash=item5e7e45a4cf:g:kXAAAOSwtP9oGMRU&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZRVYEqrFudhGawBEvdtGLFQTnM1YV7Dt18xNF9bgRaQVXjYDwEIMnh1f14SOVGVHEyTO5cpkzVJl%2FvtVrrzcHy0lygUZj%2BvSEZAPcrzbQazQ9vv5HZ%2Bb%2B52e6%2FyAQy9eB2OTwoNyD%2B4Mu7qDd2%2BMhQYB%2F4tS7iKou8Upj3qDyAViaAbIhIC3lie6LItzjr66Ocauu8sOXwrXf8KlP6tOAZVjOMdWrXyaubxbGdp9N5TUrk%2Fm6vg8nQHrc6ydEASciINTkf809bfKWamv0jVcV%2B",
+        "itemWebUrl": "https://www.ebay.com/itm/405845419215?hash=item5e7e45a4cf:g:kXAAAOSwtP9oGMRU&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZRVYEqrFudhGawBEvdtGLFQTnM1YV7Dt18xNF9bgRaQVXjYDwEIMnh1f14SOVGVHEyTO5cpkzVJl%2FvtVrrzcHy0lygUZj%2BvSEZAPcrzbQazQ9vv5HZ%2Bb%2B52e6%2FyAQy9eA9tbXjeYHEic9lxhUKIpqcmm6SNvlaIq6Uqt9ZsT8B5PX5opoOZPYkVlDxZAngvPRghuf36GPT1rqwj4EUNPsiny%2BvHJDwL1c5IBjs5XkDgk62VPv9DB2UbmmsBGssEDV1iLkRl5WJV%2BICVgQmtzaq",
         "itemLocation": {
           "postalCode": "401**",
           "country": "US"
@@ -320,7 +320,7 @@
         "seller": {
           "username": "metaofficial",
           "feedbackPercentage": "98.7",
-          "feedbackScore": 4629
+          "feedbackScore": 4632
         },
         "condition": "New",
         "conditionId": "1000",
@@ -343,7 +343,7 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/406085701462?hash=item5e8c980f56:g:7zsAAeSwjQxoh-5l&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZysvOxsx2KHdSOGex56lbEOQiMeZrO1ngoI%2FEEVxL1vkAPfXH9auPZN9yMdeOw5oJ7pB4axzBfeYbaI7019lE83NhkdsezorrfOvrGoR1DIyIIr6BM0lJE2FbOlWVKQNzg1Mlw4OhdmmdYNDQZ7jLPcFbymN0z5NiOgC9nRcS%2FMG8ZMxrqfQ3VjArZclOE0Z%2FwjYroO4WyEOjIbSpieVxZjSSP2l%2FhMaFyeEd4Nfn7R%2Bmi9CjOJIbmw8yxHK73dvrwW8cmee77IKTJpfCFeuia",
+        "itemWebUrl": "https://www.ebay.com/itm/406085701462?hash=item5e8c980f56:g:7zsAAeSwjQxoh-5l&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZysvOxsx2KHdSOGex56lbEOQiMeZrO1ngoI%2FEEVxL1vkAPfXH9auPZN9yMdeOw5oJ7pB4axzBfeYbaI7019lE83NhkdsezorrfOvrGoR1DIyIIr6BM0lJE2FbOlWVKQNy7y43xmgWmOeWCq70J0JNYfPO2FscoZzdLgmmq8IOJsMlHBbDhW0biaE6oqrh5R14xaahxyo%2BL9zU4Rvczedpcw01Lfxwm9CONVD%2Bi16--I1gv3KdnRRdxg8ADdbDuL1tuT%2FMpnAVBxnqrpgOmEADF",
         "itemLocation": {
           "postalCode": "401**",
           "country": "US"
@@ -418,7 +418,7 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|317368199493|615915272268",
+        "itemId": "v1|317368199493|615915272315",
         "title": "HDMI 4K Cable 60Hz High Speed Cord 1080P Premium Mesh 1.5FT- 50FT Multi-Pack Lot",
         "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=317368199493",
         "leafCategoryIds": [
@@ -450,15 +450,15 @@
           "imageUrl": "https://i.ebayimg.com/images/g/cOgAAOSwxupa9eMO/s-l225.jpg"
         },
         "price": {
-          "value": "439.85",
+          "value": "8.45",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317368199493%7C615915272268",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317368199493%7C615915272315",
         "seller": {
           "username": "satmaximum",
           "feedbackPercentage": "98.9",
-          "feedbackScore": 183971
+          "feedbackScore": 183972
         },
         "condition": "New",
         "conditionId": "1000",
@@ -481,16 +481,21 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/317368199493?hash=item49e49e6945:g:cOgAAOSwxupa9eMO&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaN3SqM6%2F9z9HWKqoTANSCMru7wXuQTwN6g1DhJyW2JvIwLViKbFqahgLjFlNC1fCbyVy181kVGJPsAFn3V1GZHDyh1ukRkNxIoPW6lCN2WPA5SjIFbYQCiqucy3Y%2F51JhVNNUVsjqCmKs0km8XDX1Dnpl%2FzUb6VO6YmODeJCXJXWb78yo4OycBtASs0nUV5L%2BsdXa9Mzgv7JkmXdPeVpxIQfJx5aj5UAkDsxxIPMuEu1yGr9VFVKCcVb2nlkn14p26pL%2FyoWr2uafIrR9xSEBc",
+        "itemWebUrl": "https://www.ebay.com/itm/317368199493?hash=item49e49e6945:g:cOgAAOSwxupa9eMO&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaN3SqM6%2F9z9HWKqoTANSCMru7wXuQTwN6g1DhJyW2JvIwLViKbFqahgLjFlNC1fCbyVy181kVGJPsAFn3V1GZHDyh1ukRkNxIoPW6lCN2WPA5SjIFbYQCiqucy3Y%2F51JjNBpQgcbANQs2D5XiCqpjuU6oS8CP4SFq2L%2Fhhv68PKuI2eNYqpMGgy8gSqaZKxR9SBDWHaOP2a7C2broS%2BQt4vMicpA8F6leIJvuNviKZmon9pS58%2FNxPiy1OkfKZW%2Fv%2FxHeyQIP90IvFNlFLaAut",
         "itemLocation": {
           "postalCode": "117**",
           "country": "US"
         },
         "additionalImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/r-gAAOSw2Hhj4ros/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
+            "imageUrl": "https://i.ebayimg.com/images/g/UTMAAOSwbq9a2gpd/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/BmwAAOSwF-Ja2gpg/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
           }
         ],
         "adultOnly": false,
@@ -501,8 +506,8 @@
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 0,
-        "imageUrl": "https://i.ebayimg.com/images/g/umoAAOSwD5Za2gux/s-l1600.jpg",
+        "quantitySold": 64,
+        "imageUrl": "https://i.ebayimg.com/images/g/Y04AAOSw94Ba2gpa/s-l1600.jpg",
         "shortDescription": "Type: Premium 4K HDMI Cable. Supported Resolution: 1080p, 1080i, 720p and Standard Video. Length (FT): 1.5 FT, 3 FT, 6 FT, 10 FT, 12 FT, 15 FT, 20 FT, 25 FT, 30 FT, 35 FT, 40 FT, 50 FT. Category: HDMI.",
         "categoryPath": "Consumer Electronics|TV, Video & Home Audio|TV, Video & Audio Accessories|TV & Video Accessories|Video Cables & Interconnects",
         "shippingCost": {
@@ -522,7 +527,7 @@
         "returnShippingPayer": "BUYER",
         "availabilityThreshold": 10,
         "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 100,
+        "estimatedRemainingQuantity": 22682,
         "deliveryOptions": [
           "SHIP_TO_HOME",
           "SELLER_ARRANGED_LOCAL_PICKUP"
@@ -573,7 +578,7 @@
           "imageUrl": "https://i.ebayimg.com/images/g/nVEAAOSwqs9nfN1S/s-l225.jpg"
         },
         "price": {
-          "value": "528.69",
+          "value": "7.98",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
@@ -581,16 +586,16 @@
         "seller": {
           "username": "oscommerc-27",
           "feedbackPercentage": "98.1",
-          "feedbackScore": 13729
+          "feedbackScore": 13730
         },
         "marketingPrice": {
           "originalPrice": {
-            "value": "660.86",
+            "value": "9.98",
             "currency": "USD"
           },
-          "discountPercentage": "20",
+          "discountPercentage": "20.0",
           "discountAmount": {
-            "value": "132.17",
+            "value": "2.00",
             "currency": "USD"
           },
           "priceTreatment": "MARKDOWN"
@@ -665,7 +670,7 @@
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 0,
+        "quantitySold": 557,
         "imageUrl": "https://i.ebayimg.com/images/g/nVEAAOSwqs9nfN1S/s-l1600.jpg",
         "shortDescription": "2 in 1 function: Bluetooth transmission mode: convert wired audio into Bluetooth signal and transmit it to Bluetooth device. Bluetooth receiving mode: Receive Bluetooth signal and transmit it to wired audio through Bluetooth connection.",
         "categoryPath": "Computers/Tablets & Networking|Home Networking & Connectivity|USB Bluetooth Adapters/Dongles",
@@ -1579,12 +1584,1296 @@
         "returnPeriod": "30 CALENDAR_DAY",
         "returnShippingPayer": "SELLER",
         "estimatedAvailableQuantity": 2,
-        "estimatedRemainingQuantity": 2,
+        "estimatedRemainingQuantity": 30,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
         "itemLocationCity": "Buffalo",
         "itemLocationState": "New York",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|187572841685|695415898868",
+        "title": "4K HDMI Cable Splitter Adapter 2.0 Converter 1 In 2 Out 1 Male to 2 Female lot",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=187572841685",
+        "leafCategoryIds": [
+          "32834"
+        ],
+        "categories": [
+          {
+            "categoryId": "32834",
+            "categoryName": "Video Cables & Interconnects"
+          },
+          {
+            "categoryId": "293",
+            "categoryName": "Consumer Electronics"
+          },
+          {
+            "categoryId": "14961",
+            "categoryName": "TV, Video & Audio Accessories"
+          },
+          {
+            "categoryId": "32852",
+            "categoryName": "TV, Video & Home Audio"
+          },
+          {
+            "categoryId": "184975",
+            "categoryName": "TV & Video Accessories"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/JTIAAeSwz-poyRIW/s-l225.jpg"
+        },
+        "price": {
+          "value": "4.86",
+          "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187572841685%7C695415898868",
+        "seller": {
+          "username": "catboutique",
+          "feedbackPercentage": "98.0",
+          "feedbackScore": 19771
+        },
+        "marketingPrice": {
+          "originalPrice": {
+            "value": "6.08",
+            "currency": "USD"
+          },
+          "discountPercentage": "20.0",
+          "discountAmount": {
+            "value": "1.22",
+            "currency": "USD"
+          },
+          "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/JTIAAeSwz-poyRIW/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-28T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/187572841685?hash=item2bac366cd5:g:JTIAAeSwz-poyRIW",
+        "itemLocation": {
+          "postalCode": "142**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/KCsAAOSwScdoJDYm/s-l1600.jpg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/WaYAAOSwYdpoJDYn/s-l1600.jpg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/EyYAAOSwpnJoJDYn/s-l1600.jpg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/OZYAAOSwLQ9oJDYn/s-l1600.jpg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/vn8AAOSwfDtoJDYo/s-l1600.jpg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/EN0AAOSwfhloJDYp/s-l1600.jpg",
+            "width": 800,
+            "height": 800
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/ndYAAOSwEOhfOXFp/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/K6QAAOSwtrdfOXFq/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/G-8AAOSwZ9VfOXFc/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/Cu0AAOSwoWFfOXFi/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/l~IAAOSwVRNfOXFl/s-l1600.jpg",
+            "width": 1500,
+            "height": 1500
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/KtgAAOSw2GxfOXFu/s-l1600.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/yDIAAOSwwy5oJDYp/s-l1600.jpg",
+            "width": 800,
+            "height": 800
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "187572841685",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-09-16T07:30:32.000Z",
+        "itemCreationDate": "2025-09-16T07:30:32.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 133,
+        "imageUrl": "https://i.ebayimg.com/images/g/JTIAAeSwz-poyRIW/s-l1600.jpg",
+        "shortDescription": "💜 Supports up to 4K Resolution. 💜 Supports all common resolution 480i/480p/720i/720p/1080i/1080p/1440p/2160p/4K.",
+        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|TV, Video & Audio Accessories|TV & Video Accessories|Video Cables & Interconnects",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "estimatedAvailableQuantity": 5,
+        "estimatedRemainingQuantity": 75,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Buffalo",
+        "itemLocationState": "New York",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|406303103213|0",
+        "title": "🔥vSeeBox V5 PRO - FREE SHIPPING🏈",
+        "leafCategoryIds": [
+          "168058"
+        ],
+        "categories": [
+          {
+            "categoryId": "168058",
+            "categoryName": "Media Streamers"
+          },
+          {
+            "categoryId": "293",
+            "categoryName": "Consumer Electronics"
+          },
+          {
+            "categoryId": "32852",
+            "categoryName": "TV, Video & Home Audio"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/qP4AAeSwIxVo37QQ/s-l225.jpg"
+        },
+        "price": {
+          "value": "210.00",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406303103213%7C0",
+        "seller": {
+          "username": "vseeboxwholesaler",
+          "feedbackPercentage": "99.8",
+          "feedbackScore": 536
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/qP4AAeSwIxVo37QQ/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-29T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/406303103213?hash=item5e998d58ed:g:qP4AAeSwIxVo37QQ",
+        "itemLocation": {
+          "postalCode": "087**",
+          "country": "US"
+        },
+        "adultOnly": false,
+        "legacyItemId": "406303103213",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-10-16T15:49:09.000Z",
+        "itemCreationDate": "2025-10-19T11:58:56.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 4,
+        "imageUrl": "https://i.ebayimg.com/images/g/qP4AAeSwIxVo37QQ/s-l1600.jpg",
+        "additionalImages": [],
+        "shortDescription": "🔥vSee Box V5 PRO - FREE SHIPPING🏈. Condition is New. Shipped with USPS Media Mail.",
+        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|Media Streamers",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          },
+          {
+            "regionName": "Denmark",
+            "regionType": "COUNTRY",
+            "regionId": "DK"
+          },
+          {
+            "regionName": "Guatemala",
+            "regionType": "COUNTRY",
+            "regionId": "GT"
+          },
+          {
+            "regionName": "New Zealand",
+            "regionType": "COUNTRY",
+            "regionId": "NZ"
+          },
+          {
+            "regionName": "Fiji",
+            "regionType": "COUNTRY",
+            "regionId": "FJ"
+          },
+          {
+            "regionName": "Papua New Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "PG"
+          },
+          {
+            "regionName": "Solomon Islands",
+            "regionType": "COUNTRY",
+            "regionId": "SB"
+          },
+          {
+            "regionName": "Vatican City State",
+            "regionType": "COUNTRY",
+            "regionId": "VA"
+          },
+          {
+            "regionName": "Sierra Leone",
+            "regionType": "COUNTRY",
+            "regionId": "SL"
+          },
+          {
+            "regionName": "Nauru",
+            "regionType": "COUNTRY",
+            "regionId": "NR"
+          },
+          {
+            "regionName": "Wallis and Futuna",
+            "regionType": "COUNTRY",
+            "regionId": "WF"
+          },
+          {
+            "regionName": "Marshall Islands",
+            "regionType": "COUNTRY",
+            "regionId": "MH"
+          },
+          {
+            "regionName": "Anguilla",
+            "regionType": "COUNTRY",
+            "regionId": "AI"
+          },
+          {
+            "regionName": "El Salvador",
+            "regionType": "COUNTRY",
+            "regionId": "SV"
+          },
+          {
+            "regionName": "Gambia",
+            "regionType": "COUNTRY",
+            "regionId": "GM"
+          },
+          {
+            "regionName": "Guam",
+            "regionType": "COUNTRY",
+            "regionId": "GU"
+          },
+          {
+            "regionName": "Micronesia",
+            "regionType": "COUNTRY",
+            "regionId": "FM"
+          },
+          {
+            "regionName": "Dominican Republic",
+            "regionType": "COUNTRY",
+            "regionId": "DO"
+          },
+          {
+            "regionName": "Cameroon",
+            "regionType": "COUNTRY",
+            "regionId": "CM"
+          },
+          {
+            "regionName": "Guyana",
+            "regionType": "COUNTRY",
+            "regionId": "GY"
+          },
+          {
+            "regionName": "Taiwan",
+            "regionType": "COUNTRY",
+            "regionId": "TW"
+          },
+          {
+            "regionName": "Azerbaijan Republic",
+            "regionType": "COUNTRY",
+            "regionId": "AZ"
+          },
+          {
+            "regionName": "Poland",
+            "regionType": "COUNTRY",
+            "regionId": "PL"
+          },
+          {
+            "regionName": "Georgia",
+            "regionType": "COUNTRY",
+            "regionId": "GE"
+          },
+          {
+            "regionName": "Oman",
+            "regionType": "COUNTRY",
+            "regionId": "OM"
+          },
+          {
+            "regionName": "Suriname",
+            "regionType": "COUNTRY",
+            "regionId": "SR"
+          },
+          {
+            "regionName": "Tonga",
+            "regionType": "COUNTRY",
+            "regionId": "TO"
+          },
+          {
+            "regionName": "United Arab Emirates",
+            "regionType": "COUNTRY",
+            "regionId": "AE"
+          },
+          {
+            "regionName": "Kenya",
+            "regionType": "COUNTRY",
+            "regionId": "KE"
+          },
+          {
+            "regionName": "Argentina",
+            "regionType": "COUNTRY",
+            "regionId": "AR"
+          },
+          {
+            "regionName": "San Marino",
+            "regionType": "COUNTRY",
+            "regionId": "SM"
+          },
+          {
+            "regionName": "Guinea-Bissau",
+            "regionType": "COUNTRY",
+            "regionId": "GW"
+          },
+          {
+            "regionName": "Armenia",
+            "regionType": "COUNTRY",
+            "regionId": "AM"
+          },
+          {
+            "regionName": "Uzbekistan",
+            "regionType": "COUNTRY",
+            "regionId": "UZ"
+          },
+          {
+            "regionName": "Bhutan",
+            "regionType": "COUNTRY",
+            "regionId": "BT"
+          },
+          {
+            "regionName": "Eritrea",
+            "regionType": "COUNTRY",
+            "regionId": "ER"
+          },
+          {
+            "regionName": "Senegal",
+            "regionType": "COUNTRY",
+            "regionId": "SN"
+          },
+          {
+            "regionName": "Togo",
+            "regionType": "COUNTRY",
+            "regionId": "TG"
+          },
+          {
+            "regionName": "Saint Kitts-Nevis",
+            "regionType": "COUNTRY",
+            "regionId": "KN"
+          },
+          {
+            "regionName": "Morocco",
+            "regionType": "COUNTRY",
+            "regionId": "MA"
+          },
+          {
+            "regionName": "Ireland",
+            "regionType": "COUNTRY",
+            "regionId": "IE"
+          },
+          {
+            "regionName": "Burundi",
+            "regionType": "COUNTRY",
+            "regionId": "BI"
+          },
+          {
+            "regionName": "Saint Vincent and the Grenadines",
+            "regionType": "COUNTRY",
+            "regionId": "VC"
+          },
+          {
+            "regionName": "Netherlands",
+            "regionType": "COUNTRY",
+            "regionId": "NL"
+          },
+          {
+            "regionName": "Slovakia",
+            "regionType": "COUNTRY",
+            "regionId": "SK"
+          },
+          {
+            "regionName": "Slovenia",
+            "regionType": "COUNTRY",
+            "regionId": "SI"
+          },
+          {
+            "regionName": "Equatorial Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GQ"
+          },
+          {
+            "regionName": "Thailand",
+            "regionType": "COUNTRY",
+            "regionId": "TH"
+          },
+          {
+            "regionName": "Mauritania",
+            "regionType": "COUNTRY",
+            "regionId": "MR"
+          },
+          {
+            "regionName": "Belize",
+            "regionType": "COUNTRY",
+            "regionId": "BZ"
+          },
+          {
+            "regionName": "Philippines",
+            "regionType": "COUNTRY",
+            "regionId": "PH"
+          },
+          {
+            "regionName": "Aruba",
+            "regionType": "COUNTRY",
+            "regionId": "AW"
+          },
+          {
+            "regionName": "Democratic Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CD"
+          },
+          {
+            "regionType": "COUNTRY",
+            "regionId": "UY"
+          },
+          {
+            "regionName": "Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CG"
+          },
+          {
+            "regionName": "American Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "AS"
+          },
+          {
+            "regionName": "Sweden",
+            "regionType": "COUNTRY",
+            "regionId": "SE"
+          },
+          {
+            "regionName": "Colombia",
+            "regionType": "COUNTRY",
+            "regionId": "CO"
+          },
+          {
+            "regionName": "Spain",
+            "regionType": "COUNTRY",
+            "regionId": "ES"
+          },
+          {
+            "regionName": "Iceland",
+            "regionType": "COUNTRY",
+            "regionId": "IS"
+          },
+          {
+            "regionName": "Estonia",
+            "regionType": "COUNTRY",
+            "regionId": "EE"
+          },
+          {
+            "regionName": "Macedonia",
+            "regionType": "COUNTRY",
+            "regionId": "MK"
+          },
+          {
+            "regionName": "Belgium",
+            "regionType": "COUNTRY",
+            "regionId": "BE"
+          },
+          {
+            "regionName": "Israel",
+            "regionType": "COUNTRY",
+            "regionId": "IL"
+          },
+          {
+            "regionName": "Kuwait",
+            "regionType": "COUNTRY",
+            "regionId": "KW"
+          },
+          {
+            "regionName": "Liechtenstein",
+            "regionType": "COUNTRY",
+            "regionId": "LI"
+          },
+          {
+            "regionName": "Benin",
+            "regionType": "COUNTRY",
+            "regionId": "BJ"
+          },
+          {
+            "regionName": "Algeria",
+            "regionType": "COUNTRY",
+            "regionId": "DZ"
+          },
+          {
+            "regionName": "Bermuda",
+            "regionType": "COUNTRY",
+            "regionId": "BM"
+          },
+          {
+            "regionName": "Montserrat",
+            "regionType": "COUNTRY",
+            "regionId": "MS"
+          },
+          {
+            "regionName": "Zambia",
+            "regionType": "COUNTRY",
+            "regionId": "ZM"
+          },
+          {
+            "regionName": "South Korea",
+            "regionType": "COUNTRY",
+            "regionId": "KR"
+          },
+          {
+            "regionName": "Antigua and Barbuda",
+            "regionType": "COUNTRY",
+            "regionId": "AG"
+          },
+          {
+            "regionName": "Vanuatu",
+            "regionType": "COUNTRY",
+            "regionId": "VU"
+          },
+          {
+            "regionName": "Ecuador",
+            "regionType": "COUNTRY",
+            "regionId": "EC"
+          },
+          {
+            "regionName": "Albania",
+            "regionType": "COUNTRY",
+            "regionId": "AL"
+          },
+          {
+            "regionName": "Italy",
+            "regionType": "COUNTRY",
+            "regionId": "IT"
+          },
+          {
+            "regionName": "Swaziland",
+            "regionType": "COUNTRY",
+            "regionId": "SZ"
+          },
+          {
+            "regionName": "Ethiopia",
+            "regionType": "COUNTRY",
+            "regionId": "ET"
+          },
+          {
+            "regionName": "Monaco",
+            "regionType": "COUNTRY",
+            "regionId": "MC"
+          },
+          {
+            "regionName": "Niger",
+            "regionType": "COUNTRY",
+            "regionId": "NE"
+          },
+          {
+            "regionName": "Tanzania",
+            "regionType": "COUNTRY",
+            "regionId": "TZ"
+          },
+          {
+            "regionName": "Pakistan",
+            "regionType": "COUNTRY",
+            "regionId": "PK"
+          },
+          {
+            "regionName": "Burkina Faso",
+            "regionType": "COUNTRY",
+            "regionId": "BF"
+          },
+          {
+            "regionName": "Panama",
+            "regionType": "COUNTRY",
+            "regionId": "PA"
+          },
+          {
+            "regionName": "Singapore",
+            "regionType": "COUNTRY",
+            "regionId": "SG"
+          },
+          {
+            "regionName": "Kyrgyzstan",
+            "regionType": "COUNTRY",
+            "regionId": "KG"
+          },
+          {
+            "regionName": "Switzerland",
+            "regionType": "COUNTRY",
+            "regionId": "CH"
+          },
+          {
+            "regionName": "Ghana",
+            "regionType": "COUNTRY",
+            "regionId": "GH"
+          },
+          {
+            "regionName": "Djibouti",
+            "regionType": "COUNTRY",
+            "regionId": "DJ"
+          },
+          {
+            "regionName": "Puerto Rico",
+            "regionType": "COUNTRY",
+            "regionId": "PR"
+          },
+          {
+            "regionName": "Chile",
+            "regionType": "COUNTRY",
+            "regionId": "CL"
+          },
+          {
+            "regionName": "Cape Verde Islands",
+            "regionType": "COUNTRY",
+            "regionId": "CV"
+          },
+          {
+            "regionName": "Moldova",
+            "regionType": "COUNTRY",
+            "regionId": "MD"
+          },
+          {
+            "regionName": "Mali",
+            "regionType": "COUNTRY",
+            "regionId": "ML"
+          },
+          {
+            "regionName": "Botswana",
+            "regionType": "COUNTRY",
+            "regionId": "BW"
+          },
+          {
+            "regionName": "Republic of Croatia",
+            "regionType": "COUNTRY",
+            "regionId": "HR"
+          },
+          {
+            "regionName": "Cambodia",
+            "regionType": "COUNTRY",
+            "regionId": "KH"
+          },
+          {
+            "regionName": "Madagascar",
+            "regionType": "COUNTRY",
+            "regionId": "MG"
+          },
+          {
+            "regionName": "Indonesia",
+            "regionType": "COUNTRY",
+            "regionId": "ID"
+          },
+          {
+            "regionName": "Portugal",
+            "regionType": "COUNTRY",
+            "regionId": "PT"
+          },
+          {
+            "regionName": "Malta",
+            "regionType": "COUNTRY",
+            "regionId": "MT"
+          },
+          {
+            "regionName": "Tajikistan",
+            "regionType": "COUNTRY",
+            "regionId": "TJ"
+          },
+          {
+            "regionName": "Vietnam",
+            "regionType": "COUNTRY",
+            "regionId": "VN"
+          },
+          {
+            "regionName": "Cayman Islands",
+            "regionType": "COUNTRY",
+            "regionId": "KY"
+          },
+          {
+            "regionName": "Paraguay",
+            "regionType": "COUNTRY",
+            "regionId": "PY"
+          },
+          {
+            "regionName": "Lebanon",
+            "regionType": "COUNTRY",
+            "regionId": "LB"
+          },
+          {
+            "regionName": "Cyprus",
+            "regionType": "COUNTRY",
+            "regionId": "CY"
+          },
+          {
+            "regionName": "Seychelles",
+            "regionType": "COUNTRY",
+            "regionId": "SC"
+          },
+          {
+            "regionName": "Liberia",
+            "regionType": "COUNTRY",
+            "regionId": "LR"
+          },
+          {
+            "regionName": "Rwanda",
+            "regionType": "COUNTRY",
+            "regionId": "RW"
+          },
+          {
+            "regionName": "Bangladesh",
+            "regionType": "COUNTRY",
+            "regionId": "BD"
+          },
+          {
+            "regionName": "Bolivia",
+            "regionType": "COUNTRY",
+            "regionId": "BO"
+          },
+          {
+            "regionName": "Maldives",
+            "regionType": "COUNTRY",
+            "regionId": "MV"
+          },
+          {
+            "regionName": "Australia",
+            "regionType": "COUNTRY",
+            "regionId": "AU"
+          },
+          {
+            "regionName": "Austria",
+            "regionType": "COUNTRY",
+            "regionId": "AT"
+          },
+          {
+            "regionName": "Gibraltar",
+            "regionType": "COUNTRY",
+            "regionId": "GI"
+          },
+          {
+            "regionName": "Sri Lanka",
+            "regionType": "COUNTRY",
+            "regionId": "LK"
+          },
+          {
+            "regionName": "Central African Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CF"
+          },
+          {
+            "regionName": "Gabon Republic",
+            "regionType": "COUNTRY",
+            "regionId": "GA"
+          },
+          {
+            "regionName": "Lesotho",
+            "regionType": "COUNTRY",
+            "regionId": "LS"
+          },
+          {
+            "regionName": "Nigeria",
+            "regionType": "COUNTRY",
+            "regionId": "NG"
+          },
+          {
+            "regionName": "Zimbabwe",
+            "regionType": "COUNTRY",
+            "regionId": "ZW"
+          },
+          {
+            "regionName": "Mauritius",
+            "regionType": "COUNTRY",
+            "regionId": "MU"
+          },
+          {
+            "regionName": "Saint Lucia",
+            "regionType": "COUNTRY",
+            "regionId": "LC"
+          },
+          {
+            "regionName": "Bulgaria",
+            "regionType": "COUNTRY",
+            "regionId": "BG"
+          },
+          {
+            "regionName": "Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GN"
+          },
+          {
+            "regionName": "Czech Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CZ"
+          },
+          {
+            "regionName": "Norway",
+            "regionType": "COUNTRY",
+            "regionId": "NO"
+          },
+          {
+            "regionName": "Côte d'Ivoire (Ivory Coast)",
+            "regionType": "COUNTRY",
+            "regionId": "CI"
+          },
+          {
+            "regionName": "Canada",
+            "regionType": "COUNTRY",
+            "regionId": "CA"
+          },
+          {
+            "regionName": "Turks and Caicos Islands",
+            "regionType": "COUNTRY",
+            "regionId": "TC"
+          },
+          {
+            "regionName": "Chad",
+            "regionType": "COUNTRY",
+            "regionId": "TD"
+          },
+          {
+            "regionName": "Kiribati",
+            "regionType": "COUNTRY",
+            "regionId": "KI"
+          },
+          {
+            "regionName": "Andorra",
+            "regionType": "COUNTRY",
+            "regionId": "AD"
+          },
+          {
+            "regionName": "Turkmenistan",
+            "regionType": "COUNTRY",
+            "regionId": "TM"
+          },
+          {
+            "regionName": "Grenada",
+            "regionType": "COUNTRY",
+            "regionId": "GD"
+          },
+          {
+            "regionName": "Greece",
+            "regionType": "COUNTRY",
+            "regionId": "GR"
+          },
+          {
+            "regionName": "Romania",
+            "regionType": "COUNTRY",
+            "regionId": "RO"
+          },
+          {
+            "regionName": "Costa Rica",
+            "regionType": "COUNTRY",
+            "regionId": "CR"
+          },
+          {
+            "regionName": "India",
+            "regionType": "COUNTRY",
+            "regionId": "IN"
+          },
+          {
+            "regionName": "Greenland",
+            "regionType": "COUNTRY",
+            "regionId": "GL"
+          },
+          {
+            "regionName": "Yemen",
+            "regionType": "COUNTRY",
+            "regionId": "YE"
+          },
+          {
+            "regionName": "Mexico",
+            "regionType": "COUNTRY",
+            "regionId": "MX"
+          },
+          {
+            "regionName": "Afghanistan",
+            "regionType": "COUNTRY",
+            "regionId": "AF"
+          },
+          {
+            "regionName": "Serbia",
+            "regionType": "COUNTRY",
+            "regionId": "RS"
+          },
+          {
+            "regionName": "Kazakhstan",
+            "regionType": "COUNTRY",
+            "regionId": "KZ"
+          },
+          {
+            "regionName": "Montenegro",
+            "regionType": "COUNTRY",
+            "regionId": "ME"
+          },
+          {
+            "regionName": "Japan",
+            "regionType": "COUNTRY",
+            "regionId": "JP"
+          },
+          {
+            "regionName": "Nepal",
+            "regionType": "COUNTRY",
+            "regionId": "NP"
+          },
+          {
+            "regionName": "Bahamas",
+            "regionType": "COUNTRY",
+            "regionId": "BS"
+          },
+          {
+            "regionName": "Lithuania",
+            "regionType": "COUNTRY",
+            "regionId": "LT"
+          },
+          {
+            "regionName": "Bahrain",
+            "regionType": "COUNTRY",
+            "regionId": "BH"
+          },
+          {
+            "regionName": "Trinidad and Tobago",
+            "regionType": "COUNTRY",
+            "regionId": "TT"
+          },
+          {
+            "regionName": "Palau",
+            "regionType": "COUNTRY",
+            "regionId": "PW"
+          },
+          {
+            "regionName": "Malawi",
+            "regionType": "COUNTRY",
+            "regionId": "MW"
+          },
+          {
+            "regionName": "Bosnia and Herzegovina",
+            "regionType": "COUNTRY",
+            "regionId": "BA"
+          },
+          {
+            "regionName": "Hungary",
+            "regionType": "COUNTRY",
+            "regionId": "HU"
+          },
+          {
+            "regionName": "Angola",
+            "regionType": "COUNTRY",
+            "regionId": "AO"
+          },
+          {
+            "regionName": "Nicaragua",
+            "regionType": "COUNTRY",
+            "regionId": "NI"
+          },
+          {
+            "regionName": "Finland",
+            "regionType": "COUNTRY",
+            "regionId": "FI"
+          },
+          {
+            "regionName": "Tunisia",
+            "regionType": "COUNTRY",
+            "regionId": "TN"
+          },
+          {
+            "regionName": "Luxembourg",
+            "regionType": "COUNTRY",
+            "regionId": "LU"
+          },
+          {
+            "regionName": "Uganda",
+            "regionType": "COUNTRY",
+            "regionId": "UG"
+          },
+          {
+            "regionName": "Brazil",
+            "regionType": "COUNTRY",
+            "regionId": "BR"
+          },
+          {
+            "regionName": "Turkey",
+            "regionType": "COUNTRY",
+            "regionId": "TR"
+          },
+          {
+            "regionName": "Western Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "WS"
+          },
+          {
+            "regionName": "France",
+            "regionType": "COUNTRY",
+            "regionId": "FR"
+          },
+          {
+            "regionName": "Egypt",
+            "regionType": "COUNTRY",
+            "regionId": "EG"
+          },
+          {
+            "regionName": "Latvia",
+            "regionType": "COUNTRY",
+            "regionId": "LV"
+          },
+          {
+            "regionName": "Jamaica",
+            "regionType": "COUNTRY",
+            "regionId": "JM"
+          },
+          {
+            "regionName": "Mozambique",
+            "regionType": "COUNTRY",
+            "regionId": "MZ"
+          },
+          {
+            "regionName": "Namibia",
+            "regionType": "COUNTRY",
+            "regionId": "NA"
+          },
+          {
+            "regionName": "Peru",
+            "regionType": "COUNTRY",
+            "regionId": "PE"
+          },
+          {
+            "regionName": "Virgin Islands (U.S.)",
+            "regionType": "COUNTRY",
+            "regionId": "VI"
+          },
+          {
+            "regionName": "Brunei Darussalam",
+            "regionType": "COUNTRY",
+            "regionId": "BN"
+          },
+          {
+            "regionName": "Honduras",
+            "regionType": "COUNTRY",
+            "regionId": "HN"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "14 CALENDAR_DAY",
+        "returnShippingPayer": "BUYER",
+        "estimatedAvailableQuantity": 10,
+        "estimatedRemainingQuantity": 10,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Bayville",
+        "itemLocationState": "New Jersey",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|317253193929|0",
+        "title": "superbox Elite Pro S6 MediaPlayer California Shipment PvP Movies TV SPORTS",
+        "leafCategoryIds": [
+          "168058"
+        ],
+        "categories": [
+          {
+            "categoryId": "168058",
+            "categoryName": "Media Streamers"
+          },
+          {
+            "categoryId": "293",
+            "categoryName": "Consumer Electronics"
+          },
+          {
+            "categoryId": "32852",
+            "categoryName": "TV, Video & Home Audio"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/H4EAAeSwMolovi3F/s-l225.jpg"
+        },
+        "price": {
+          "value": "299.39",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317253193929%7C0",
+        "seller": {
+          "username": "superbox_authorised_seller",
+          "feedbackPercentage": "98.4",
+          "feedbackScore": 312
+        },
+        "marketingPrice": {
+          "originalPrice": {
+            "value": "329.00",
+            "currency": "USD"
+          },
+          "discountPercentage": "9.0",
+          "discountAmount": {
+            "value": "29.61",
+            "currency": "USD"
+          },
+          "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/H4EAAeSwMolovi3F/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/317253193929?hash=item49ddc390c9:g:H4EAAeSwMolovi3F",
+        "itemLocation": {
+          "postalCode": "917**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/6zQAAeSwrlRovi3F/s-l1600.jpg",
+            "width": 1500,
+            "height": 1500
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/6N4AAeSwufBovi3E/s-l1600.jpg",
+            "width": 1500,
+            "height": 1500
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/SlEAAeSwnPpovi3F/s-l1600.jpg",
+            "width": 1500,
+            "height": 1500
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "317253193929",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-09-08T01:19:27.000Z",
+        "itemCreationDate": "2025-09-08T01:19:27.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 487,
+        "imageUrl": "https://i.ebayimg.com/images/g/H4EAAeSwMolovi3F/s-l1600.jpg",
+        "shortDescription": "The stable Superbox Elite S6 PRO brings you the most advanced technology. 2T2R( 2 Transmitter, 2 receivers) antenna and 2.4G/5G Dual Band WiFi. Quad-core ARM Cortex-A53 Processor.",
+        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|Media Streamers",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Economy Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "BUYER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 11,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "West Covina",
+        "itemLocationState": "California",
         "itemLocationCountry": "US"
       },
       {
@@ -1618,14 +2907,14 @@
         "seller": {
           "username": "superbox_authorised_seller",
           "feedbackPercentage": "98.4",
-          "feedbackScore": 311
+          "feedbackScore": 312
         },
         "marketingPrice": {
           "originalPrice": {
             "value": "399.00",
             "currency": "USD"
           },
-          "discountPercentage": "7",
+          "discountPercentage": "7.0",
           "discountAmount": {
             "value": "27.93",
             "currency": "USD"
@@ -1765,315 +3054,6 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|317253193929|0",
-        "title": "superbox Elite Pro S6 MediaPlayer California Shipment PvP Movies TV SPORTS",
-        "leafCategoryIds": [
-          "168058"
-        ],
-        "categories": [
-          {
-            "categoryId": "168058",
-            "categoryName": "Media Streamers"
-          },
-          {
-            "categoryId": "293",
-            "categoryName": "Consumer Electronics"
-          },
-          {
-            "categoryId": "32852",
-            "categoryName": "TV, Video & Home Audio"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/H4EAAeSwMolovi3F/s-l225.jpg"
-        },
-        "price": {
-          "value": "299.39",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317253193929%7C0",
-        "seller": {
-          "username": "superbox_authorised_seller",
-          "feedbackPercentage": "98.4",
-          "feedbackScore": 311
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "329.00",
-            "currency": "USD"
-          },
-          "discountPercentage": "9",
-          "discountAmount": {
-            "value": "29.61",
-            "currency": "USD"
-          },
-          "priceTreatment": "MARKDOWN"
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/H4EAAeSwMolovi3F/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/317253193929?hash=item49ddc390c9:g:H4EAAeSwMolovi3F",
-        "itemLocation": {
-          "postalCode": "917**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/6zQAAeSwrlRovi3F/s-l1600.jpg",
-            "width": 1500,
-            "height": 1500
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/6N4AAeSwufBovi3E/s-l1600.jpg",
-            "width": 1500,
-            "height": 1500
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/SlEAAeSwnPpovi3F/s-l1600.jpg",
-            "width": 1500,
-            "height": 1500
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "317253193929",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-09-08T01:19:27.000Z",
-        "itemCreationDate": "2025-09-08T01:19:27.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 486,
-        "imageUrl": "https://i.ebayimg.com/images/g/H4EAAeSwMolovi3F/s-l1600.jpg",
-        "shortDescription": "The stable Superbox Elite S6 PRO brings you the most advanced technology. 2T2R( 2 Transmitter, 2 receivers) antenna and 2.4G/5G Dual Band WiFi. Quad-core ARM Cortex-A53 Processor.",
-        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|Media Streamers",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Economy Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 12,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "West Covina",
-        "itemLocationState": "California",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|187572841685|695415898868",
-        "title": "4K HDMI Cable Splitter Adapter 2.0 Converter 1 In 2 Out 1 Male to 2 Female lot",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=187572841685",
-        "leafCategoryIds": [
-          "32834"
-        ],
-        "categories": [
-          {
-            "categoryId": "32834",
-            "categoryName": "Video Cables & Interconnects"
-          },
-          {
-            "categoryId": "293",
-            "categoryName": "Consumer Electronics"
-          },
-          {
-            "categoryId": "14961",
-            "categoryName": "TV, Video & Audio Accessories"
-          },
-          {
-            "categoryId": "32852",
-            "categoryName": "TV, Video & Home Audio"
-          },
-          {
-            "categoryId": "184975",
-            "categoryName": "TV & Video Accessories"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/JTIAAeSwz-poyRIW/s-l225.jpg"
-        },
-        "price": {
-          "value": "380.19",
-          "currency": "USD"
-        },
-        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187572841685%7C695415898868",
-        "seller": {
-          "username": "catboutique",
-          "feedbackPercentage": "98.0",
-          "feedbackScore": 19767
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "475.24",
-            "currency": "USD"
-          },
-          "discountPercentage": "20",
-          "discountAmount": {
-            "value": "95.05",
-            "currency": "USD"
-          },
-          "priceTreatment": "MARKDOWN"
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/JTIAAeSwz-poyRIW/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-28T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/187572841685?hash=item2bac366cd5:g:JTIAAeSwz-poyRIW",
-        "itemLocation": {
-          "postalCode": "142**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/KCsAAOSwScdoJDYm/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/WaYAAOSwYdpoJDYn/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/EyYAAOSwpnJoJDYn/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/OZYAAOSwLQ9oJDYn/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/vn8AAOSwfDtoJDYo/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/EN0AAOSwfhloJDYp/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/ndYAAOSwEOhfOXFp/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/K6QAAOSwtrdfOXFq/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/G-8AAOSwZ9VfOXFc/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/Cu0AAOSwoWFfOXFi/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/l~IAAOSwVRNfOXFl/s-l1600.jpg",
-            "width": 1500,
-            "height": 1500
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/KtgAAOSw2GxfOXFu/s-l1600.jpg",
-            "width": 1200,
-            "height": 1200
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/yDIAAOSwwy5oJDYp/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "187572841685",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-09-16T07:30:32.000Z",
-        "itemCreationDate": "2025-09-16T07:30:32.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 0,
-        "imageUrl": "https://i.ebayimg.com/images/g/JTIAAeSwz-poyRIW/s-l1600.jpg",
-        "shortDescription": "💜 Supports up to 4K Resolution. 💜 Supports all common resolution 480i/480p/720i/720p/1080i/1080p/1440p/2160p/4K.",
-        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|TV, Video & Audio Accessories|TV & Video Accessories|Video Cables & Interconnects",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "SELLER",
-        "estimatedAvailableQuantity": 5,
-        "estimatedRemainingQuantity": 5,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Buffalo",
-        "itemLocationState": "New York",
-        "itemLocationCountry": "US"
-      },
-      {
         "itemId": "v1|335396584660|545062341506",
         "title": "10-50Pcs AG13 LR44 A76 357 357A LR1154 SR1154 SR44 1.5V Button Battery Coin Cell",
         "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=335396584660",
@@ -2098,7 +3078,7 @@
           "imageUrl": "https://i.ebayimg.com/images/g/iXEAAOSwh21mRtkh/s-l225.jpg"
         },
         "price": {
-          "value": "6.99",
+          "value": "2.99",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
@@ -2106,7 +3086,7 @@
         "seller": {
           "username": "dazzlegames",
           "feedbackPercentage": "98.2",
-          "feedbackScore": 395672
+          "feedbackScore": 395677
         },
         "condition": "New",
         "conditionId": "1000",
@@ -2143,8 +3123,8 @@
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 562,
-        "imageUrl": "https://i.ebayimg.com/images/g/dbcAAOSwvUxm2bhF/s-l1600.jpg",
+        "quantitySold": 13307,
+        "imageUrl": "https://i.ebayimg.com/images/g/LBsAAOSwu2RmRtmw/s-l1600.jpg",
         "shortDescription": "Compatible Models: A76, A76-1,1166, 1166A, 1107SO, 1131SO, 157, 303, 357, 357A, 675, 76A, CA18, CA19, CX44, D357/303,G13,G13A,GP76A,GPA76,GP357,L1154,LR1154,LR44,LR44H,PX76,PX76A,RW82,S76,SR44,SR44W,SR1154,SP357,V357,V13GA.",
         "categoryPath": "Consumer Electronics|Multipurpose Batteries & Power|Single Use Batteries",
         "shippingCost": {
@@ -3072,7 +4052,7 @@
         "returnPeriod": "undefined undefined",
         "availabilityThreshold": 10,
         "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 3438,
+        "estimatedRemainingQuantity": 9453,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -3113,7 +4093,7 @@
         "seller": {
           "username": "veraboutique",
           "feedbackPercentage": "99.5",
-          "feedbackScore": 48525
+          "feedbackScore": 48531
         },
         "condition": "New",
         "conditionId": "1000",
@@ -3161,7 +4141,7 @@
         "topRatedBuyingExperience": true,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 619,
+        "quantitySold": 1958,
         "imageUrl": "https://i.ebayimg.com/images/g/06gAAeSwvfdoqP0K/s-l1600.jpg",
         "shortDescription": "Equivalent Battery Types: CR2032 ECR2032 CR 2032 ECR 2032 DL2032. Replaces CR2032 ECR2032 CR 2032 ECR 2032 DL2032. When you want big power for your small electronics, Duracell2032 to the rescue! Battery size: CR2032.",
         "categoryPath": "Consumer Electronics|Multipurpose Batteries & Power|Single Use Batteries",
@@ -3181,987 +4161,12 @@
         "returnPeriod": "60 CALENDAR_DAY",
         "returnShippingPayer": "SELLER",
         "estimatedAvailableQuantity": 9,
-        "estimatedRemainingQuantity": 9,
+        "estimatedRemainingQuantity": 49,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
         "itemLocationCity": "Boca Raton",
         "itemLocationState": "Florida",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|406303103213|0",
-        "title": "🔥vSeeBox V5 PRO - FREE SHIPPING🏈",
-        "leafCategoryIds": [
-          "168058"
-        ],
-        "categories": [
-          {
-            "categoryId": "168058",
-            "categoryName": "Media Streamers"
-          },
-          {
-            "categoryId": "293",
-            "categoryName": "Consumer Electronics"
-          },
-          {
-            "categoryId": "32852",
-            "categoryName": "TV, Video & Home Audio"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/qP4AAeSwIxVo37QQ/s-l225.jpg"
-        },
-        "price": {
-          "value": "210.00",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406303103213%7C0",
-        "seller": {
-          "username": "vseeboxwholesaler",
-          "feedbackPercentage": "99.8",
-          "feedbackScore": 536
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/qP4AAeSwIxVo37QQ/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-29T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/406303103213?hash=item5e998d58ed:g:qP4AAeSwIxVo37QQ",
-        "itemLocation": {
-          "postalCode": "087**",
-          "country": "US"
-        },
-        "adultOnly": false,
-        "legacyItemId": "406303103213",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-10-16T15:49:09.000Z",
-        "itemCreationDate": "2025-10-19T11:58:56.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 3,
-        "imageUrl": "https://i.ebayimg.com/images/g/qP4AAeSwIxVo37QQ/s-l1600.jpg",
-        "additionalImages": [],
-        "shortDescription": "🔥vSee Box V5 PRO - FREE SHIPPING🏈. Condition is New. Shipped with USPS Media Mail.",
-        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|Media Streamers",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          },
-          {
-            "regionName": "Denmark",
-            "regionType": "COUNTRY",
-            "regionId": "DK"
-          },
-          {
-            "regionName": "Guatemala",
-            "regionType": "COUNTRY",
-            "regionId": "GT"
-          },
-          {
-            "regionName": "New Zealand",
-            "regionType": "COUNTRY",
-            "regionId": "NZ"
-          },
-          {
-            "regionName": "Fiji",
-            "regionType": "COUNTRY",
-            "regionId": "FJ"
-          },
-          {
-            "regionName": "Papua New Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "PG"
-          },
-          {
-            "regionName": "Solomon Islands",
-            "regionType": "COUNTRY",
-            "regionId": "SB"
-          },
-          {
-            "regionName": "Vatican City State",
-            "regionType": "COUNTRY",
-            "regionId": "VA"
-          },
-          {
-            "regionName": "Sierra Leone",
-            "regionType": "COUNTRY",
-            "regionId": "SL"
-          },
-          {
-            "regionName": "Nauru",
-            "regionType": "COUNTRY",
-            "regionId": "NR"
-          },
-          {
-            "regionName": "Wallis and Futuna",
-            "regionType": "COUNTRY",
-            "regionId": "WF"
-          },
-          {
-            "regionName": "Marshall Islands",
-            "regionType": "COUNTRY",
-            "regionId": "MH"
-          },
-          {
-            "regionName": "Anguilla",
-            "regionType": "COUNTRY",
-            "regionId": "AI"
-          },
-          {
-            "regionName": "El Salvador",
-            "regionType": "COUNTRY",
-            "regionId": "SV"
-          },
-          {
-            "regionName": "Gambia",
-            "regionType": "COUNTRY",
-            "regionId": "GM"
-          },
-          {
-            "regionName": "Guam",
-            "regionType": "COUNTRY",
-            "regionId": "GU"
-          },
-          {
-            "regionName": "Micronesia",
-            "regionType": "COUNTRY",
-            "regionId": "FM"
-          },
-          {
-            "regionName": "Dominican Republic",
-            "regionType": "COUNTRY",
-            "regionId": "DO"
-          },
-          {
-            "regionName": "Cameroon",
-            "regionType": "COUNTRY",
-            "regionId": "CM"
-          },
-          {
-            "regionName": "Guyana",
-            "regionType": "COUNTRY",
-            "regionId": "GY"
-          },
-          {
-            "regionName": "Taiwan",
-            "regionType": "COUNTRY",
-            "regionId": "TW"
-          },
-          {
-            "regionName": "Azerbaijan Republic",
-            "regionType": "COUNTRY",
-            "regionId": "AZ"
-          },
-          {
-            "regionName": "Poland",
-            "regionType": "COUNTRY",
-            "regionId": "PL"
-          },
-          {
-            "regionName": "Georgia",
-            "regionType": "COUNTRY",
-            "regionId": "GE"
-          },
-          {
-            "regionName": "Oman",
-            "regionType": "COUNTRY",
-            "regionId": "OM"
-          },
-          {
-            "regionName": "Suriname",
-            "regionType": "COUNTRY",
-            "regionId": "SR"
-          },
-          {
-            "regionName": "Tonga",
-            "regionType": "COUNTRY",
-            "regionId": "TO"
-          },
-          {
-            "regionName": "United Arab Emirates",
-            "regionType": "COUNTRY",
-            "regionId": "AE"
-          },
-          {
-            "regionName": "Kenya",
-            "regionType": "COUNTRY",
-            "regionId": "KE"
-          },
-          {
-            "regionName": "Argentina",
-            "regionType": "COUNTRY",
-            "regionId": "AR"
-          },
-          {
-            "regionName": "San Marino",
-            "regionType": "COUNTRY",
-            "regionId": "SM"
-          },
-          {
-            "regionName": "Guinea-Bissau",
-            "regionType": "COUNTRY",
-            "regionId": "GW"
-          },
-          {
-            "regionName": "Armenia",
-            "regionType": "COUNTRY",
-            "regionId": "AM"
-          },
-          {
-            "regionName": "Uzbekistan",
-            "regionType": "COUNTRY",
-            "regionId": "UZ"
-          },
-          {
-            "regionName": "Bhutan",
-            "regionType": "COUNTRY",
-            "regionId": "BT"
-          },
-          {
-            "regionName": "Eritrea",
-            "regionType": "COUNTRY",
-            "regionId": "ER"
-          },
-          {
-            "regionName": "Senegal",
-            "regionType": "COUNTRY",
-            "regionId": "SN"
-          },
-          {
-            "regionName": "Togo",
-            "regionType": "COUNTRY",
-            "regionId": "TG"
-          },
-          {
-            "regionName": "Saint Kitts-Nevis",
-            "regionType": "COUNTRY",
-            "regionId": "KN"
-          },
-          {
-            "regionName": "Morocco",
-            "regionType": "COUNTRY",
-            "regionId": "MA"
-          },
-          {
-            "regionName": "Ireland",
-            "regionType": "COUNTRY",
-            "regionId": "IE"
-          },
-          {
-            "regionName": "Burundi",
-            "regionType": "COUNTRY",
-            "regionId": "BI"
-          },
-          {
-            "regionName": "Saint Vincent and the Grenadines",
-            "regionType": "COUNTRY",
-            "regionId": "VC"
-          },
-          {
-            "regionName": "Netherlands",
-            "regionType": "COUNTRY",
-            "regionId": "NL"
-          },
-          {
-            "regionName": "Slovakia",
-            "regionType": "COUNTRY",
-            "regionId": "SK"
-          },
-          {
-            "regionName": "Slovenia",
-            "regionType": "COUNTRY",
-            "regionId": "SI"
-          },
-          {
-            "regionName": "Equatorial Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GQ"
-          },
-          {
-            "regionName": "Thailand",
-            "regionType": "COUNTRY",
-            "regionId": "TH"
-          },
-          {
-            "regionName": "Mauritania",
-            "regionType": "COUNTRY",
-            "regionId": "MR"
-          },
-          {
-            "regionName": "Belize",
-            "regionType": "COUNTRY",
-            "regionId": "BZ"
-          },
-          {
-            "regionName": "Philippines",
-            "regionType": "COUNTRY",
-            "regionId": "PH"
-          },
-          {
-            "regionName": "Aruba",
-            "regionType": "COUNTRY",
-            "regionId": "AW"
-          },
-          {
-            "regionName": "Democratic Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CD"
-          },
-          {
-            "regionType": "COUNTRY",
-            "regionId": "UY"
-          },
-          {
-            "regionName": "Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CG"
-          },
-          {
-            "regionName": "American Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "AS"
-          },
-          {
-            "regionName": "Sweden",
-            "regionType": "COUNTRY",
-            "regionId": "SE"
-          },
-          {
-            "regionName": "Colombia",
-            "regionType": "COUNTRY",
-            "regionId": "CO"
-          },
-          {
-            "regionName": "Spain",
-            "regionType": "COUNTRY",
-            "regionId": "ES"
-          },
-          {
-            "regionName": "Iceland",
-            "regionType": "COUNTRY",
-            "regionId": "IS"
-          },
-          {
-            "regionName": "Estonia",
-            "regionType": "COUNTRY",
-            "regionId": "EE"
-          },
-          {
-            "regionName": "Macedonia",
-            "regionType": "COUNTRY",
-            "regionId": "MK"
-          },
-          {
-            "regionName": "Belgium",
-            "regionType": "COUNTRY",
-            "regionId": "BE"
-          },
-          {
-            "regionName": "Israel",
-            "regionType": "COUNTRY",
-            "regionId": "IL"
-          },
-          {
-            "regionName": "Kuwait",
-            "regionType": "COUNTRY",
-            "regionId": "KW"
-          },
-          {
-            "regionName": "Liechtenstein",
-            "regionType": "COUNTRY",
-            "regionId": "LI"
-          },
-          {
-            "regionName": "Benin",
-            "regionType": "COUNTRY",
-            "regionId": "BJ"
-          },
-          {
-            "regionName": "Algeria",
-            "regionType": "COUNTRY",
-            "regionId": "DZ"
-          },
-          {
-            "regionName": "Bermuda",
-            "regionType": "COUNTRY",
-            "regionId": "BM"
-          },
-          {
-            "regionName": "Montserrat",
-            "regionType": "COUNTRY",
-            "regionId": "MS"
-          },
-          {
-            "regionName": "Zambia",
-            "regionType": "COUNTRY",
-            "regionId": "ZM"
-          },
-          {
-            "regionName": "South Korea",
-            "regionType": "COUNTRY",
-            "regionId": "KR"
-          },
-          {
-            "regionName": "Antigua and Barbuda",
-            "regionType": "COUNTRY",
-            "regionId": "AG"
-          },
-          {
-            "regionName": "Vanuatu",
-            "regionType": "COUNTRY",
-            "regionId": "VU"
-          },
-          {
-            "regionName": "Ecuador",
-            "regionType": "COUNTRY",
-            "regionId": "EC"
-          },
-          {
-            "regionName": "Albania",
-            "regionType": "COUNTRY",
-            "regionId": "AL"
-          },
-          {
-            "regionName": "Italy",
-            "regionType": "COUNTRY",
-            "regionId": "IT"
-          },
-          {
-            "regionName": "Swaziland",
-            "regionType": "COUNTRY",
-            "regionId": "SZ"
-          },
-          {
-            "regionName": "Ethiopia",
-            "regionType": "COUNTRY",
-            "regionId": "ET"
-          },
-          {
-            "regionName": "Monaco",
-            "regionType": "COUNTRY",
-            "regionId": "MC"
-          },
-          {
-            "regionName": "Niger",
-            "regionType": "COUNTRY",
-            "regionId": "NE"
-          },
-          {
-            "regionName": "Tanzania",
-            "regionType": "COUNTRY",
-            "regionId": "TZ"
-          },
-          {
-            "regionName": "Pakistan",
-            "regionType": "COUNTRY",
-            "regionId": "PK"
-          },
-          {
-            "regionName": "Burkina Faso",
-            "regionType": "COUNTRY",
-            "regionId": "BF"
-          },
-          {
-            "regionName": "Panama",
-            "regionType": "COUNTRY",
-            "regionId": "PA"
-          },
-          {
-            "regionName": "Singapore",
-            "regionType": "COUNTRY",
-            "regionId": "SG"
-          },
-          {
-            "regionName": "Kyrgyzstan",
-            "regionType": "COUNTRY",
-            "regionId": "KG"
-          },
-          {
-            "regionName": "Switzerland",
-            "regionType": "COUNTRY",
-            "regionId": "CH"
-          },
-          {
-            "regionName": "Ghana",
-            "regionType": "COUNTRY",
-            "regionId": "GH"
-          },
-          {
-            "regionName": "Djibouti",
-            "regionType": "COUNTRY",
-            "regionId": "DJ"
-          },
-          {
-            "regionName": "Puerto Rico",
-            "regionType": "COUNTRY",
-            "regionId": "PR"
-          },
-          {
-            "regionName": "Chile",
-            "regionType": "COUNTRY",
-            "regionId": "CL"
-          },
-          {
-            "regionName": "Cape Verde Islands",
-            "regionType": "COUNTRY",
-            "regionId": "CV"
-          },
-          {
-            "regionName": "Moldova",
-            "regionType": "COUNTRY",
-            "regionId": "MD"
-          },
-          {
-            "regionName": "Mali",
-            "regionType": "COUNTRY",
-            "regionId": "ML"
-          },
-          {
-            "regionName": "Botswana",
-            "regionType": "COUNTRY",
-            "regionId": "BW"
-          },
-          {
-            "regionName": "Republic of Croatia",
-            "regionType": "COUNTRY",
-            "regionId": "HR"
-          },
-          {
-            "regionName": "Cambodia",
-            "regionType": "COUNTRY",
-            "regionId": "KH"
-          },
-          {
-            "regionName": "Madagascar",
-            "regionType": "COUNTRY",
-            "regionId": "MG"
-          },
-          {
-            "regionName": "Indonesia",
-            "regionType": "COUNTRY",
-            "regionId": "ID"
-          },
-          {
-            "regionName": "Portugal",
-            "regionType": "COUNTRY",
-            "regionId": "PT"
-          },
-          {
-            "regionName": "Malta",
-            "regionType": "COUNTRY",
-            "regionId": "MT"
-          },
-          {
-            "regionName": "Tajikistan",
-            "regionType": "COUNTRY",
-            "regionId": "TJ"
-          },
-          {
-            "regionName": "Vietnam",
-            "regionType": "COUNTRY",
-            "regionId": "VN"
-          },
-          {
-            "regionName": "Cayman Islands",
-            "regionType": "COUNTRY",
-            "regionId": "KY"
-          },
-          {
-            "regionName": "Paraguay",
-            "regionType": "COUNTRY",
-            "regionId": "PY"
-          },
-          {
-            "regionName": "Lebanon",
-            "regionType": "COUNTRY",
-            "regionId": "LB"
-          },
-          {
-            "regionName": "Cyprus",
-            "regionType": "COUNTRY",
-            "regionId": "CY"
-          },
-          {
-            "regionName": "Seychelles",
-            "regionType": "COUNTRY",
-            "regionId": "SC"
-          },
-          {
-            "regionName": "Liberia",
-            "regionType": "COUNTRY",
-            "regionId": "LR"
-          },
-          {
-            "regionName": "Rwanda",
-            "regionType": "COUNTRY",
-            "regionId": "RW"
-          },
-          {
-            "regionName": "Bangladesh",
-            "regionType": "COUNTRY",
-            "regionId": "BD"
-          },
-          {
-            "regionName": "Bolivia",
-            "regionType": "COUNTRY",
-            "regionId": "BO"
-          },
-          {
-            "regionName": "Maldives",
-            "regionType": "COUNTRY",
-            "regionId": "MV"
-          },
-          {
-            "regionName": "Australia",
-            "regionType": "COUNTRY",
-            "regionId": "AU"
-          },
-          {
-            "regionName": "Austria",
-            "regionType": "COUNTRY",
-            "regionId": "AT"
-          },
-          {
-            "regionName": "Gibraltar",
-            "regionType": "COUNTRY",
-            "regionId": "GI"
-          },
-          {
-            "regionName": "Sri Lanka",
-            "regionType": "COUNTRY",
-            "regionId": "LK"
-          },
-          {
-            "regionName": "Central African Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CF"
-          },
-          {
-            "regionName": "Gabon Republic",
-            "regionType": "COUNTRY",
-            "regionId": "GA"
-          },
-          {
-            "regionName": "Lesotho",
-            "regionType": "COUNTRY",
-            "regionId": "LS"
-          },
-          {
-            "regionName": "Nigeria",
-            "regionType": "COUNTRY",
-            "regionId": "NG"
-          },
-          {
-            "regionName": "Zimbabwe",
-            "regionType": "COUNTRY",
-            "regionId": "ZW"
-          },
-          {
-            "regionName": "Mauritius",
-            "regionType": "COUNTRY",
-            "regionId": "MU"
-          },
-          {
-            "regionName": "Saint Lucia",
-            "regionType": "COUNTRY",
-            "regionId": "LC"
-          },
-          {
-            "regionName": "Bulgaria",
-            "regionType": "COUNTRY",
-            "regionId": "BG"
-          },
-          {
-            "regionName": "Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GN"
-          },
-          {
-            "regionName": "Czech Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CZ"
-          },
-          {
-            "regionName": "Norway",
-            "regionType": "COUNTRY",
-            "regionId": "NO"
-          },
-          {
-            "regionName": "Côte d'Ivoire (Ivory Coast)",
-            "regionType": "COUNTRY",
-            "regionId": "CI"
-          },
-          {
-            "regionName": "Canada",
-            "regionType": "COUNTRY",
-            "regionId": "CA"
-          },
-          {
-            "regionName": "Turks and Caicos Islands",
-            "regionType": "COUNTRY",
-            "regionId": "TC"
-          },
-          {
-            "regionName": "Chad",
-            "regionType": "COUNTRY",
-            "regionId": "TD"
-          },
-          {
-            "regionName": "Kiribati",
-            "regionType": "COUNTRY",
-            "regionId": "KI"
-          },
-          {
-            "regionName": "Andorra",
-            "regionType": "COUNTRY",
-            "regionId": "AD"
-          },
-          {
-            "regionName": "Turkmenistan",
-            "regionType": "COUNTRY",
-            "regionId": "TM"
-          },
-          {
-            "regionName": "Grenada",
-            "regionType": "COUNTRY",
-            "regionId": "GD"
-          },
-          {
-            "regionName": "Greece",
-            "regionType": "COUNTRY",
-            "regionId": "GR"
-          },
-          {
-            "regionName": "Romania",
-            "regionType": "COUNTRY",
-            "regionId": "RO"
-          },
-          {
-            "regionName": "Costa Rica",
-            "regionType": "COUNTRY",
-            "regionId": "CR"
-          },
-          {
-            "regionName": "India",
-            "regionType": "COUNTRY",
-            "regionId": "IN"
-          },
-          {
-            "regionName": "Greenland",
-            "regionType": "COUNTRY",
-            "regionId": "GL"
-          },
-          {
-            "regionName": "Yemen",
-            "regionType": "COUNTRY",
-            "regionId": "YE"
-          },
-          {
-            "regionName": "Mexico",
-            "regionType": "COUNTRY",
-            "regionId": "MX"
-          },
-          {
-            "regionName": "Afghanistan",
-            "regionType": "COUNTRY",
-            "regionId": "AF"
-          },
-          {
-            "regionName": "Serbia",
-            "regionType": "COUNTRY",
-            "regionId": "RS"
-          },
-          {
-            "regionName": "Kazakhstan",
-            "regionType": "COUNTRY",
-            "regionId": "KZ"
-          },
-          {
-            "regionName": "Montenegro",
-            "regionType": "COUNTRY",
-            "regionId": "ME"
-          },
-          {
-            "regionName": "Japan",
-            "regionType": "COUNTRY",
-            "regionId": "JP"
-          },
-          {
-            "regionName": "Nepal",
-            "regionType": "COUNTRY",
-            "regionId": "NP"
-          },
-          {
-            "regionName": "Bahamas",
-            "regionType": "COUNTRY",
-            "regionId": "BS"
-          },
-          {
-            "regionName": "Lithuania",
-            "regionType": "COUNTRY",
-            "regionId": "LT"
-          },
-          {
-            "regionName": "Bahrain",
-            "regionType": "COUNTRY",
-            "regionId": "BH"
-          },
-          {
-            "regionName": "Trinidad and Tobago",
-            "regionType": "COUNTRY",
-            "regionId": "TT"
-          },
-          {
-            "regionName": "Palau",
-            "regionType": "COUNTRY",
-            "regionId": "PW"
-          },
-          {
-            "regionName": "Malawi",
-            "regionType": "COUNTRY",
-            "regionId": "MW"
-          },
-          {
-            "regionName": "Bosnia and Herzegovina",
-            "regionType": "COUNTRY",
-            "regionId": "BA"
-          },
-          {
-            "regionName": "Hungary",
-            "regionType": "COUNTRY",
-            "regionId": "HU"
-          },
-          {
-            "regionName": "Angola",
-            "regionType": "COUNTRY",
-            "regionId": "AO"
-          },
-          {
-            "regionName": "Nicaragua",
-            "regionType": "COUNTRY",
-            "regionId": "NI"
-          },
-          {
-            "regionName": "Finland",
-            "regionType": "COUNTRY",
-            "regionId": "FI"
-          },
-          {
-            "regionName": "Tunisia",
-            "regionType": "COUNTRY",
-            "regionId": "TN"
-          },
-          {
-            "regionName": "Luxembourg",
-            "regionType": "COUNTRY",
-            "regionId": "LU"
-          },
-          {
-            "regionName": "Uganda",
-            "regionType": "COUNTRY",
-            "regionId": "UG"
-          },
-          {
-            "regionName": "Brazil",
-            "regionType": "COUNTRY",
-            "regionId": "BR"
-          },
-          {
-            "regionName": "Turkey",
-            "regionType": "COUNTRY",
-            "regionId": "TR"
-          },
-          {
-            "regionName": "Western Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "WS"
-          },
-          {
-            "regionName": "France",
-            "regionType": "COUNTRY",
-            "regionId": "FR"
-          },
-          {
-            "regionName": "Egypt",
-            "regionType": "COUNTRY",
-            "regionId": "EG"
-          },
-          {
-            "regionName": "Latvia",
-            "regionType": "COUNTRY",
-            "regionId": "LV"
-          },
-          {
-            "regionName": "Jamaica",
-            "regionType": "COUNTRY",
-            "regionId": "JM"
-          },
-          {
-            "regionName": "Mozambique",
-            "regionType": "COUNTRY",
-            "regionId": "MZ"
-          },
-          {
-            "regionName": "Namibia",
-            "regionType": "COUNTRY",
-            "regionId": "NA"
-          },
-          {
-            "regionName": "Peru",
-            "regionType": "COUNTRY",
-            "regionId": "PE"
-          },
-          {
-            "regionName": "Virgin Islands (U.S.)",
-            "regionType": "COUNTRY",
-            "regionId": "VI"
-          },
-          {
-            "regionName": "Brunei Darussalam",
-            "regionType": "COUNTRY",
-            "regionId": "BN"
-          },
-          {
-            "regionName": "Honduras",
-            "regionType": "COUNTRY",
-            "regionId": "HN"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "14 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "estimatedAvailableQuantity": 11,
-        "estimatedRemainingQuantity": 11,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Bayville",
-        "itemLocationState": "New Jersey",
         "itemLocationCountry": "US"
       },
       {
@@ -4258,7 +4263,7 @@
         "topRatedBuyingExperience": true,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 778,
+        "quantitySold": 782,
         "imageUrl": "https://i.ebayimg.com/images/g/cG0AAeSw7eFoxGDt/s-l1600.jpg",
         "shortDescription": "📺 Full HD 1080p Streaming – Smooth, sharp, and clear. ✅ Google Remote (Voice Remote).",
         "categoryPath": "Consumer Electronics|TV, Video & Home Audio|Media Streamers",
@@ -5128,7 +5133,7 @@
         "returnShippingPayer": "SELLER",
         "availabilityThreshold": 10,
         "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 237,
+        "estimatedRemainingQuantity": 233,
         "deliveryOptions": [
           "SHIP_TO_HOME",
           "SELLER_ARRANGED_LOCAL_PICKUP"
@@ -5183,7 +5188,7 @@
           "imageUrl": "https://i.ebayimg.com/images/g/RkEAAeSw469o1iMG/s-l225.jpg"
         },
         "price": {
-          "value": "261.29",
+          "value": "3.39",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
@@ -5191,16 +5196,16 @@
         "seller": {
           "username": "catboutique",
           "feedbackPercentage": "98.0",
-          "feedbackScore": 19767
+          "feedbackScore": 19771
         },
         "marketingPrice": {
           "originalPrice": {
-            "value": "326.61",
+            "value": "4.24",
             "currency": "USD"
           },
-          "discountPercentage": "20",
+          "discountPercentage": "20.0",
           "discountAmount": {
-            "value": "65.32",
+            "value": "0.85",
             "currency": "USD"
           },
           "priceTreatment": "MARKDOWN"
@@ -5306,7 +5311,7 @@
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 0,
+        "quantitySold": 68,
         "imageUrl": "https://i.ebayimg.com/images/g/RkEAAeSw469o1iMG/s-l1600.jpg",
         "shortDescription": "💖 【Universal Compatibility】: Perfectly suitable for any devices with a 3. 5mm aux port, such as for iPhone, iPod, iPad, Headphones, Hi-Fi, Car Stereos, Tablet, Laptop, Smartphones, MP3 Player, Speaker and any other audio-playing devices.",
         "categoryPath": "Consumer Electronics|TV, Video & Home Audio|TV, Video & Audio Accessories|Home Audio Accessories|Audio Cables & Interconnects",
@@ -5326,7 +5331,7 @@
         "returnPeriod": "30 CALENDAR_DAY",
         "returnShippingPayer": "SELLER",
         "estimatedAvailableQuantity": 2,
-        "estimatedRemainingQuantity": 2,
+        "estimatedRemainingQuantity": 52,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -5361,14 +5366,14 @@
         "seller": {
           "username": "metaofficial",
           "feedbackPercentage": "98.7",
-          "feedbackScore": 4629
+          "feedbackScore": 4632
         },
         "marketingPrice": {
           "originalPrice": {
             "value": "299.00",
             "currency": "USD"
           },
-          "discountPercentage": "20",
+          "discountPercentage": "20.0",
           "discountAmount": {
             "value": "60.00",
             "currency": "USD"
@@ -5390,13 +5395,13 @@
               "currency": "USD"
             },
             "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z"
+            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
           }
         ],
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/406015558366?hash=item5e8869c2de:g:TroAAeSw4jxoZZf6&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYcTYGHmNFHSzcVP67iF%2F3knmTd0I%2BHXZGIDjOHNJJLuUSgOFZXlaD3genq7ERY8EYykLDA0%2FygBR9M3xyAgIYEUPalsoOe90KjVAn12QxMTBN9zdmFkm7w%2BF2Ms8FRAq4fQF2jatMbWZld3H1dUAf2IzUccEd0lkeUFFlYngnC8adPPnN0KPu5NLn9iw7IvoOLMuq9tm8gK2wqL6Rk5XZn4PiKbxtXiVWTzrsmnKlNv3CKy7yTH%2FTyDdOwd7iPg%2Bgldynk%2FhpqX2qVNm6U1aV0",
+        "itemWebUrl": "https://www.ebay.com/itm/406015558366?hash=item5e8869c2de:g:TroAAeSw4jxoZZf6&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYcTYGHmNFHSzcVP67iF%2F3knmTd0I%2BHXZGIDjOHNJJLuUSgOFZXlaD3genq7ERY8EYykLDA0%2FygBR9M3xyAgIYEUPalsoOe90KjVAn12QxMTBN9zdmFkm7w%2BF2Ms8FRAq7oV0949G%2Fc3V9pwox%2Bgpc2K2EGlHMs2kg7A9AWsNL%2BBiYNXJNBTTHrYXUfbi38CinwNVt8G%2FwcH4UMeDydkna2nhUQJZUfl2BqRvlDSHxsD6aMX6x1TIXkSNgDfMGefAlg8KV0zwZbl3I8oX7GA1Iv",
         "itemLocation": {
           "postalCode": "401**",
           "country": "US"
@@ -5466,1032 +5471,6 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|277261270587|0",
-        "title": "🔥2025 NEWEST SUPERBOX S6 MAX-💥FREE AIR SHIPPING✈️-PROOF OF AUTHENTICY! ✅",
-        "leafCategoryIds": [
-          "168058"
-        ],
-        "categories": [
-          {
-            "categoryId": "168058",
-            "categoryName": "Media Streamers"
-          },
-          {
-            "categoryId": "293",
-            "categoryName": "Consumer Electronics"
-          },
-          {
-            "categoryId": "32852",
-            "categoryName": "TV, Video & Home Audio"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/xgEAAeSwu3tobtU6/s-l225.jpg"
-        },
-        "price": {
-          "value": "329.00",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277261270587%7C0",
-        "seller": {
-          "username": "superboxtvshop",
-          "feedbackPercentage": "97.9",
-          "feedbackScore": 233
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/xgEAAeSwu3tobtU6/s-l1200.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/277261270587?hash=item408e0f3e3b:g:xgEAAeSwu3tobtU6&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbvndJM332ZEm92EHMxSiavlrhNrkN0SUs6pbYo0S0t8TICcS5exVNcqEDQGg1RqDRt5u2skF%2FdfSTlvucb%2F9WgBPI1RD8tGYs3K0q08dASj1TxT5FVoES00Z5%2B6I6mQVoR%2B5p%2FDKerbyONz0MAM8DQd1jj7pSTWluJfIdXc%2FR9MisDC0aWMRliV2cXIUMDb1OCVxpDfTA0DHp7yCfvBmz%2BZ4SPtxgAK%2B2cMHlXUlDi3PYY8dWfnZ0pztBMc36swVSGhbpLiGhqbITvYZL67%2BRT",
-        "itemLocation": {
-          "postalCode": "933**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/m6QAAeSwGW5oxi9p/s-l1600.jpg",
-            "width": 1080,
-            "height": 768
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/070AAeSwNedobswm/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/NqgAAeSweEJorpWb/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/yFEAAeSw2Htobsv2/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/rtoAAeSwSsxobsv1/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/~JAAAeSwEZlobsv5/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/rZcAAeSweJ5obsv0/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/ztYAAeSw5EJobsxi/s-l1600.jpg",
-            "width": 1102,
-            "height": 862
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/n1AAAeSwgwVobsvz/s-l1600.jpg",
-            "width": 615,
-            "height": 615
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/yR8AAeSwev1obsvz/s-l1600.jpg",
-            "width": 1500,
-            "height": 600
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "277261270587",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-05-24T01:49:17.000Z",
-        "itemCreationDate": "2025-07-09T22:42:15.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 166,
-        "imageUrl": "https://i.ebayimg.com/images/g/xgEAAeSwu3tobtU6/s-l1600.jpg",
-        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|Media Streamers",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Expedited Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          },
-          {
-            "regionName": "Denmark",
-            "regionType": "COUNTRY",
-            "regionId": "DK"
-          },
-          {
-            "regionName": "Guatemala",
-            "regionType": "COUNTRY",
-            "regionId": "GT"
-          },
-          {
-            "regionName": "New Zealand",
-            "regionType": "COUNTRY",
-            "regionId": "NZ"
-          },
-          {
-            "regionName": "Fiji",
-            "regionType": "COUNTRY",
-            "regionId": "FJ"
-          },
-          {
-            "regionName": "Papua New Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "PG"
-          },
-          {
-            "regionName": "Solomon Islands",
-            "regionType": "COUNTRY",
-            "regionId": "SB"
-          },
-          {
-            "regionName": "Vatican City State",
-            "regionType": "COUNTRY",
-            "regionId": "VA"
-          },
-          {
-            "regionName": "Sierra Leone",
-            "regionType": "COUNTRY",
-            "regionId": "SL"
-          },
-          {
-            "regionName": "Nauru",
-            "regionType": "COUNTRY",
-            "regionId": "NR"
-          },
-          {
-            "regionName": "Wallis and Futuna",
-            "regionType": "COUNTRY",
-            "regionId": "WF"
-          },
-          {
-            "regionName": "Marshall Islands",
-            "regionType": "COUNTRY",
-            "regionId": "MH"
-          },
-          {
-            "regionName": "Anguilla",
-            "regionType": "COUNTRY",
-            "regionId": "AI"
-          },
-          {
-            "regionName": "El Salvador",
-            "regionType": "COUNTRY",
-            "regionId": "SV"
-          },
-          {
-            "regionName": "Gambia",
-            "regionType": "COUNTRY",
-            "regionId": "GM"
-          },
-          {
-            "regionName": "Guam",
-            "regionType": "COUNTRY",
-            "regionId": "GU"
-          },
-          {
-            "regionName": "Micronesia",
-            "regionType": "COUNTRY",
-            "regionId": "FM"
-          },
-          {
-            "regionName": "Dominican Republic",
-            "regionType": "COUNTRY",
-            "regionId": "DO"
-          },
-          {
-            "regionName": "Cameroon",
-            "regionType": "COUNTRY",
-            "regionId": "CM"
-          },
-          {
-            "regionName": "Guyana",
-            "regionType": "COUNTRY",
-            "regionId": "GY"
-          },
-          {
-            "regionName": "Taiwan",
-            "regionType": "COUNTRY",
-            "regionId": "TW"
-          },
-          {
-            "regionName": "Azerbaijan Republic",
-            "regionType": "COUNTRY",
-            "regionId": "AZ"
-          },
-          {
-            "regionName": "Poland",
-            "regionType": "COUNTRY",
-            "regionId": "PL"
-          },
-          {
-            "regionName": "Georgia",
-            "regionType": "COUNTRY",
-            "regionId": "GE"
-          },
-          {
-            "regionName": "Oman",
-            "regionType": "COUNTRY",
-            "regionId": "OM"
-          },
-          {
-            "regionName": "Suriname",
-            "regionType": "COUNTRY",
-            "regionId": "SR"
-          },
-          {
-            "regionName": "Tonga",
-            "regionType": "COUNTRY",
-            "regionId": "TO"
-          },
-          {
-            "regionName": "United Arab Emirates",
-            "regionType": "COUNTRY",
-            "regionId": "AE"
-          },
-          {
-            "regionName": "Kenya",
-            "regionType": "COUNTRY",
-            "regionId": "KE"
-          },
-          {
-            "regionName": "Argentina",
-            "regionType": "COUNTRY",
-            "regionId": "AR"
-          },
-          {
-            "regionName": "San Marino",
-            "regionType": "COUNTRY",
-            "regionId": "SM"
-          },
-          {
-            "regionName": "Guinea-Bissau",
-            "regionType": "COUNTRY",
-            "regionId": "GW"
-          },
-          {
-            "regionName": "Armenia",
-            "regionType": "COUNTRY",
-            "regionId": "AM"
-          },
-          {
-            "regionName": "Uzbekistan",
-            "regionType": "COUNTRY",
-            "regionId": "UZ"
-          },
-          {
-            "regionName": "Bhutan",
-            "regionType": "COUNTRY",
-            "regionId": "BT"
-          },
-          {
-            "regionName": "Eritrea",
-            "regionType": "COUNTRY",
-            "regionId": "ER"
-          },
-          {
-            "regionName": "Senegal",
-            "regionType": "COUNTRY",
-            "regionId": "SN"
-          },
-          {
-            "regionName": "Togo",
-            "regionType": "COUNTRY",
-            "regionId": "TG"
-          },
-          {
-            "regionName": "Saint Kitts-Nevis",
-            "regionType": "COUNTRY",
-            "regionId": "KN"
-          },
-          {
-            "regionName": "Morocco",
-            "regionType": "COUNTRY",
-            "regionId": "MA"
-          },
-          {
-            "regionName": "Ireland",
-            "regionType": "COUNTRY",
-            "regionId": "IE"
-          },
-          {
-            "regionName": "Burundi",
-            "regionType": "COUNTRY",
-            "regionId": "BI"
-          },
-          {
-            "regionName": "Saint Vincent and the Grenadines",
-            "regionType": "COUNTRY",
-            "regionId": "VC"
-          },
-          {
-            "regionName": "Netherlands",
-            "regionType": "COUNTRY",
-            "regionId": "NL"
-          },
-          {
-            "regionName": "Slovakia",
-            "regionType": "COUNTRY",
-            "regionId": "SK"
-          },
-          {
-            "regionName": "Slovenia",
-            "regionType": "COUNTRY",
-            "regionId": "SI"
-          },
-          {
-            "regionName": "Equatorial Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GQ"
-          },
-          {
-            "regionName": "Thailand",
-            "regionType": "COUNTRY",
-            "regionId": "TH"
-          },
-          {
-            "regionName": "Mauritania",
-            "regionType": "COUNTRY",
-            "regionId": "MR"
-          },
-          {
-            "regionName": "Belize",
-            "regionType": "COUNTRY",
-            "regionId": "BZ"
-          },
-          {
-            "regionName": "Philippines",
-            "regionType": "COUNTRY",
-            "regionId": "PH"
-          },
-          {
-            "regionName": "Aruba",
-            "regionType": "COUNTRY",
-            "regionId": "AW"
-          },
-          {
-            "regionName": "Democratic Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CD"
-          },
-          {
-            "regionType": "COUNTRY",
-            "regionId": "UY"
-          },
-          {
-            "regionName": "Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CG"
-          },
-          {
-            "regionName": "American Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "AS"
-          },
-          {
-            "regionName": "Sweden",
-            "regionType": "COUNTRY",
-            "regionId": "SE"
-          },
-          {
-            "regionName": "Colombia",
-            "regionType": "COUNTRY",
-            "regionId": "CO"
-          },
-          {
-            "regionName": "Spain",
-            "regionType": "COUNTRY",
-            "regionId": "ES"
-          },
-          {
-            "regionName": "Iceland",
-            "regionType": "COUNTRY",
-            "regionId": "IS"
-          },
-          {
-            "regionName": "Estonia",
-            "regionType": "COUNTRY",
-            "regionId": "EE"
-          },
-          {
-            "regionName": "Macedonia",
-            "regionType": "COUNTRY",
-            "regionId": "MK"
-          },
-          {
-            "regionName": "Belgium",
-            "regionType": "COUNTRY",
-            "regionId": "BE"
-          },
-          {
-            "regionName": "Israel",
-            "regionType": "COUNTRY",
-            "regionId": "IL"
-          },
-          {
-            "regionName": "Kuwait",
-            "regionType": "COUNTRY",
-            "regionId": "KW"
-          },
-          {
-            "regionName": "Liechtenstein",
-            "regionType": "COUNTRY",
-            "regionId": "LI"
-          },
-          {
-            "regionName": "Benin",
-            "regionType": "COUNTRY",
-            "regionId": "BJ"
-          },
-          {
-            "regionName": "Algeria",
-            "regionType": "COUNTRY",
-            "regionId": "DZ"
-          },
-          {
-            "regionName": "Bermuda",
-            "regionType": "COUNTRY",
-            "regionId": "BM"
-          },
-          {
-            "regionName": "Montserrat",
-            "regionType": "COUNTRY",
-            "regionId": "MS"
-          },
-          {
-            "regionName": "Zambia",
-            "regionType": "COUNTRY",
-            "regionId": "ZM"
-          },
-          {
-            "regionName": "South Korea",
-            "regionType": "COUNTRY",
-            "regionId": "KR"
-          },
-          {
-            "regionName": "Antigua and Barbuda",
-            "regionType": "COUNTRY",
-            "regionId": "AG"
-          },
-          {
-            "regionName": "Vanuatu",
-            "regionType": "COUNTRY",
-            "regionId": "VU"
-          },
-          {
-            "regionName": "Ecuador",
-            "regionType": "COUNTRY",
-            "regionId": "EC"
-          },
-          {
-            "regionName": "Albania",
-            "regionType": "COUNTRY",
-            "regionId": "AL"
-          },
-          {
-            "regionName": "Italy",
-            "regionType": "COUNTRY",
-            "regionId": "IT"
-          },
-          {
-            "regionName": "Swaziland",
-            "regionType": "COUNTRY",
-            "regionId": "SZ"
-          },
-          {
-            "regionName": "Ethiopia",
-            "regionType": "COUNTRY",
-            "regionId": "ET"
-          },
-          {
-            "regionName": "Monaco",
-            "regionType": "COUNTRY",
-            "regionId": "MC"
-          },
-          {
-            "regionName": "Niger",
-            "regionType": "COUNTRY",
-            "regionId": "NE"
-          },
-          {
-            "regionName": "Tanzania",
-            "regionType": "COUNTRY",
-            "regionId": "TZ"
-          },
-          {
-            "regionName": "Pakistan",
-            "regionType": "COUNTRY",
-            "regionId": "PK"
-          },
-          {
-            "regionName": "Burkina Faso",
-            "regionType": "COUNTRY",
-            "regionId": "BF"
-          },
-          {
-            "regionName": "Panama",
-            "regionType": "COUNTRY",
-            "regionId": "PA"
-          },
-          {
-            "regionName": "Singapore",
-            "regionType": "COUNTRY",
-            "regionId": "SG"
-          },
-          {
-            "regionName": "Kyrgyzstan",
-            "regionType": "COUNTRY",
-            "regionId": "KG"
-          },
-          {
-            "regionName": "Switzerland",
-            "regionType": "COUNTRY",
-            "regionId": "CH"
-          },
-          {
-            "regionName": "Ghana",
-            "regionType": "COUNTRY",
-            "regionId": "GH"
-          },
-          {
-            "regionName": "Djibouti",
-            "regionType": "COUNTRY",
-            "regionId": "DJ"
-          },
-          {
-            "regionName": "Puerto Rico",
-            "regionType": "COUNTRY",
-            "regionId": "PR"
-          },
-          {
-            "regionName": "Chile",
-            "regionType": "COUNTRY",
-            "regionId": "CL"
-          },
-          {
-            "regionName": "Cape Verde Islands",
-            "regionType": "COUNTRY",
-            "regionId": "CV"
-          },
-          {
-            "regionName": "Moldova",
-            "regionType": "COUNTRY",
-            "regionId": "MD"
-          },
-          {
-            "regionName": "Mali",
-            "regionType": "COUNTRY",
-            "regionId": "ML"
-          },
-          {
-            "regionName": "Botswana",
-            "regionType": "COUNTRY",
-            "regionId": "BW"
-          },
-          {
-            "regionName": "Republic of Croatia",
-            "regionType": "COUNTRY",
-            "regionId": "HR"
-          },
-          {
-            "regionName": "Cambodia",
-            "regionType": "COUNTRY",
-            "regionId": "KH"
-          },
-          {
-            "regionName": "Madagascar",
-            "regionType": "COUNTRY",
-            "regionId": "MG"
-          },
-          {
-            "regionName": "Indonesia",
-            "regionType": "COUNTRY",
-            "regionId": "ID"
-          },
-          {
-            "regionName": "Portugal",
-            "regionType": "COUNTRY",
-            "regionId": "PT"
-          },
-          {
-            "regionName": "Malta",
-            "regionType": "COUNTRY",
-            "regionId": "MT"
-          },
-          {
-            "regionName": "Tajikistan",
-            "regionType": "COUNTRY",
-            "regionId": "TJ"
-          },
-          {
-            "regionName": "Vietnam",
-            "regionType": "COUNTRY",
-            "regionId": "VN"
-          },
-          {
-            "regionName": "Cayman Islands",
-            "regionType": "COUNTRY",
-            "regionId": "KY"
-          },
-          {
-            "regionName": "Paraguay",
-            "regionType": "COUNTRY",
-            "regionId": "PY"
-          },
-          {
-            "regionName": "Lebanon",
-            "regionType": "COUNTRY",
-            "regionId": "LB"
-          },
-          {
-            "regionName": "Cyprus",
-            "regionType": "COUNTRY",
-            "regionId": "CY"
-          },
-          {
-            "regionName": "Seychelles",
-            "regionType": "COUNTRY",
-            "regionId": "SC"
-          },
-          {
-            "regionName": "Liberia",
-            "regionType": "COUNTRY",
-            "regionId": "LR"
-          },
-          {
-            "regionName": "Rwanda",
-            "regionType": "COUNTRY",
-            "regionId": "RW"
-          },
-          {
-            "regionName": "Bangladesh",
-            "regionType": "COUNTRY",
-            "regionId": "BD"
-          },
-          {
-            "regionName": "Bolivia",
-            "regionType": "COUNTRY",
-            "regionId": "BO"
-          },
-          {
-            "regionName": "Maldives",
-            "regionType": "COUNTRY",
-            "regionId": "MV"
-          },
-          {
-            "regionName": "Australia",
-            "regionType": "COUNTRY",
-            "regionId": "AU"
-          },
-          {
-            "regionName": "Austria",
-            "regionType": "COUNTRY",
-            "regionId": "AT"
-          },
-          {
-            "regionName": "Gibraltar",
-            "regionType": "COUNTRY",
-            "regionId": "GI"
-          },
-          {
-            "regionName": "Sri Lanka",
-            "regionType": "COUNTRY",
-            "regionId": "LK"
-          },
-          {
-            "regionName": "Central African Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CF"
-          },
-          {
-            "regionName": "Gabon Republic",
-            "regionType": "COUNTRY",
-            "regionId": "GA"
-          },
-          {
-            "regionName": "Lesotho",
-            "regionType": "COUNTRY",
-            "regionId": "LS"
-          },
-          {
-            "regionName": "Nigeria",
-            "regionType": "COUNTRY",
-            "regionId": "NG"
-          },
-          {
-            "regionName": "Zimbabwe",
-            "regionType": "COUNTRY",
-            "regionId": "ZW"
-          },
-          {
-            "regionName": "Mauritius",
-            "regionType": "COUNTRY",
-            "regionId": "MU"
-          },
-          {
-            "regionName": "Saint Lucia",
-            "regionType": "COUNTRY",
-            "regionId": "LC"
-          },
-          {
-            "regionName": "Bulgaria",
-            "regionType": "COUNTRY",
-            "regionId": "BG"
-          },
-          {
-            "regionName": "Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GN"
-          },
-          {
-            "regionName": "Czech Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CZ"
-          },
-          {
-            "regionName": "Norway",
-            "regionType": "COUNTRY",
-            "regionId": "NO"
-          },
-          {
-            "regionName": "Côte d'Ivoire (Ivory Coast)",
-            "regionType": "COUNTRY",
-            "regionId": "CI"
-          },
-          {
-            "regionName": "Canada",
-            "regionType": "COUNTRY",
-            "regionId": "CA"
-          },
-          {
-            "regionName": "Turks and Caicos Islands",
-            "regionType": "COUNTRY",
-            "regionId": "TC"
-          },
-          {
-            "regionName": "Chad",
-            "regionType": "COUNTRY",
-            "regionId": "TD"
-          },
-          {
-            "regionName": "Kiribati",
-            "regionType": "COUNTRY",
-            "regionId": "KI"
-          },
-          {
-            "regionName": "Andorra",
-            "regionType": "COUNTRY",
-            "regionId": "AD"
-          },
-          {
-            "regionName": "Turkmenistan",
-            "regionType": "COUNTRY",
-            "regionId": "TM"
-          },
-          {
-            "regionName": "Grenada",
-            "regionType": "COUNTRY",
-            "regionId": "GD"
-          },
-          {
-            "regionName": "Greece",
-            "regionType": "COUNTRY",
-            "regionId": "GR"
-          },
-          {
-            "regionName": "Romania",
-            "regionType": "COUNTRY",
-            "regionId": "RO"
-          },
-          {
-            "regionName": "Costa Rica",
-            "regionType": "COUNTRY",
-            "regionId": "CR"
-          },
-          {
-            "regionName": "India",
-            "regionType": "COUNTRY",
-            "regionId": "IN"
-          },
-          {
-            "regionName": "Greenland",
-            "regionType": "COUNTRY",
-            "regionId": "GL"
-          },
-          {
-            "regionName": "Yemen",
-            "regionType": "COUNTRY",
-            "regionId": "YE"
-          },
-          {
-            "regionName": "Mexico",
-            "regionType": "COUNTRY",
-            "regionId": "MX"
-          },
-          {
-            "regionName": "Afghanistan",
-            "regionType": "COUNTRY",
-            "regionId": "AF"
-          },
-          {
-            "regionName": "Serbia",
-            "regionType": "COUNTRY",
-            "regionId": "RS"
-          },
-          {
-            "regionName": "Kazakhstan",
-            "regionType": "COUNTRY",
-            "regionId": "KZ"
-          },
-          {
-            "regionName": "Montenegro",
-            "regionType": "COUNTRY",
-            "regionId": "ME"
-          },
-          {
-            "regionName": "Japan",
-            "regionType": "COUNTRY",
-            "regionId": "JP"
-          },
-          {
-            "regionName": "Nepal",
-            "regionType": "COUNTRY",
-            "regionId": "NP"
-          },
-          {
-            "regionName": "Bahamas",
-            "regionType": "COUNTRY",
-            "regionId": "BS"
-          },
-          {
-            "regionName": "Lithuania",
-            "regionType": "COUNTRY",
-            "regionId": "LT"
-          },
-          {
-            "regionName": "Bahrain",
-            "regionType": "COUNTRY",
-            "regionId": "BH"
-          },
-          {
-            "regionName": "Trinidad and Tobago",
-            "regionType": "COUNTRY",
-            "regionId": "TT"
-          },
-          {
-            "regionName": "Palau",
-            "regionType": "COUNTRY",
-            "regionId": "PW"
-          },
-          {
-            "regionName": "Malawi",
-            "regionType": "COUNTRY",
-            "regionId": "MW"
-          },
-          {
-            "regionName": "Bosnia and Herzegovina",
-            "regionType": "COUNTRY",
-            "regionId": "BA"
-          },
-          {
-            "regionName": "Hungary",
-            "regionType": "COUNTRY",
-            "regionId": "HU"
-          },
-          {
-            "regionName": "Angola",
-            "regionType": "COUNTRY",
-            "regionId": "AO"
-          },
-          {
-            "regionName": "Nicaragua",
-            "regionType": "COUNTRY",
-            "regionId": "NI"
-          },
-          {
-            "regionName": "Finland",
-            "regionType": "COUNTRY",
-            "regionId": "FI"
-          },
-          {
-            "regionName": "Tunisia",
-            "regionType": "COUNTRY",
-            "regionId": "TN"
-          },
-          {
-            "regionName": "Luxembourg",
-            "regionType": "COUNTRY",
-            "regionId": "LU"
-          },
-          {
-            "regionName": "Uganda",
-            "regionType": "COUNTRY",
-            "regionId": "UG"
-          },
-          {
-            "regionName": "Brazil",
-            "regionType": "COUNTRY",
-            "regionId": "BR"
-          },
-          {
-            "regionName": "Turkey",
-            "regionType": "COUNTRY",
-            "regionId": "TR"
-          },
-          {
-            "regionName": "Western Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "WS"
-          },
-          {
-            "regionName": "France",
-            "regionType": "COUNTRY",
-            "regionId": "FR"
-          },
-          {
-            "regionName": "Egypt",
-            "regionType": "COUNTRY",
-            "regionId": "EG"
-          },
-          {
-            "regionName": "Latvia",
-            "regionType": "COUNTRY",
-            "regionId": "LV"
-          },
-          {
-            "regionName": "Jamaica",
-            "regionType": "COUNTRY",
-            "regionId": "JM"
-          },
-          {
-            "regionName": "Mozambique",
-            "regionType": "COUNTRY",
-            "regionId": "MZ"
-          },
-          {
-            "regionName": "Namibia",
-            "regionType": "COUNTRY",
-            "regionId": "NA"
-          },
-          {
-            "regionName": "Peru",
-            "regionType": "COUNTRY",
-            "regionId": "PE"
-          },
-          {
-            "regionName": "Virgin Islands (U.S.)",
-            "regionType": "COUNTRY",
-            "regionId": "VI"
-          },
-          {
-            "regionName": "Brunei Darussalam",
-            "regionType": "COUNTRY",
-            "regionId": "BN"
-          },
-          {
-            "regionName": "Honduras",
-            "regionType": "COUNTRY",
-            "regionId": "HN"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 18,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Bakersfield",
-        "itemLocationState": "California",
-        "itemLocationCountry": "US"
-      },
-      {
         "itemId": "v1|124879175658|0",
         "title": "Cobra Smart Dash & Rear Cam SC 200D QHD 1600P WiFi GPS Certified Refurbished",
         "leafCategoryIds": [
@@ -6533,7 +5512,7 @@
             "value": "199.99",
             "currency": "USD"
           },
-          "discountPercentage": "40",
+          "discountPercentage": "40.0",
           "discountAmount": {
             "value": "80.00",
             "currency": "USD"
@@ -6562,7 +5541,7 @@
           "FIXED_PRICE"
         ],
         "epid": "5043242047",
-        "itemWebUrl": "https://www.ebay.com/itm/124879175658?hash=item1d1360ffea:g:PakAAOSw-xRl4NlY&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZRKN%2F9VdXIxUO1DUhx73h8psUCdjPjpoe%2B8DBdZX%2FmYp55yqxSdk0oBwgJc3vRTQ%2Fp37f6nvWv%2BT%2Blj8GHCWbM9KFxdVgU%2FwNrcXWmJDz3rvIQtYxaH8h%2BxOXgKOxhef8fCeCvnaBaqIdHQpSLSsk5Vxde%2FtALXIfeKfmQ9%2Bw7yspBJiHHn5mX3pkBgvbhX69xWwvc5pT8myFD2higFFZfN%2FHjskXnTV9aDPSxl91AsUCbSU5rVqgD0HsEyLTSj9eYgrfYrAOSwqB4rgYby3R1",
+        "itemWebUrl": "https://www.ebay.com/itm/124879175658?hash=item1d1360ffea:g:PakAAOSw-xRl4NlY&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZRKN%2F9VdXIxUO1DUhx73h8psUCdjPjpoe%2B8DBdZX%2FmYp55yqxSdk0oBwgJc3vRTQ%2Fp37f6nvWv%2BT%2Blj8GHCWbM9KFxdVgU%2FwNrcXWmJDz3rvIQtYxaH8h%2BxOXgKOxhef9vv0l4hnztgRzoXLLejIrSelOYZHingjwZ0RG3nTc8IvYhLjscNkxH3kJrqSW%2B1NwCYRWqjNBP%2FdAHrOUCai%2B9sdeevQjdMU62N8Yd6Mve77PfZVdwKngf1%2B15aa1HlRwKyhRaSiHlzV4Qdub9QVhl",
         "itemLocation": {
           "postalCode": "374**",
           "country": "US"
@@ -7501,6 +6480,137 @@
         "returnPeriod": "30 CALENDAR_DAY",
         "returnShippingPayer": "SELLER",
         "estimatedAvailableQuantity": 100,
+        "estimatedRemainingQuantity": 100,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Chattanooga",
+        "itemLocationState": "Tennessee",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|226809648450|0",
+        "title": "ESCORT MAX 3 Certified Refurbished Laser Radar Detector Bluetooth Updatable M4++",
+        "leafCategoryIds": [
+          "14935"
+        ],
+        "categories": [
+          {
+            "categoryId": "14935",
+            "categoryName": "Radar & Laser Detectors"
+          },
+          {
+            "categoryId": "293",
+            "categoryName": "Consumer Electronics"
+          },
+          {
+            "categoryId": "3270",
+            "categoryName": "Vehicle Electronics & GPS"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/pVkAAeSwweZot86u/s-l225.jpg"
+        },
+        "price": {
+          "value": "224.95",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226809648450%7C0",
+        "seller": {
+          "username": "escortradar",
+          "feedbackPercentage": "99.1",
+          "feedbackScore": 11966
+        },
+        "marketingPrice": {
+          "originalPrice": {
+            "value": "299.95",
+            "currency": "USD"
+          },
+          "discountPercentage": "25.0",
+          "discountAmount": {
+            "value": "75.00",
+            "currency": "USD"
+          },
+          "priceTreatment": "LIST_PRICE"
+        },
+        "condition": "Certified - Refurbished",
+        "conditionId": "2000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/pVkAAeSwweZot86u/s-l1200.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "epid": "2357352946",
+        "itemWebUrl": "https://www.ebay.com/itm/226809648450?hash=item34cee89542:g:pVkAAeSwweZot86u&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYAIAJ3wT4vpwyVT%2BjV0TL%2FMCRuBvNW6b0U91VfLTLv2hIHz0dOw2ctdpaELsxkkAsC1khj8oiu50xToxzLiMNJKU57b%2BeYgGlvF0CNmv0vYT5qAAoia64A2hhg0nWnF8xmXZ5%2BrIUOnu6jJSlY5rlSoeF383hlumX7P%2Bv9GRp4avEPd%2FH%2BIgSdY09oPgEfe2qWNbdwaMLZrRhg6IyNPyyAv6vdErbl0fqVUXtdcXsasGEMGPjcxCPEd5PagJzY7AlEpQQCHqowm1aVV6bwqliE",
+        "itemLocation": {
+          "postalCode": "374**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/NmUAAeSwFD9ot86u/s-l1600.jpg",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/Kj8AAeSw00Not86u/s-l1600.jpg",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/JwQAAeSwD6Jot86u/s-l1600.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/NDoAAeSwrjBot86u/s-l1600.jpg",
+            "width": 667,
+            "height": 658
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "226809648450",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-06-11T20:55:47.000Z",
+        "itemCreationDate": "2025-06-11T20:55:47.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 182,
+        "imageUrl": "https://i.ebayimg.com/images/g/pVkAAeSwweZot86u/s-l1600.jpg",
+        "shortDescription": "Escort Max 3 Laser Radar Detector Enhanced Range Bluetooth Updatable M4++ IVT. Escort's reputation for high-end radar detectors is legendary. Radar Detectors. Escort EZ Mag Mount Works with Escort IX, Escort IXc, Max 360c, and Redline 360.",
+        "categoryPath": "Consumer Electronics|Vehicle Electronics & GPS|Radar & Laser Detectors",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
         "estimatedRemainingQuantity": 100,
         "deliveryOptions": [
           "SHIP_TO_HOME"
@@ -8519,7 +7629,11 @@
           "feedbackScore": 99085
         },
         "marketingPrice": {
-          "discountPercentage": "0"
+          "discountPercentage": "5.0",
+          "discountAmount": {
+            "value": "5.00",
+            "currency": "USD"
+          }
         },
         "condition": "Open box",
         "conditionId": "1500",
@@ -8617,137 +7731,6 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|226809648450|0",
-        "title": "ESCORT MAX 3 Certified Refurbished Laser Radar Detector Bluetooth Updatable M4++",
-        "leafCategoryIds": [
-          "14935"
-        ],
-        "categories": [
-          {
-            "categoryId": "14935",
-            "categoryName": "Radar & Laser Detectors"
-          },
-          {
-            "categoryId": "293",
-            "categoryName": "Consumer Electronics"
-          },
-          {
-            "categoryId": "3270",
-            "categoryName": "Vehicle Electronics & GPS"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/pVkAAeSwweZot86u/s-l225.jpg"
-        },
-        "price": {
-          "value": "224.95",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226809648450%7C0",
-        "seller": {
-          "username": "escortradar",
-          "feedbackPercentage": "99.1",
-          "feedbackScore": 11966
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "299.95",
-            "currency": "USD"
-          },
-          "discountPercentage": "25",
-          "discountAmount": {
-            "value": "75.00",
-            "currency": "USD"
-          },
-          "priceTreatment": "LIST_PRICE"
-        },
-        "condition": "Certified - Refurbished",
-        "conditionId": "2000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/pVkAAeSwweZot86u/s-l1200.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "epid": "2357352946",
-        "itemWebUrl": "https://www.ebay.com/itm/226809648450?hash=item34cee89542:g:pVkAAeSwweZot86u&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYAIAJ3wT4vpwyVT%2BjV0TL%2FMCRuBvNW6b0U91VfLTLv2hIHz0dOw2ctdpaELsxkkAsC1khj8oiu50xToxzLiMNJKU57b%2BeYgGlvF0CNmv0vYT5qAAoia64A2hhg0nWnF8yayES7iQ3zCc3M1p15eojx%2Bam1EjGVy9qX4M5DtXFcFLPmHIoQ1ETZVmtNuS83SfpMo%2FgwiT5wmgE12PiH5JCRbYBb2l2OzDUbxmRakPJWPVts7ZGUhhm7oNOcyL%2BeBv6O8ePQ8qCFyqA%2BVCiua0Po",
-        "itemLocation": {
-          "postalCode": "374**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/NmUAAeSwFD9ot86u/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/Kj8AAeSw00Not86u/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/JwQAAeSwD6Jot86u/s-l1600.jpg",
-            "width": 1200,
-            "height": 1200
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/NDoAAeSwrjBot86u/s-l1600.jpg",
-            "width": 667,
-            "height": 658
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "226809648450",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-06-11T20:55:47.000Z",
-        "itemCreationDate": "2025-06-11T20:55:47.000Z",
-        "topRatedBuyingExperience": true,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 181,
-        "imageUrl": "https://i.ebayimg.com/images/g/pVkAAeSwweZot86u/s-l1600.jpg",
-        "shortDescription": "Escort Max 3 Laser Radar Detector Enhanced Range Bluetooth Updatable M4++ IVT. Escort's reputation for high-end radar detectors is legendary. Radar Detectors. Escort EZ Mag Mount Works with Escort IX, Escort IXc, Max 360c, and Redline 360.",
-        "categoryPath": "Consumer Electronics|Vehicle Electronics & GPS|Radar & Laser Detectors",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "SELLER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 100,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Chattanooga",
-        "itemLocationState": "Tennessee",
-        "itemLocationCountry": "US"
-      },
-      {
         "itemId": "v1|334874354772|0",
         "title": "Fits: Toyota Tacoma Utility Plug & Play Keyless Entry Complete Kit 2016 - 2023",
         "leafCategoryIds": [
@@ -8806,7 +7789,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/334874354772?hash=item4df8112454:g:1AkAAOSwsgNkYjwi&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbaEgcg2RZzzHYTwySoSo5dWxC2d9UBSNSHxoyKqVdx8yDFq8OZlErNH1oc%2Fr3sDDVGEiyH3c0XAwUYSq9tRYLVarD6b8GYb6wqEu6XamD1MJVLtRAUjQ7t1P9O1XTopXpLHfurYfZG5cnLF1%2FeQXTX3fSJZ7pL151Fb0kce%2F6d8iGya7vG1gO4dJ%2Bm9IsPkmkutJTG9h9N8mZzuUps1%2BKIpZsw9dEpOA1EteqIZHVJ3vQ2AighSh5kwPtk%2FPjMA9%2FTbWqB%2BRUsKIDDiFOPlxDe",
+        "itemWebUrl": "https://www.ebay.com/itm/334874354772?hash=item4df8112454:g:1AkAAOSwsgNkYjwi&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbaEgcg2RZzzHYTwySoSo5dWxC2d9UBSNSHxoyKqVdx8yDFq8OZlErNH1oc%2Fr3sDDVGEiyH3c0XAwUYSq9tRYLVarD6b8GYb6wqEu6XamD1MJVLtRAUjQ7t1P9O1XTopXq3mPfiElGBb%2B4QZMSwlUAcgN7A8LvYu6AZ%2FbNeqGr0WAsEG4Wv1xZ6HN7VP2OYw1kSD2M0a5AFqJmT6n9kFTXi37mdqMGNC14Mijs24CZDY5c9tV6wkPn5lNb0k3Yc5xplFE8InyCMFOLkEIwbnrI4",
         "itemLocation": {
           "postalCode": "180**",
           "country": "US"
@@ -9746,20 +8729,1002 @@
         "itemLocationCity": "Center Valley",
         "itemLocationState": "Pennsylvania",
         "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|236389196535|0",
+        "title": "2025 UBox12 安博12代 UB12 UNBLOCK TECH 美國授權 纯净版 质保一年 1 year warranty GEN12 送小礼品",
+        "leafCategoryIds": [
+          "168058"
+        ],
+        "categories": [
+          {
+            "categoryId": "168058",
+            "categoryName": "Media Streamers"
+          },
+          {
+            "categoryId": "293",
+            "categoryName": "Consumer Electronics"
+          },
+          {
+            "categoryId": "32852",
+            "categoryName": "TV, Video & Home Audio"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/DfMAAeSwXEVo7mGW/s-l225.jpg"
+        },
+        "price": {
+          "value": "249.00",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236389196535%7C0",
+        "seller": {
+          "username": "mtimaaikasrah",
+          "feedbackPercentage": "95.2",
+          "feedbackScore": 19
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/DfMAAeSwXEVo7mGW/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-29T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE",
+          "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/236389196535?hash=item3709e4e2f7:g:DfMAAeSwXEVo7mGW&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbUR5gkawYIr2gixYIzpU0GtRNjx0cwxU7OD69LNC%2BmVz9WdmZeg21bmEyp7Jj%2FTZCprWMP70%2BLyvdYLXWo5PykqfK8fg%2BLeo5jYlcThuDaoYepqFdQsQ68diZXtGoGwYuoBxBBKKh5RuF3V99yghgjkI8gEq4ULNN5tYuE4lkJniHGKGTqNTMkHP8%2B00FZuWupysOtTRXY3JLWQ%2BHiJl9%2BXgd1mydBJ9jXrRDDGRvtyXDEvt1zrh2cGuZzr2drqVdWzOTLTYZqVvTNx%2FrVtecd",
+        "itemLocation": {
+          "postalCode": "112**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/FTUAAeSwPPJo7l~K/s-l1600.jpg",
+            "width": 1200,
+            "height": 858
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "236389196535",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-10-14T14:44:00.000Z",
+        "itemCreationDate": "2025-10-14T14:44:00.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 2,
+        "imageUrl": "https://i.ebayimg.com/images/g/DfMAAeSwXEVo7mGW/s-l1600.jpg",
+        "shortDescription": "2025 Unblock Tech Box Gen12 凭借其八核处理器和 64GB 存储容量。时尚的白色设计以及 Wi-Fi 连接、HDMI 端口和存储卡插槽等功能，使其成为一款功能多样、用户友好的选择，可提升您的娱乐体验。此外，一年制造商保修确保买家的可靠性和安心。. This product has the function of connecting to the network. 依照當地法律屬合法販售,中國大陸地區禁止販售。.",
+        "categoryPath": "Consumer Electronics|TV, Video & Home Audio|Media Streamers",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          },
+          {
+            "regionName": "Denmark",
+            "regionType": "COUNTRY",
+            "regionId": "DK"
+          },
+          {
+            "regionName": "Guatemala",
+            "regionType": "COUNTRY",
+            "regionId": "GT"
+          },
+          {
+            "regionName": "New Zealand",
+            "regionType": "COUNTRY",
+            "regionId": "NZ"
+          },
+          {
+            "regionName": "Fiji",
+            "regionType": "COUNTRY",
+            "regionId": "FJ"
+          },
+          {
+            "regionName": "Papua New Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "PG"
+          },
+          {
+            "regionName": "Solomon Islands",
+            "regionType": "COUNTRY",
+            "regionId": "SB"
+          },
+          {
+            "regionName": "Vatican City State",
+            "regionType": "COUNTRY",
+            "regionId": "VA"
+          },
+          {
+            "regionName": "Sierra Leone",
+            "regionType": "COUNTRY",
+            "regionId": "SL"
+          },
+          {
+            "regionName": "Nauru",
+            "regionType": "COUNTRY",
+            "regionId": "NR"
+          },
+          {
+            "regionName": "Wallis and Futuna",
+            "regionType": "COUNTRY",
+            "regionId": "WF"
+          },
+          {
+            "regionName": "Marshall Islands",
+            "regionType": "COUNTRY",
+            "regionId": "MH"
+          },
+          {
+            "regionName": "Anguilla",
+            "regionType": "COUNTRY",
+            "regionId": "AI"
+          },
+          {
+            "regionName": "El Salvador",
+            "regionType": "COUNTRY",
+            "regionId": "SV"
+          },
+          {
+            "regionName": "Gambia",
+            "regionType": "COUNTRY",
+            "regionId": "GM"
+          },
+          {
+            "regionName": "Guam",
+            "regionType": "COUNTRY",
+            "regionId": "GU"
+          },
+          {
+            "regionName": "Micronesia",
+            "regionType": "COUNTRY",
+            "regionId": "FM"
+          },
+          {
+            "regionName": "Dominican Republic",
+            "regionType": "COUNTRY",
+            "regionId": "DO"
+          },
+          {
+            "regionName": "Cameroon",
+            "regionType": "COUNTRY",
+            "regionId": "CM"
+          },
+          {
+            "regionName": "Guyana",
+            "regionType": "COUNTRY",
+            "regionId": "GY"
+          },
+          {
+            "regionName": "Taiwan",
+            "regionType": "COUNTRY",
+            "regionId": "TW"
+          },
+          {
+            "regionName": "Azerbaijan Republic",
+            "regionType": "COUNTRY",
+            "regionId": "AZ"
+          },
+          {
+            "regionName": "Poland",
+            "regionType": "COUNTRY",
+            "regionId": "PL"
+          },
+          {
+            "regionName": "Georgia",
+            "regionType": "COUNTRY",
+            "regionId": "GE"
+          },
+          {
+            "regionName": "Oman",
+            "regionType": "COUNTRY",
+            "regionId": "OM"
+          },
+          {
+            "regionName": "Suriname",
+            "regionType": "COUNTRY",
+            "regionId": "SR"
+          },
+          {
+            "regionName": "Tonga",
+            "regionType": "COUNTRY",
+            "regionId": "TO"
+          },
+          {
+            "regionName": "United Arab Emirates",
+            "regionType": "COUNTRY",
+            "regionId": "AE"
+          },
+          {
+            "regionName": "Kenya",
+            "regionType": "COUNTRY",
+            "regionId": "KE"
+          },
+          {
+            "regionName": "Argentina",
+            "regionType": "COUNTRY",
+            "regionId": "AR"
+          },
+          {
+            "regionName": "San Marino",
+            "regionType": "COUNTRY",
+            "regionId": "SM"
+          },
+          {
+            "regionName": "Guinea-Bissau",
+            "regionType": "COUNTRY",
+            "regionId": "GW"
+          },
+          {
+            "regionName": "Armenia",
+            "regionType": "COUNTRY",
+            "regionId": "AM"
+          },
+          {
+            "regionName": "Uzbekistan",
+            "regionType": "COUNTRY",
+            "regionId": "UZ"
+          },
+          {
+            "regionName": "Bhutan",
+            "regionType": "COUNTRY",
+            "regionId": "BT"
+          },
+          {
+            "regionName": "Eritrea",
+            "regionType": "COUNTRY",
+            "regionId": "ER"
+          },
+          {
+            "regionName": "Senegal",
+            "regionType": "COUNTRY",
+            "regionId": "SN"
+          },
+          {
+            "regionName": "Togo",
+            "regionType": "COUNTRY",
+            "regionId": "TG"
+          },
+          {
+            "regionName": "Saint Kitts-Nevis",
+            "regionType": "COUNTRY",
+            "regionId": "KN"
+          },
+          {
+            "regionName": "Morocco",
+            "regionType": "COUNTRY",
+            "regionId": "MA"
+          },
+          {
+            "regionName": "Ireland",
+            "regionType": "COUNTRY",
+            "regionId": "IE"
+          },
+          {
+            "regionName": "Burundi",
+            "regionType": "COUNTRY",
+            "regionId": "BI"
+          },
+          {
+            "regionName": "Saint Vincent and the Grenadines",
+            "regionType": "COUNTRY",
+            "regionId": "VC"
+          },
+          {
+            "regionName": "Netherlands",
+            "regionType": "COUNTRY",
+            "regionId": "NL"
+          },
+          {
+            "regionName": "Slovakia",
+            "regionType": "COUNTRY",
+            "regionId": "SK"
+          },
+          {
+            "regionName": "Slovenia",
+            "regionType": "COUNTRY",
+            "regionId": "SI"
+          },
+          {
+            "regionName": "Equatorial Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GQ"
+          },
+          {
+            "regionName": "Thailand",
+            "regionType": "COUNTRY",
+            "regionId": "TH"
+          },
+          {
+            "regionName": "Mauritania",
+            "regionType": "COUNTRY",
+            "regionId": "MR"
+          },
+          {
+            "regionName": "Belize",
+            "regionType": "COUNTRY",
+            "regionId": "BZ"
+          },
+          {
+            "regionName": "Philippines",
+            "regionType": "COUNTRY",
+            "regionId": "PH"
+          },
+          {
+            "regionName": "Aruba",
+            "regionType": "COUNTRY",
+            "regionId": "AW"
+          },
+          {
+            "regionName": "Democratic Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CD"
+          },
+          {
+            "regionType": "COUNTRY",
+            "regionId": "UY"
+          },
+          {
+            "regionName": "Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CG"
+          },
+          {
+            "regionName": "American Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "AS"
+          },
+          {
+            "regionName": "Sweden",
+            "regionType": "COUNTRY",
+            "regionId": "SE"
+          },
+          {
+            "regionName": "Colombia",
+            "regionType": "COUNTRY",
+            "regionId": "CO"
+          },
+          {
+            "regionName": "Spain",
+            "regionType": "COUNTRY",
+            "regionId": "ES"
+          },
+          {
+            "regionName": "Iceland",
+            "regionType": "COUNTRY",
+            "regionId": "IS"
+          },
+          {
+            "regionName": "Estonia",
+            "regionType": "COUNTRY",
+            "regionId": "EE"
+          },
+          {
+            "regionName": "Macedonia",
+            "regionType": "COUNTRY",
+            "regionId": "MK"
+          },
+          {
+            "regionName": "Belgium",
+            "regionType": "COUNTRY",
+            "regionId": "BE"
+          },
+          {
+            "regionName": "Israel",
+            "regionType": "COUNTRY",
+            "regionId": "IL"
+          },
+          {
+            "regionName": "Kuwait",
+            "regionType": "COUNTRY",
+            "regionId": "KW"
+          },
+          {
+            "regionName": "Liechtenstein",
+            "regionType": "COUNTRY",
+            "regionId": "LI"
+          },
+          {
+            "regionName": "Benin",
+            "regionType": "COUNTRY",
+            "regionId": "BJ"
+          },
+          {
+            "regionName": "Algeria",
+            "regionType": "COUNTRY",
+            "regionId": "DZ"
+          },
+          {
+            "regionName": "Bermuda",
+            "regionType": "COUNTRY",
+            "regionId": "BM"
+          },
+          {
+            "regionName": "Montserrat",
+            "regionType": "COUNTRY",
+            "regionId": "MS"
+          },
+          {
+            "regionName": "Zambia",
+            "regionType": "COUNTRY",
+            "regionId": "ZM"
+          },
+          {
+            "regionName": "South Korea",
+            "regionType": "COUNTRY",
+            "regionId": "KR"
+          },
+          {
+            "regionName": "Antigua and Barbuda",
+            "regionType": "COUNTRY",
+            "regionId": "AG"
+          },
+          {
+            "regionName": "Vanuatu",
+            "regionType": "COUNTRY",
+            "regionId": "VU"
+          },
+          {
+            "regionName": "Ecuador",
+            "regionType": "COUNTRY",
+            "regionId": "EC"
+          },
+          {
+            "regionName": "Albania",
+            "regionType": "COUNTRY",
+            "regionId": "AL"
+          },
+          {
+            "regionName": "Italy",
+            "regionType": "COUNTRY",
+            "regionId": "IT"
+          },
+          {
+            "regionName": "Swaziland",
+            "regionType": "COUNTRY",
+            "regionId": "SZ"
+          },
+          {
+            "regionName": "Ethiopia",
+            "regionType": "COUNTRY",
+            "regionId": "ET"
+          },
+          {
+            "regionName": "Monaco",
+            "regionType": "COUNTRY",
+            "regionId": "MC"
+          },
+          {
+            "regionName": "Niger",
+            "regionType": "COUNTRY",
+            "regionId": "NE"
+          },
+          {
+            "regionName": "Tanzania",
+            "regionType": "COUNTRY",
+            "regionId": "TZ"
+          },
+          {
+            "regionName": "Pakistan",
+            "regionType": "COUNTRY",
+            "regionId": "PK"
+          },
+          {
+            "regionName": "Burkina Faso",
+            "regionType": "COUNTRY",
+            "regionId": "BF"
+          },
+          {
+            "regionName": "Panama",
+            "regionType": "COUNTRY",
+            "regionId": "PA"
+          },
+          {
+            "regionName": "Singapore",
+            "regionType": "COUNTRY",
+            "regionId": "SG"
+          },
+          {
+            "regionName": "Kyrgyzstan",
+            "regionType": "COUNTRY",
+            "regionId": "KG"
+          },
+          {
+            "regionName": "Switzerland",
+            "regionType": "COUNTRY",
+            "regionId": "CH"
+          },
+          {
+            "regionName": "Ghana",
+            "regionType": "COUNTRY",
+            "regionId": "GH"
+          },
+          {
+            "regionName": "Djibouti",
+            "regionType": "COUNTRY",
+            "regionId": "DJ"
+          },
+          {
+            "regionName": "Puerto Rico",
+            "regionType": "COUNTRY",
+            "regionId": "PR"
+          },
+          {
+            "regionName": "Chile",
+            "regionType": "COUNTRY",
+            "regionId": "CL"
+          },
+          {
+            "regionName": "Cape Verde Islands",
+            "regionType": "COUNTRY",
+            "regionId": "CV"
+          },
+          {
+            "regionName": "Moldova",
+            "regionType": "COUNTRY",
+            "regionId": "MD"
+          },
+          {
+            "regionName": "Mali",
+            "regionType": "COUNTRY",
+            "regionId": "ML"
+          },
+          {
+            "regionName": "Botswana",
+            "regionType": "COUNTRY",
+            "regionId": "BW"
+          },
+          {
+            "regionName": "Republic of Croatia",
+            "regionType": "COUNTRY",
+            "regionId": "HR"
+          },
+          {
+            "regionName": "Cambodia",
+            "regionType": "COUNTRY",
+            "regionId": "KH"
+          },
+          {
+            "regionName": "Madagascar",
+            "regionType": "COUNTRY",
+            "regionId": "MG"
+          },
+          {
+            "regionName": "Indonesia",
+            "regionType": "COUNTRY",
+            "regionId": "ID"
+          },
+          {
+            "regionName": "Portugal",
+            "regionType": "COUNTRY",
+            "regionId": "PT"
+          },
+          {
+            "regionName": "Malta",
+            "regionType": "COUNTRY",
+            "regionId": "MT"
+          },
+          {
+            "regionName": "Tajikistan",
+            "regionType": "COUNTRY",
+            "regionId": "TJ"
+          },
+          {
+            "regionName": "Vietnam",
+            "regionType": "COUNTRY",
+            "regionId": "VN"
+          },
+          {
+            "regionName": "Cayman Islands",
+            "regionType": "COUNTRY",
+            "regionId": "KY"
+          },
+          {
+            "regionName": "Paraguay",
+            "regionType": "COUNTRY",
+            "regionId": "PY"
+          },
+          {
+            "regionName": "Lebanon",
+            "regionType": "COUNTRY",
+            "regionId": "LB"
+          },
+          {
+            "regionName": "Cyprus",
+            "regionType": "COUNTRY",
+            "regionId": "CY"
+          },
+          {
+            "regionName": "Seychelles",
+            "regionType": "COUNTRY",
+            "regionId": "SC"
+          },
+          {
+            "regionName": "Liberia",
+            "regionType": "COUNTRY",
+            "regionId": "LR"
+          },
+          {
+            "regionName": "Rwanda",
+            "regionType": "COUNTRY",
+            "regionId": "RW"
+          },
+          {
+            "regionName": "Bangladesh",
+            "regionType": "COUNTRY",
+            "regionId": "BD"
+          },
+          {
+            "regionName": "Bolivia",
+            "regionType": "COUNTRY",
+            "regionId": "BO"
+          },
+          {
+            "regionName": "Maldives",
+            "regionType": "COUNTRY",
+            "regionId": "MV"
+          },
+          {
+            "regionName": "Australia",
+            "regionType": "COUNTRY",
+            "regionId": "AU"
+          },
+          {
+            "regionName": "Austria",
+            "regionType": "COUNTRY",
+            "regionId": "AT"
+          },
+          {
+            "regionName": "Gibraltar",
+            "regionType": "COUNTRY",
+            "regionId": "GI"
+          },
+          {
+            "regionName": "Sri Lanka",
+            "regionType": "COUNTRY",
+            "regionId": "LK"
+          },
+          {
+            "regionName": "Central African Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CF"
+          },
+          {
+            "regionName": "Gabon Republic",
+            "regionType": "COUNTRY",
+            "regionId": "GA"
+          },
+          {
+            "regionName": "Lesotho",
+            "regionType": "COUNTRY",
+            "regionId": "LS"
+          },
+          {
+            "regionName": "Nigeria",
+            "regionType": "COUNTRY",
+            "regionId": "NG"
+          },
+          {
+            "regionName": "Zimbabwe",
+            "regionType": "COUNTRY",
+            "regionId": "ZW"
+          },
+          {
+            "regionName": "Mauritius",
+            "regionType": "COUNTRY",
+            "regionId": "MU"
+          },
+          {
+            "regionName": "Saint Lucia",
+            "regionType": "COUNTRY",
+            "regionId": "LC"
+          },
+          {
+            "regionName": "Bulgaria",
+            "regionType": "COUNTRY",
+            "regionId": "BG"
+          },
+          {
+            "regionName": "Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GN"
+          },
+          {
+            "regionName": "Czech Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CZ"
+          },
+          {
+            "regionName": "Norway",
+            "regionType": "COUNTRY",
+            "regionId": "NO"
+          },
+          {
+            "regionName": "Côte d'Ivoire (Ivory Coast)",
+            "regionType": "COUNTRY",
+            "regionId": "CI"
+          },
+          {
+            "regionName": "Canada",
+            "regionType": "COUNTRY",
+            "regionId": "CA"
+          },
+          {
+            "regionName": "Turks and Caicos Islands",
+            "regionType": "COUNTRY",
+            "regionId": "TC"
+          },
+          {
+            "regionName": "Chad",
+            "regionType": "COUNTRY",
+            "regionId": "TD"
+          },
+          {
+            "regionName": "Kiribati",
+            "regionType": "COUNTRY",
+            "regionId": "KI"
+          },
+          {
+            "regionName": "Andorra",
+            "regionType": "COUNTRY",
+            "regionId": "AD"
+          },
+          {
+            "regionName": "Turkmenistan",
+            "regionType": "COUNTRY",
+            "regionId": "TM"
+          },
+          {
+            "regionName": "Grenada",
+            "regionType": "COUNTRY",
+            "regionId": "GD"
+          },
+          {
+            "regionName": "Greece",
+            "regionType": "COUNTRY",
+            "regionId": "GR"
+          },
+          {
+            "regionName": "Romania",
+            "regionType": "COUNTRY",
+            "regionId": "RO"
+          },
+          {
+            "regionName": "Costa Rica",
+            "regionType": "COUNTRY",
+            "regionId": "CR"
+          },
+          {
+            "regionName": "India",
+            "regionType": "COUNTRY",
+            "regionId": "IN"
+          },
+          {
+            "regionName": "Greenland",
+            "regionType": "COUNTRY",
+            "regionId": "GL"
+          },
+          {
+            "regionName": "Yemen",
+            "regionType": "COUNTRY",
+            "regionId": "YE"
+          },
+          {
+            "regionName": "Mexico",
+            "regionType": "COUNTRY",
+            "regionId": "MX"
+          },
+          {
+            "regionName": "Afghanistan",
+            "regionType": "COUNTRY",
+            "regionId": "AF"
+          },
+          {
+            "regionName": "Serbia",
+            "regionType": "COUNTRY",
+            "regionId": "RS"
+          },
+          {
+            "regionName": "Kazakhstan",
+            "regionType": "COUNTRY",
+            "regionId": "KZ"
+          },
+          {
+            "regionName": "Montenegro",
+            "regionType": "COUNTRY",
+            "regionId": "ME"
+          },
+          {
+            "regionName": "Japan",
+            "regionType": "COUNTRY",
+            "regionId": "JP"
+          },
+          {
+            "regionName": "Nepal",
+            "regionType": "COUNTRY",
+            "regionId": "NP"
+          },
+          {
+            "regionName": "Bahamas",
+            "regionType": "COUNTRY",
+            "regionId": "BS"
+          },
+          {
+            "regionName": "Lithuania",
+            "regionType": "COUNTRY",
+            "regionId": "LT"
+          },
+          {
+            "regionName": "Bahrain",
+            "regionType": "COUNTRY",
+            "regionId": "BH"
+          },
+          {
+            "regionName": "Trinidad and Tobago",
+            "regionType": "COUNTRY",
+            "regionId": "TT"
+          },
+          {
+            "regionName": "Palau",
+            "regionType": "COUNTRY",
+            "regionId": "PW"
+          },
+          {
+            "regionName": "Malawi",
+            "regionType": "COUNTRY",
+            "regionId": "MW"
+          },
+          {
+            "regionName": "Bosnia and Herzegovina",
+            "regionType": "COUNTRY",
+            "regionId": "BA"
+          },
+          {
+            "regionName": "Hungary",
+            "regionType": "COUNTRY",
+            "regionId": "HU"
+          },
+          {
+            "regionName": "Angola",
+            "regionType": "COUNTRY",
+            "regionId": "AO"
+          },
+          {
+            "regionName": "Nicaragua",
+            "regionType": "COUNTRY",
+            "regionId": "NI"
+          },
+          {
+            "regionName": "Finland",
+            "regionType": "COUNTRY",
+            "regionId": "FI"
+          },
+          {
+            "regionName": "Tunisia",
+            "regionType": "COUNTRY",
+            "regionId": "TN"
+          },
+          {
+            "regionName": "Luxembourg",
+            "regionType": "COUNTRY",
+            "regionId": "LU"
+          },
+          {
+            "regionName": "Uganda",
+            "regionType": "COUNTRY",
+            "regionId": "UG"
+          },
+          {
+            "regionName": "Brazil",
+            "regionType": "COUNTRY",
+            "regionId": "BR"
+          },
+          {
+            "regionName": "Turkey",
+            "regionType": "COUNTRY",
+            "regionId": "TR"
+          },
+          {
+            "regionName": "Western Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "WS"
+          },
+          {
+            "regionName": "France",
+            "regionType": "COUNTRY",
+            "regionId": "FR"
+          },
+          {
+            "regionName": "Egypt",
+            "regionType": "COUNTRY",
+            "regionId": "EG"
+          },
+          {
+            "regionName": "Latvia",
+            "regionType": "COUNTRY",
+            "regionId": "LV"
+          },
+          {
+            "regionName": "Jamaica",
+            "regionType": "COUNTRY",
+            "regionId": "JM"
+          },
+          {
+            "regionName": "Mozambique",
+            "regionType": "COUNTRY",
+            "regionId": "MZ"
+          },
+          {
+            "regionName": "Namibia",
+            "regionType": "COUNTRY",
+            "regionId": "NA"
+          },
+          {
+            "regionName": "Peru",
+            "regionType": "COUNTRY",
+            "regionId": "PE"
+          },
+          {
+            "regionName": "Virgin Islands (U.S.)",
+            "regionType": "COUNTRY",
+            "regionId": "VI"
+          },
+          {
+            "regionName": "Brunei Darussalam",
+            "regionType": "COUNTRY",
+            "regionId": "BN"
+          },
+          {
+            "regionName": "Honduras",
+            "regionType": "COUNTRY",
+            "regionId": "HN"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "BUYER",
+        "estimatedAvailableQuantity": 8,
+        "estimatedRemainingQuantity": 8,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Brooklyn",
+        "itemLocationState": "New York",
+        "itemLocationCountry": "US"
       }
     ],
-    "total": 8914585,
+    "total": 8866748,
     "limit": 20,
     "offset": 0,
     "categoryId": "293",
     "source": "eBay Browse API (Official)",
     "apiEndpoint": "https://api.ebay.com/buy/browse/v1",
-    "timestamp": "2025-10-19T15:33:40.787Z",
+    "timestamp": "2025-10-19T17:50:25.708Z",
     "metadata": {
       "ack": "Success",
-      "timestamp": "2025-10-19T15:33:40.787Z",
-      "totalPages": 445730
+      "timestamp": "2025-10-19T17:50:25.708Z",
+      "totalPages": 443338
     }
   },
-  "expiresAt": "2025-10-20T15:33:41.588Z"
+  "expiresAt": "2025-10-20T17:50:27.175Z"
 }

@@ -146,6 +146,12 @@ function App() {
     if (!regions || regions.length === 0) return null;
 
     const names = regions.map((r) => r.regionName || r);
+
+    // If shipping to a huge number of regions (>= 200), call it "Worldwide"
+    if (names.length >= 200) {
+      return "Ships to: Worldwide";
+    }
+
     if (names.length <= 2) {
       return `Ships to: ${names.join(", ")}`;
     }
@@ -510,11 +516,20 @@ function App() {
                               </div>
                             </td>
                             <td className="stock-cell">
-                              {item.estimatedAvailableQuantity ? (
-                                item.estimatedAvailableQuantity <= 10 ? (
+                              {item.availabilityThresholdType === "MORE_THAN" &&
+                              item.availabilityThreshold ? (
+                                <span className="stock-ok">
+                                  {item.availabilityThreshold}+ in stock
+                                </span>
+                              ) : item.estimatedAvailableQuantity ? (
+                                // If quantity is round number (10, 20, 50, 100), likely means "X or more"
+                                [10, 20, 50, 100].includes(item.estimatedAvailableQuantity) ? (
+                                  <span className="stock-ok">
+                                    {item.estimatedAvailableQuantity}+ in stock
+                                  </span>
+                                ) : item.estimatedAvailableQuantity <= 5 ? (
                                   <span className="stock-low">
-                                    Only {item.estimatedAvailableQuantity} in
-                                    stock
+                                    Only {item.estimatedAvailableQuantity} in stock
                                   </span>
                                 ) : (
                                   <span className="stock-ok">
@@ -522,10 +537,13 @@ function App() {
                                   </span>
                                 )
                               ) : item.estimatedRemainingQuantity ? (
-                                item.estimatedRemainingQuantity <= 10 ? (
+                                [10, 20, 50, 100].includes(item.estimatedRemainingQuantity) ? (
+                                  <span className="stock-ok">
+                                    {item.estimatedRemainingQuantity}+ remaining
+                                  </span>
+                                ) : item.estimatedRemainingQuantity <= 5 ? (
                                   <span className="stock-low">
-                                    Only {item.estimatedRemainingQuantity}{" "}
-                                    remaining
+                                    Only {item.estimatedRemainingQuantity} remaining
                                   </span>
                                 ) : (
                                   <span className="stock-ok">
@@ -533,8 +551,7 @@ function App() {
                                   </span>
                                 )
                               ) : item.availabilityThreshold ? (
-                                item.availabilityThresholdType ===
-                                "MORE_THAN" ? (
+                                item.availabilityThresholdType === "MORE_THAN" ? (
                                   <span className="stock-ok">
                                     {item.availabilityThreshold}+ in stock
                                   </span>
@@ -564,8 +581,8 @@ function App() {
                                     {item.quantitySold} sold
                                   </div>
                                 )}
-                                {item.watchCount === 0 &&
-                                  item.quantitySold === 0 && (
+                                {(!item.watchCount || item.watchCount === 0) &&
+                                  (!item.quantitySold || item.quantitySold === 0) && (
                                     <span className="muted">No data</span>
                                   )}
                               </div>
@@ -600,6 +617,9 @@ function App() {
               <div className="footer-note">
                 All data sourced from official eBay Browse API. Click product
                 IDs to verify on eBay.com. Click images to enlarge.
+                <br />
+                <strong>Note:</strong> Watch count and quantity sold data may be
+                delayed or incomplete compared to live eBay website data.
               </div>
             </>
           )}

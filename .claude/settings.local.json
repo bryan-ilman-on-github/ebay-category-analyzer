@@ -21,7 +21,8 @@
       "Bash(netstat:*)",
       "Bash(findstr:*)",
       "Bash(curl -s \"http://localhost:3001/api/category/293\")",
-      "Bash(npm --prefix packages/api run dev)"
+      "Bash(npm --prefix packages/api run dev)",
+      "Bash(curl -s \"http://localhost:3001/api/category/11700\")"
     ],
     "deny": [],
     "ask": []

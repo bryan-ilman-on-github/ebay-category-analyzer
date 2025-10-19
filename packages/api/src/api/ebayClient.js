@@ -129,10 +129,10 @@ class EbayClient {
 
       // Log availability fields for debugging (first item only)
       if (!this._loggedAvailability) {
-        console.log('eBay API availability fields:', {
-          estimatedAvailabilities: data.estimatedAvailabilities,
-          quantityLimitPerBuyer: data.quantityLimitPerBuyer,
-        });
+        console.log('eBay API fields for item:', itemId);
+        console.log('  watchCount:', data.watchCount);
+        console.log('  estimatedAvailabilities:', JSON.stringify(data.estimatedAvailabilities, null, 2));
+        console.log('  quantityLimitPerBuyer:', data.quantityLimitPerBuyer);
         this._loggedAvailability = true;
       }
 
@@ -145,6 +145,64 @@ class EbayClient {
   }
 
   /**
+   * Get item group details and aggregate data across all variations
+   */
+  async getItemGroupDetails(itemGroupId) {
+    try {
+      const token = await this.getAccessToken();
+
+      const response = await axios.get(`${EBAY_BROWSE_API_URL}/item/get_items_by_item_group`, {
+        params: { item_group_id: itemGroupId },
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'X-EBAY-C-MARKETPLACE-ID': this.marketplace,
+        },
+      });
+
+      const data = response.data;
+
+      if (!data.items || data.items.length === 0) {
+        return null;
+      }
+
+      // Aggregate across all variations
+      const allVariations = data.items;
+
+      // Find cheapest price
+      const cheapestVariation = allVariations.reduce((min, item) => {
+        const price = parseFloat(item.price?.value || Infinity);
+        const minPrice = parseFloat(min.price?.value || Infinity);
+        return price < minPrice ? item : min;
+      }, allVariations[0]);
+
+      // Sum total sold quantity across all variations
+      const totalSold = allVariations.reduce((sum, item) => {
+        return sum + (item.estimatedAvailabilities?.[0]?.estimatedSoldQuantity || 0);
+      }, 0);
+
+      // Sum total remaining quantity
+      const totalRemaining = allVariations.reduce((sum, item) => {
+        return sum + (item.estimatedAvailabilities?.[0]?.estimatedRemainingQuantity || 0);
+      }, 0);
+
+      // Return aggregated data using cheapest variation as base
+      return {
+        ...cheapestVariation,
+        // Override with aggregated quantities
+        estimatedAvailabilities: [{
+          ...cheapestVariation.estimatedAvailabilities?.[0],
+          estimatedSoldQuantity: totalSold,
+          estimatedRemainingQuantity: totalRemaining,
+        }],
+      };
+
+    } catch (error) {
+      console.warn(`Could not fetch item group ${itemGroupId}:`, error.message);
+      return null;
+    }
+  }
+
+  /**
    * Enrich item summaries with detailed data (watchCount, quantitySold, etc.)
    */
   async enrichItemsWithDetails(items) {
@@ -152,7 +210,15 @@ class EbayClient {
 
     const enrichedItems = await Promise.all(
       items.map(async (item) => {
-        const details = await this.getItemDetails(item.itemId);
+        let details = await this.getItemDetails(item.itemId);
+
+        // If this is an item group (has variations), fetch aggregated data
+        if (details?.primaryItemGroup?.itemGroupId) {
+          const groupDetails = await this.getItemGroupDetails(details.primaryItemGroup.itemGroupId);
+          if (groupDetails) {
+            details = groupDetails;
+          }
+        }
 
         if (details) {
           return {
@@ -160,6 +226,10 @@ class EbayClient {
             // Engagement data
             watchCount: details.watchCount,
             quantitySold: details.estimatedAvailabilities?.[0]?.estimatedSoldQuantity,
+
+            // Price (use cheapest from variations)
+            price: details.price,
+            marketingPrice: details.marketingPrice,
 
             // Images - check both additionalImages and images fields
             imageUrl: details.image?.imageUrl || item.image?.imageUrl,

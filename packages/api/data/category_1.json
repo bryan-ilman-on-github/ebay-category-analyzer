@@ -1,6 +1,6 @@
 {
   "key": "category_1",
-  "timestamp": 1760890692234,
+  "timestamp": 1760896190775,
   "data": {
     "success": true,
     "items": [
@@ -56,7 +56,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/127413152930?hash=item1daa6a6ca2:g:ROwAAeSwuPRowDFT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uav8tLMDqRLbFQQ1FSnEo4a%2BCKDndlnFrfprsaD8vwJ%2BzOgj1mfYOzv9oUkoTgARfPrydiZc%2F%2Bt5GvaZnNLvDzfmJE27Xx0DWV5ntJtl4r2o6P7wfStFKex3wZU0rAWk2MjXgWLszG8YqwB9jiIUuj5NwrjhyaHXcIR7GsC%2FRz6lqzXSYWyh9fzOXaP5aaDIh0HnbazxdcIKrhCPFaH1hePnrK1ktn3LjcRsa1xDIX%2BqKYDDwHPCad9jUsXpjqjC3TrAcFnvwI6q%2FZWG%2FDqi1jY",
+        "itemWebUrl": "https://www.ebay.com/itm/127413152930?hash=item1daa6a6ca2:g:ROwAAeSwuPRowDFT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uav8tLMDqRLbFQQ1FSnEo4a%2BCKDndlnFrfprsaD8vwJ%2BzOgj1mfYOzv9oUkoTgARfPrydiZc%2F%2Bt5GvaZnNLvDzfmJE27Xx0DWV5ntJtl4r2o6P7wfStFKex3wZU0rAWk2NXeYCTYrKdptYc0OkWX7HpAGg%2Fjlw8PZ0BkPOXyay24pRNNR%2F6ge7PBsfnblmHCx6FnrV7qLZj%2FZUpLAPDgzuQL5ELqcAWN8wI%2BAUib2r2ZcK%2BztLWLKv2nm4PG3VKvMXOTKS2WJZStt6gRoH2zGu4",
         "itemLocation": {
           "postalCode": "******",
           "country": "CN"
@@ -108,1205 +108,6 @@
         ],
         "itemLocationCity": "China",
         "itemLocationCountry": "CN"
-      },
-      {
-        "itemId": "v1|276299927473|0",
-        "title": "Yemenite Shofar Kudu Horn 31”-41”XL New KOSHER Made Half Polished FREE SHIPPING",
-        "leafCategoryIds": [
-          "165699"
-        ],
-        "categories": [
-          {
-            "categoryId": "165699",
-            "categoryName": "Shofars"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "1446",
-            "categoryName": "Religion & Spirituality"
-          },
-          {
-            "categoryId": "13773",
-            "categoryName": "Judaism"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/bC0AAOSwsBBlsFMC/s-l225.jpg"
-        },
-        "price": {
-          "value": "118.75",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276299927473%7C0",
-        "seller": {
-          "username": "holylandshofar",
-          "feedbackPercentage": "100.0",
-          "feedbackScore": 491
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "125.00",
-            "currency": "USD"
-          },
-          "discountPercentage": "5",
-          "discountAmount": {
-            "value": "6.25",
-            "currency": "USD"
-          },
-          "priceTreatment": "MARKDOWN"
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/bC0AAOSwsBBlsFMC/s-l640.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE",
-          "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/276299927473?hash=item4054c24fb1:g:bC0AAOSwsBBlsFMC&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZch80pxtHFjKNyO54NevFtIh4B0Qvy1AH5yqJZu%2Fjw0Cwu%2BjM00nsAKpSX2D2pL9lJfTjN3qa6dhRh1oX%2BPMT1nGAmUmdxcm78hm47t0yg5ogwnPGW1bi%2FBe%2FILqZC4AkCBEDnHQsB3pqmi%2B3glLbs65zT3hhdMtz%2BPb5G6tEZ7BqZ%2FGBISys6eSHphwM4dWvnVvbedgzA63U1oEPd5RNi%2FgkiXkCixpY1%2FW3JSB6tSsH3iOA6DCQ5jQbkZwbBjXHrakRKPuos4SV9mhH5WBKd",
-        "itemLocation": {
-          "postalCode": "328**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/g9EAAOSw6O5luYy-/s-l1600.jpg",
-            "width": 433,
-            "height": 577
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/ru8AAOSwfsxluYy9/s-l1600.jpg",
-            "width": 577,
-            "height": 433
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/iZQAAOSwfTRluYy-/s-l1600.jpg",
-            "width": 433,
-            "height": 577
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/EgIAAOSw63pluYy-/s-l1600.jpg",
-            "width": 433,
-            "height": 577
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/aDYAAOSw8UdmIcWj/s-l1600.jpg",
-            "width": 433,
-            "height": 577
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/MPwAAOSwZ15mlISU/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/MF8AAOSwyARmlIPN/s-l1600.jpg",
-            "width": 1069,
-            "height": 1217
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/2VMAAOSwEFpmIcXQ/s-l1600.jpg",
-            "width": 1200,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/T9YAAOSwm4pmIcXO/s-l1600.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/BOMAAOSwLxhmIcXP/s-l1600.jpg",
-            "width": 1600,
-            "height": 1200
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "276299927473",
-        "availableCoupons": false,
-        "itemOriginDate": "2024-01-24T00:31:26.000Z",
-        "itemCreationDate": "2024-01-24T00:31:26.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 288,
-        "imageUrl": "https://i.ebayimg.com/images/g/bC0AAOSwsBBlsFMC/s-l1600.jpg",
-        "shortDescription": "Shofars has been half polished which shows the natural beauty of the outside curve being natural polished and the inside curve being full polished with a spectacular shine. Each shofar has been hand tuned for optimal sound.",
-        "categoryPath": "Collectibles|Religion & Spirituality|Judaism|Shofars",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "Worldwide",
-            "regionType": "WORLDWIDE",
-            "regionId": "WORLDWIDE"
-          },
-          {
-            "regionName": "New Zealand",
-            "regionType": "COUNTRY",
-            "regionId": "NZ"
-          },
-          {
-            "regionName": "Fiji",
-            "regionType": "COUNTRY",
-            "regionId": "FJ"
-          },
-          {
-            "regionName": "Papua New Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "PG"
-          },
-          {
-            "regionName": "Wallis and Futuna",
-            "regionType": "COUNTRY",
-            "regionId": "WF"
-          },
-          {
-            "regionName": "Marshall Islands",
-            "regionType": "COUNTRY",
-            "regionId": "MH"
-          },
-          {
-            "regionName": "Gambia",
-            "regionType": "COUNTRY",
-            "regionId": "GM"
-          },
-          {
-            "regionName": "Malaysia",
-            "regionType": "COUNTRY",
-            "regionId": "MY"
-          },
-          {
-            "regionName": "Mayotte",
-            "regionType": "COUNTRY",
-            "regionId": "YT"
-          },
-          {
-            "regionName": "Taiwan",
-            "regionType": "COUNTRY",
-            "regionId": "TW"
-          },
-          {
-            "regionName": "Poland",
-            "regionType": "COUNTRY",
-            "regionId": "PL"
-          },
-          {
-            "regionName": "Oman",
-            "regionType": "COUNTRY",
-            "regionId": "OM"
-          },
-          {
-            "regionName": "Suriname",
-            "regionType": "COUNTRY",
-            "regionId": "SR"
-          },
-          {
-            "regionName": "United Arab Emirates",
-            "regionType": "COUNTRY",
-            "regionId": "AE"
-          },
-          {
-            "regionName": "Kenya",
-            "regionType": "COUNTRY",
-            "regionId": "KE"
-          },
-          {
-            "regionName": "Argentina",
-            "regionType": "COUNTRY",
-            "regionId": "AR"
-          },
-          {
-            "regionName": "Guinea-Bissau",
-            "regionType": "COUNTRY",
-            "regionId": "GW"
-          },
-          {
-            "regionName": "Armenia",
-            "regionType": "COUNTRY",
-            "regionId": "AM"
-          },
-          {
-            "regionName": "Uzbekistan",
-            "regionType": "COUNTRY",
-            "regionId": "UZ"
-          },
-          {
-            "regionName": "Bhutan",
-            "regionType": "COUNTRY",
-            "regionId": "BT"
-          },
-          {
-            "regionName": "Senegal",
-            "regionType": "COUNTRY",
-            "regionId": "SN"
-          },
-          {
-            "regionName": "Togo",
-            "regionType": "COUNTRY",
-            "regionId": "TG"
-          },
-          {
-            "regionName": "Ireland",
-            "regionType": "COUNTRY",
-            "regionId": "IE"
-          },
-          {
-            "regionName": "Falkland Islands (Islas Malvinas)",
-            "regionType": "COUNTRY",
-            "regionId": "FK"
-          },
-          {
-            "regionName": "Qatar",
-            "regionType": "COUNTRY",
-            "regionId": "QA"
-          },
-          {
-            "regionName": "Burundi",
-            "regionType": "COUNTRY",
-            "regionId": "BI"
-          },
-          {
-            "regionName": "Netherlands",
-            "regionType": "COUNTRY",
-            "regionId": "NL"
-          },
-          {
-            "regionName": "Slovakia",
-            "regionType": "COUNTRY",
-            "regionId": "SK"
-          },
-          {
-            "regionName": "Iraq",
-            "regionType": "COUNTRY",
-            "regionId": "IQ"
-          },
-          {
-            "regionName": "Slovenia",
-            "regionType": "COUNTRY",
-            "regionId": "SI"
-          },
-          {
-            "regionName": "Equatorial Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GQ"
-          },
-          {
-            "regionName": "Thailand",
-            "regionType": "COUNTRY",
-            "regionId": "TH"
-          },
-          {
-            "regionName": "Aruba",
-            "regionType": "COUNTRY",
-            "regionId": "AW"
-          },
-          {
-            "regionName": "American Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "AS"
-          },
-          {
-            "regionName": "Sweden",
-            "regionType": "COUNTRY",
-            "regionId": "SE"
-          },
-          {
-            "regionName": "Iceland",
-            "regionType": "COUNTRY",
-            "regionId": "IS"
-          },
-          {
-            "regionName": "Macedonia",
-            "regionType": "COUNTRY",
-            "regionId": "MK"
-          },
-          {
-            "regionName": "Belgium",
-            "regionType": "COUNTRY",
-            "regionId": "BE"
-          },
-          {
-            "regionName": "Israel",
-            "regionType": "COUNTRY",
-            "regionId": "IL"
-          },
-          {
-            "regionName": "Liechtenstein",
-            "regionType": "COUNTRY",
-            "regionId": "LI"
-          },
-          {
-            "regionName": "Kuwait",
-            "regionType": "COUNTRY",
-            "regionId": "KW"
-          },
-          {
-            "regionName": "Benin",
-            "regionType": "COUNTRY",
-            "regionId": "BJ"
-          },
-          {
-            "regionName": "Algeria",
-            "regionType": "COUNTRY",
-            "regionId": "DZ"
-          },
-          {
-            "regionName": "Antigua and Barbuda",
-            "regionType": "COUNTRY",
-            "regionId": "AG"
-          },
-          {
-            "regionName": "Italy",
-            "regionType": "COUNTRY",
-            "regionId": "IT"
-          },
-          {
-            "regionName": "Swaziland",
-            "regionType": "COUNTRY",
-            "regionId": "SZ"
-          },
-          {
-            "regionName": "Tanzania",
-            "regionType": "COUNTRY",
-            "regionId": "TZ"
-          },
-          {
-            "regionName": "Pakistan",
-            "regionType": "COUNTRY",
-            "regionId": "PK"
-          },
-          {
-            "regionName": "Burkina Faso",
-            "regionType": "COUNTRY",
-            "regionId": "BF"
-          },
-          {
-            "regionName": "Panama",
-            "regionType": "COUNTRY",
-            "regionId": "PA"
-          },
-          {
-            "regionName": "Singapore",
-            "regionType": "COUNTRY",
-            "regionId": "SG"
-          },
-          {
-            "regionName": "Kyrgyzstan",
-            "regionType": "COUNTRY",
-            "regionId": "KG"
-          },
-          {
-            "regionName": "Jersey",
-            "regionType": "COUNTRY",
-            "regionId": "JE"
-          },
-          {
-            "regionName": "Switzerland",
-            "regionType": "COUNTRY",
-            "regionId": "CH"
-          },
-          {
-            "regionName": "Djibouti",
-            "regionType": "COUNTRY",
-            "regionId": "DJ"
-          },
-          {
-            "regionName": "Puerto Rico",
-            "regionType": "COUNTRY",
-            "regionId": "PR"
-          },
-          {
-            "regionName": "Chile",
-            "regionType": "COUNTRY",
-            "regionId": "CL"
-          },
-          {
-            "regionName": "China",
-            "regionType": "COUNTRY",
-            "regionId": "CN"
-          },
-          {
-            "regionName": "Mali",
-            "regionType": "COUNTRY",
-            "regionId": "ML"
-          },
-          {
-            "regionName": "Botswana",
-            "regionType": "COUNTRY",
-            "regionId": "BW"
-          },
-          {
-            "regionName": "Republic of Croatia",
-            "regionType": "COUNTRY",
-            "regionId": "HR"
-          },
-          {
-            "regionName": "Cambodia",
-            "regionType": "COUNTRY",
-            "regionId": "KH"
-          },
-          {
-            "regionName": "Indonesia",
-            "regionType": "COUNTRY",
-            "regionId": "ID"
-          },
-          {
-            "regionName": "Portugal",
-            "regionType": "COUNTRY",
-            "regionId": "PT"
-          },
-          {
-            "regionName": "Malta",
-            "regionType": "COUNTRY",
-            "regionId": "MT"
-          },
-          {
-            "regionName": "Tajikistan",
-            "regionType": "COUNTRY",
-            "regionId": "TJ"
-          },
-          {
-            "regionName": "Vietnam",
-            "regionType": "COUNTRY",
-            "regionId": "VN"
-          },
-          {
-            "regionName": "Cayman Islands",
-            "regionType": "COUNTRY",
-            "regionId": "KY"
-          },
-          {
-            "regionName": "Paraguay",
-            "regionType": "COUNTRY",
-            "regionId": "PY"
-          },
-          {
-            "regionName": "Saint Helena",
-            "regionType": "COUNTRY",
-            "regionId": "SH"
-          },
-          {
-            "regionName": "Cyprus",
-            "regionType": "COUNTRY",
-            "regionId": "CY"
-          },
-          {
-            "regionName": "Seychelles",
-            "regionType": "COUNTRY",
-            "regionId": "SC"
-          },
-          {
-            "regionName": "Rwanda",
-            "regionType": "COUNTRY",
-            "regionId": "RW"
-          },
-          {
-            "regionName": "Bangladesh",
-            "regionType": "COUNTRY",
-            "regionId": "BD"
-          },
-          {
-            "regionName": "Australia",
-            "regionType": "COUNTRY",
-            "regionId": "AU"
-          },
-          {
-            "regionName": "Austria",
-            "regionType": "COUNTRY",
-            "regionId": "AT"
-          },
-          {
-            "regionName": "Sri Lanka",
-            "regionType": "COUNTRY",
-            "regionId": "LK"
-          },
-          {
-            "regionName": "Gabon Republic",
-            "regionType": "COUNTRY",
-            "regionId": "GA"
-          },
-          {
-            "regionName": "Zimbabwe",
-            "regionType": "COUNTRY",
-            "regionId": "ZW"
-          },
-          {
-            "regionName": "Bulgaria",
-            "regionType": "COUNTRY",
-            "regionId": "BG"
-          },
-          {
-            "regionName": "Czech Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CZ"
-          },
-          {
-            "regionName": "Norway",
-            "regionType": "COUNTRY",
-            "regionId": "NO"
-          },
-          {
-            "regionName": "Côte d'Ivoire (Ivory Coast)",
-            "regionType": "COUNTRY",
-            "regionId": "CI"
-          },
-          {
-            "regionName": "Kiribati",
-            "regionType": "COUNTRY",
-            "regionId": "KI"
-          },
-          {
-            "regionName": "Turkmenistan",
-            "regionType": "COUNTRY",
-            "regionId": "TM"
-          },
-          {
-            "regionName": "Grenada",
-            "regionType": "COUNTRY",
-            "regionId": "GD"
-          },
-          {
-            "regionName": "Greece",
-            "regionType": "COUNTRY",
-            "regionId": "GR"
-          },
-          {
-            "regionName": "Haiti",
-            "regionType": "COUNTRY",
-            "regionId": "HT"
-          },
-          {
-            "regionName": "Greenland",
-            "regionType": "COUNTRY",
-            "regionId": "GL"
-          },
-          {
-            "regionName": "Yemen",
-            "regionType": "COUNTRY",
-            "regionId": "YE"
-          },
-          {
-            "regionName": "Afghanistan",
-            "regionType": "COUNTRY",
-            "regionId": "AF"
-          },
-          {
-            "regionName": "Montenegro",
-            "regionType": "COUNTRY",
-            "regionId": "ME"
-          },
-          {
-            "regionName": "Mongolia",
-            "regionType": "COUNTRY",
-            "regionId": "MN"
-          },
-          {
-            "regionName": "Nepal",
-            "regionType": "COUNTRY",
-            "regionId": "NP"
-          },
-          {
-            "regionName": "Bahamas",
-            "regionType": "COUNTRY",
-            "regionId": "BS"
-          },
-          {
-            "regionName": "Bahrain",
-            "regionType": "COUNTRY",
-            "regionId": "BH"
-          },
-          {
-            "regionName": "United Kingdom",
-            "regionType": "COUNTRY",
-            "regionId": "GB"
-          },
-          {
-            "regionName": "Svalbard and Jan Mayen",
-            "regionType": "COUNTRY",
-            "regionId": "SJ"
-          },
-          {
-            "regionName": "Dominica",
-            "regionType": "COUNTRY",
-            "regionId": "DM"
-          },
-          {
-            "regionName": "Bosnia and Herzegovina",
-            "regionType": "COUNTRY",
-            "regionId": "BA"
-          },
-          {
-            "regionName": "Hungary",
-            "regionType": "COUNTRY",
-            "regionId": "HU"
-          },
-          {
-            "regionName": "Angola",
-            "regionType": "COUNTRY",
-            "regionId": "AO"
-          },
-          {
-            "regionName": "Western Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "WS"
-          },
-          {
-            "regionName": "France",
-            "regionType": "COUNTRY",
-            "regionId": "FR"
-          },
-          {
-            "regionName": "Mozambique",
-            "regionType": "COUNTRY",
-            "regionId": "MZ"
-          },
-          {
-            "regionName": "Namibia",
-            "regionType": "COUNTRY",
-            "regionId": "NA"
-          },
-          {
-            "regionName": "Peru",
-            "regionType": "COUNTRY",
-            "regionId": "PE"
-          },
-          {
-            "regionName": "Denmark",
-            "regionType": "COUNTRY",
-            "regionId": "DK"
-          },
-          {
-            "regionName": "Guatemala",
-            "regionType": "COUNTRY",
-            "regionId": "GT"
-          },
-          {
-            "regionName": "Solomon Islands",
-            "regionType": "COUNTRY",
-            "regionId": "SB"
-          },
-          {
-            "regionName": "Vatican City State",
-            "regionType": "COUNTRY",
-            "regionId": "VA"
-          },
-          {
-            "regionName": "Sierra Leone",
-            "regionType": "COUNTRY",
-            "regionId": "SL"
-          },
-          {
-            "regionName": "Nauru",
-            "regionType": "COUNTRY",
-            "regionId": "NR"
-          },
-          {
-            "regionName": "Anguilla",
-            "regionType": "COUNTRY",
-            "regionId": "AI"
-          },
-          {
-            "regionName": "El Salvador",
-            "regionType": "COUNTRY",
-            "regionId": "SV"
-          },
-          {
-            "regionName": "Guam",
-            "regionType": "COUNTRY",
-            "regionId": "GU"
-          },
-          {
-            "regionName": "Micronesia",
-            "regionType": "COUNTRY",
-            "regionId": "FM"
-          },
-          {
-            "regionName": "Dominican Republic",
-            "regionType": "COUNTRY",
-            "regionId": "DO"
-          },
-          {
-            "regionName": "Cameroon",
-            "regionType": "COUNTRY",
-            "regionId": "CM"
-          },
-          {
-            "regionName": "Guyana",
-            "regionType": "COUNTRY",
-            "regionId": "GY"
-          },
-          {
-            "regionName": "Azerbaijan Republic",
-            "regionType": "COUNTRY",
-            "regionId": "AZ"
-          },
-          {
-            "regionName": "Macau",
-            "regionType": "COUNTRY",
-            "regionId": "MO"
-          },
-          {
-            "regionName": "Georgia",
-            "regionType": "COUNTRY",
-            "regionId": "GE"
-          },
-          {
-            "regionName": "Tonga",
-            "regionType": "COUNTRY",
-            "regionId": "TO"
-          },
-          {
-            "regionName": "San Marino",
-            "regionType": "COUNTRY",
-            "regionId": "SM"
-          },
-          {
-            "regionName": "Eritrea",
-            "regionType": "COUNTRY",
-            "regionId": "ER"
-          },
-          {
-            "regionName": "Saint Kitts-Nevis",
-            "regionType": "COUNTRY",
-            "regionId": "KN"
-          },
-          {
-            "regionName": "Morocco",
-            "regionType": "COUNTRY",
-            "regionId": "MA"
-          },
-          {
-            "regionName": "Saint Vincent and the Grenadines",
-            "regionType": "COUNTRY",
-            "regionId": "VC"
-          },
-          {
-            "regionName": "Belarus",
-            "regionType": "COUNTRY",
-            "regionId": "BY"
-          },
-          {
-            "regionName": "Mauritania",
-            "regionType": "COUNTRY",
-            "regionId": "MR"
-          },
-          {
-            "regionName": "Belize",
-            "regionType": "COUNTRY",
-            "regionId": "BZ"
-          },
-          {
-            "regionName": "Philippines",
-            "regionType": "COUNTRY",
-            "regionId": "PH"
-          },
-          {
-            "regionName": "Democratic Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CD"
-          },
-          {
-            "regionType": "COUNTRY",
-            "regionId": "UY"
-          },
-          {
-            "regionName": "Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CG"
-          },
-          {
-            "regionName": "Western Sahara",
-            "regionType": "COUNTRY",
-            "regionId": "EH"
-          },
-          {
-            "regionName": "Cook Islands",
-            "regionType": "COUNTRY",
-            "regionId": "CK"
-          },
-          {
-            "regionName": "Comoros",
-            "regionType": "COUNTRY",
-            "regionId": "KM"
-          },
-          {
-            "regionName": "Colombia",
-            "regionType": "COUNTRY",
-            "regionId": "CO"
-          },
-          {
-            "regionName": "Spain",
-            "regionType": "COUNTRY",
-            "regionId": "ES"
-          },
-          {
-            "regionName": "Estonia",
-            "regionType": "COUNTRY",
-            "regionId": "EE"
-          },
-          {
-            "regionName": "Bermuda",
-            "regionType": "COUNTRY",
-            "regionId": "BM"
-          },
-          {
-            "regionName": "Montserrat",
-            "regionType": "COUNTRY",
-            "regionId": "MS"
-          },
-          {
-            "regionName": "Zambia",
-            "regionType": "COUNTRY",
-            "regionId": "ZM"
-          },
-          {
-            "regionName": "South Korea",
-            "regionType": "COUNTRY",
-            "regionId": "KR"
-          },
-          {
-            "regionName": "Somalia",
-            "regionType": "COUNTRY",
-            "regionId": "SO"
-          },
-          {
-            "regionName": "Vanuatu",
-            "regionType": "COUNTRY",
-            "regionId": "VU"
-          },
-          {
-            "regionName": "Ecuador",
-            "regionType": "COUNTRY",
-            "regionId": "EC"
-          },
-          {
-            "regionName": "Albania",
-            "regionType": "COUNTRY",
-            "regionId": "AL"
-          },
-          {
-            "regionName": "Ethiopia",
-            "regionType": "COUNTRY",
-            "regionId": "ET"
-          },
-          {
-            "regionName": "Monaco",
-            "regionType": "COUNTRY",
-            "regionId": "MC"
-          },
-          {
-            "regionName": "Guernsey",
-            "regionType": "COUNTRY",
-            "regionId": "GG"
-          },
-          {
-            "regionName": "Niger",
-            "regionType": "COUNTRY",
-            "regionId": "NE"
-          },
-          {
-            "regionName": "Laos",
-            "regionType": "COUNTRY",
-            "regionId": "LA"
-          },
-          {
-            "regionName": "Ghana",
-            "regionType": "COUNTRY",
-            "regionId": "GH"
-          },
-          {
-            "regionName": "Cape Verde Islands",
-            "regionType": "COUNTRY",
-            "regionId": "CV"
-          },
-          {
-            "regionName": "Moldova",
-            "regionType": "COUNTRY",
-            "regionId": "MD"
-          },
-          {
-            "regionName": "Madagascar",
-            "regionType": "COUNTRY",
-            "regionId": "MG"
-          },
-          {
-            "regionName": "Saint Pierre and Miquelon",
-            "regionType": "COUNTRY",
-            "regionId": "PM"
-          },
-          {
-            "regionName": "Lebanon",
-            "regionType": "COUNTRY",
-            "regionId": "LB"
-          },
-          {
-            "regionName": "Liberia",
-            "regionType": "COUNTRY",
-            "regionId": "LR"
-          },
-          {
-            "regionName": "Bolivia",
-            "regionType": "COUNTRY",
-            "regionId": "BO"
-          },
-          {
-            "regionName": "Maldives",
-            "regionType": "COUNTRY",
-            "regionId": "MV"
-          },
-          {
-            "regionName": "Gibraltar",
-            "regionType": "COUNTRY",
-            "regionId": "GI"
-          },
-          {
-            "regionName": "Hong Kong",
-            "regionType": "COUNTRY",
-            "regionId": "HK"
-          },
-          {
-            "regionName": "Central African Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CF"
-          },
-          {
-            "regionName": "Lesotho",
-            "regionType": "COUNTRY",
-            "regionId": "LS"
-          },
-          {
-            "regionName": "Nigeria",
-            "regionType": "COUNTRY",
-            "regionId": "NG"
-          },
-          {
-            "regionName": "Mauritius",
-            "regionType": "COUNTRY",
-            "regionId": "MU"
-          },
-          {
-            "regionName": "Saint Lucia",
-            "regionType": "COUNTRY",
-            "regionId": "LC"
-          },
-          {
-            "regionName": "Jordan",
-            "regionType": "COUNTRY",
-            "regionId": "JO"
-          },
-          {
-            "regionName": "Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GN"
-          },
-          {
-            "regionName": "British Virgin Islands",
-            "regionType": "COUNTRY",
-            "regionId": "VG"
-          },
-          {
-            "regionName": "Canada",
-            "regionType": "COUNTRY",
-            "regionId": "CA"
-          },
-          {
-            "regionName": "Turks and Caicos Islands",
-            "regionType": "COUNTRY",
-            "regionId": "TC"
-          },
-          {
-            "regionName": "Chad",
-            "regionType": "COUNTRY",
-            "regionId": "TD"
-          },
-          {
-            "regionName": "Andorra",
-            "regionType": "COUNTRY",
-            "regionId": "AD"
-          },
-          {
-            "regionName": "Romania",
-            "regionType": "COUNTRY",
-            "regionId": "RO"
-          },
-          {
-            "regionName": "Costa Rica",
-            "regionType": "COUNTRY",
-            "regionId": "CR"
-          },
-          {
-            "regionName": "India",
-            "regionType": "COUNTRY",
-            "regionId": "IN"
-          },
-          {
-            "regionName": "Mexico",
-            "regionType": "COUNTRY",
-            "regionId": "MX"
-          },
-          {
-            "regionName": "Serbia",
-            "regionType": "COUNTRY",
-            "regionId": "RS"
-          },
-          {
-            "regionName": "Kazakhstan",
-            "regionType": "COUNTRY",
-            "regionId": "KZ"
-          },
-          {
-            "regionName": "Saudi Arabia",
-            "regionType": "COUNTRY",
-            "regionId": "SA"
-          },
-          {
-            "regionName": "Netherlands Antilles",
-            "regionType": "COUNTRY",
-            "regionId": "AN"
-          },
-          {
-            "regionName": "Japan",
-            "regionType": "COUNTRY",
-            "regionId": "JP"
-          },
-          {
-            "regionName": "Lithuania",
-            "regionType": "COUNTRY",
-            "regionId": "LT"
-          },
-          {
-            "regionName": "Trinidad and Tobago",
-            "regionType": "COUNTRY",
-            "regionId": "TT"
-          },
-          {
-            "regionName": "Palau",
-            "regionType": "COUNTRY",
-            "regionId": "PW"
-          },
-          {
-            "regionName": "Malawi",
-            "regionType": "COUNTRY",
-            "regionId": "MW"
-          },
-          {
-            "regionName": "Nicaragua",
-            "regionType": "COUNTRY",
-            "regionId": "NI"
-          },
-          {
-            "regionName": "Finland",
-            "regionType": "COUNTRY",
-            "regionId": "FI"
-          },
-          {
-            "regionName": "Tunisia",
-            "regionType": "COUNTRY",
-            "regionId": "TN"
-          },
-          {
-            "regionName": "Luxembourg",
-            "regionType": "COUNTRY",
-            "regionId": "LU"
-          },
-          {
-            "regionName": "Uganda",
-            "regionType": "COUNTRY",
-            "regionId": "UG"
-          },
-          {
-            "regionName": "Brazil",
-            "regionType": "COUNTRY",
-            "regionId": "BR"
-          },
-          {
-            "regionName": "Turkey",
-            "regionType": "COUNTRY",
-            "regionId": "TR"
-          },
-          {
-            "regionName": "Tuvalu",
-            "regionType": "COUNTRY",
-            "regionId": "TV"
-          },
-          {
-            "regionName": "Germany",
-            "regionType": "COUNTRY",
-            "regionId": "DE"
-          },
-          {
-            "regionName": "Egypt",
-            "regionType": "COUNTRY",
-            "regionId": "EG"
-          },
-          {
-            "regionName": "Latvia",
-            "regionType": "COUNTRY",
-            "regionId": "LV"
-          },
-          {
-            "regionName": "Jamaica",
-            "regionType": "COUNTRY",
-            "regionId": "JM"
-          },
-          {
-            "regionName": "Niue",
-            "regionType": "COUNTRY",
-            "regionId": "NU"
-          },
-          {
-            "regionName": "Virgin Islands (U.S.)",
-            "regionType": "COUNTRY",
-            "regionId": "VI"
-          },
-          {
-            "regionName": "South Africa",
-            "regionType": "COUNTRY",
-            "regionId": "ZA"
-          },
-          {
-            "regionName": "Brunei Darussalam",
-            "regionType": "COUNTRY",
-            "regionId": "BN"
-          },
-          {
-            "regionName": "Honduras",
-            "regionType": "COUNTRY",
-            "regionId": "HN"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "14 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "estimatedAvailableQuantity": 36,
-        "estimatedRemainingQuantity": 36,
-        "deliveryOptions": [
-          "SHIP_TO_HOME",
-          "SELLER_ARRANGED_LOCAL_PICKUP"
-        ],
-        "itemLocationCity": "Orlando",
-        "itemLocationState": "Florida",
-        "itemLocationCountry": "US"
       },
       {
         "itemId": "v1|336203827334|0",
@@ -1361,7 +162,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/336203827334?hash=item4e474f4886:g:Rb8AAeSwVOJo1nV2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaWwRhLzwLa2NoYwF8wpUzUkBZMxZARlBKSpiY12gD0RaL3y6lpN63xhWP7q0MoZ8AqQdUfhBzkMkLCG5wOATbu1ABE%2BW1eZX6XKiztfrlu%2FKa6BPTfGdhfnO%2FeW5F3r%2BMGgmrGOhh72heyXx77NjXykcCDzD4ohIhvmC1LkLnlEFISks73mRkFahKBHPvx75XsEQTvJM8PElfdcOldHI39TtjSlRQFnxepP7tZPGvP0yLegm5VwAGFMogBZ%2B%2Fs0nsKLPKP7Z2LxcDR%2Bq%2B1OZIS",
+        "itemWebUrl": "https://www.ebay.com/itm/336203827334?hash=item4e474f4886:g:Rb8AAeSwVOJo1nV2&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaWwRhLzwLa2NoYwF8wpUzUkBZMxZARlBKSpiY12gD0RaL3y6lpN63xhWP7q0MoZ8AqQdUfhBzkMkLCG5wOATbu1ABE%2BW1eZX6XKiztfrlu%2FKa6BPTfGdhfnO%2FeW5F3r%2BO0zQMnwQZlpKHuTI4qbt9Zh6a4ngTxlcY9ZgxUEnFDh6zyVUNPGRtLNr6zwmVmFcv8o%2B7uItUKKP8E7fOPVjpqilPs7S7yFDlIE3ycMM7RLSVgsBSonNhhDVpRKqrrTi5OvkPI25bZLh1SU80tfpRG",
         "itemLocation": {
           "postalCode": "******",
           "country": "HK"
@@ -1469,7 +270,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/389005232382?hash=item5a9284c8fe:g:87cAAeSwUCBn4dsB&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYBxUbF3w7yzIsvahnVUeWjNfCq1KGyxdZKCs%2BoNqLcSGJl4V9wH1UMZS5nbvYo1IbKp%2FX3Ei1qSasf9cmthkKmQXWAc1jnj6O91%2FsY0rqM%2B%2F2SLqDA02NiNymxoYWkL%2BPHd32iwIESVDyhwetTxZYmMflQGyuA%2FirX7tOpq85Q3MVSysxVSmRP9TRy10Fbg6k4zIuDgmHRmK9c%2FBGMRC78Ppm73Ngfl7mDGLDKETG3F1G07z5mWrAmSTEoe2VhFEBoIpQJ%2FGcaHbBqcGGp9fUb",
+        "itemWebUrl": "https://www.ebay.com/itm/389005232382?hash=item5a9284c8fe:g:87cAAeSwUCBn4dsB&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYBxUbF3w7yzIsvahnVUeWjNfCq1KGyxdZKCs%2BoNqLcSGJl4V9wH1UMZS5nbvYo1IbKp%2FX3Ei1qSasf9cmthkKmQXWAc1jnj6O91%2FsY0rqM%2B%2F2SLqDA02NiNymxoYWkL%2BPi4QPZJVikxMyBdv%2FAzTbcYtwU1P9dSg4JFab039yfVszx611nj%2FBB8VgZXbsPvc6Iqb55fJ%2B8L5yGOBYaUrCK5mfPoPjuCqEfysI1NtAHhZEf1EBNHLIBY1MLSbDDKPy7XdEF5VybejSzQDoyLTqw",
         "itemLocation": {
           "postalCode": "335**",
           "country": "US"
@@ -2411,6 +1212,142 @@
         "itemLocationCountry": "US"
       },
       {
+        "itemId": "v1|336203829477|0",
+        "title": "CC Morgan Silver Dollars 1878-1893 - 5 Uncirculated Coins Mixed Dates Lot",
+        "leafCategoryIds": [
+          "125"
+        ],
+        "categories": [
+          {
+            "categoryId": "125",
+            "categoryName": "Other Paper Collectibles"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "124",
+            "categoryName": "Paper"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/itUAAeSwt~Bo2T2V/s-l225.jpg"
+        },
+        "price": {
+          "value": "65.99",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336203829477%7C0",
+        "seller": {
+          "username": "taojinghushangmao33019900",
+          "feedbackPercentage": "85.7",
+          "feedbackScore": 5
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/itUAAeSwt~Bo2T2V/s-l1200.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            }
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE",
+          "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/336203829477?hash=item4e474f50e5:g:itUAAeSwt~Bo2T2V&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uan%2BhFmlggpRy%2BxzK75iypmhRixGUb6rHxJOgtn2cuaVjnbMnVvLSh9ihIpR3HR4NG%2BIisgOHuyVrqBUQ0FrAV%2B1wH%2BzmBXvi4Bm%2BDWAHxJ5SefkgIX69iPxk%2FJ9O1tmesZCuUwKzz%2FBwsFCjj3xe2hVIOFrk2PyKcKGkLQKqbVvDBEYzSCEf4pshECzhIxsTnFec%2FFOa49UHf07RoqjvPerv4yBxx%2BeamzqTrzAeqEOqfVhJWL1NLXRh43r6WPjydPj0E4FC7iTE2yjwYHvWLO",
+        "itemLocation": {
+          "postalCode": "******",
+          "country": "HK"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/m8wAAeSw81xo2T2X/s-l1600.jpg",
+            "width": 859,
+            "height": 1148
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/mHMAAeSws2Fo2T2W/s-l1600.jpg",
+            "width": 859,
+            "height": 1145
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/yRsAAeSwj19o2T2W/s-l1600.jpg",
+            "width": 710,
+            "height": 947
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/pHwAAeSwDNdo2T2W/s-l1600.jpg",
+            "width": 1121,
+            "height": 1041
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/l~AAAeSwzydo2T2W/s-l1600.jpg",
+            "width": 1102,
+            "height": 1034
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/nngAAeSwucpo2T2W/s-l1600.jpg",
+            "width": 954,
+            "height": 938
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/wK4AAeSwn75o2T2W/s-l1600.jpg",
+            "width": 869,
+            "height": 865
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/jiIAAeSwH~5o2T2V/s-l1600.jpg",
+            "width": 827,
+            "height": 941
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "336203829477",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-09-28T13:49:17.000Z",
+        "itemCreationDate": "2025-09-28T13:49:17.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 19,
+        "imageUrl": "https://i.ebayimg.com/images/g/itUAAeSwt~Bo2T2V/s-l1600.jpg",
+        "shortDescription": "Attention: Due to lighting and camera issues, there may be slight differences in color between the actual item and the image. This is a normal situation, and the actual item received shall prevail! Dear buyer, hello. We are committed to building a high-quality store on eBay. Thank you very much for choosing our store. If there are any issues with your product, please do not apply for a return and do not leave negative reviews. Please contact us and we will reply to you within 24 hours. We will definitely provide you with a satisfactory solution. Thank you very much for your support and understanding. Wishing you good health and abundant wealth. Delivery time: Approximately 7-14 days after placing the order (excluding special holidays, weather conditions, and force majeure)",
+        "categoryPath": "Collectibles|Paper|Other Paper Collectibles",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping from outside",
+        "shipToLocations": [
+          {
+            "regionName": "Worldwide",
+            "regionType": "WORLDWIDE",
+            "regionId": "WORLDWIDE"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "BUYER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 30,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "hong kong",
+        "itemLocationCountry": "HK"
+      },
+      {
         "itemId": "v1|167869112927|0",
         "title": "Corrupted Stem | Garden Tower Defense | GTD",
         "leafCategoryIds": [
@@ -2445,7 +1382,7 @@
         "seller": {
           "username": "fuesity",
           "feedbackPercentage": "100.0",
-          "feedbackScore": 27
+          "feedbackScore": 28
         },
         "condition": "New",
         "conditionId": "1000",
@@ -2751,7 +1688,7 @@
         "seller": {
           "username": "goodsupplymarket",
           "feedbackPercentage": "97.3",
-          "feedbackScore": 1293
+          "feedbackScore": 1295
         },
         "condition": "New",
         "conditionId": "1000",
@@ -3674,79 +2611,427 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|267402089090|0",
-        "title": "Charlie Kirk Tribute Holo Custom Card",
+        "itemId": "v1|286285504573|0",
+        "title": "Authentic RAW Classic King Size W/Filter Tip Pre-Rolled Cones 100 Pack US",
         "leafCategoryIds": [
-          "183050"
+          "73563"
         ],
         "categories": [
           {
-            "categoryId": "183050",
-            "categoryName": "Trading Card Singles"
+            "categoryId": "73563",
+            "categoryName": "Papers"
           },
           {
             "categoryId": "1",
             "categoryName": "Collectibles"
           },
           {
-            "categoryId": "182982",
-            "categoryName": "Non-Sport Trading Cards"
+            "categoryId": "593",
+            "categoryName": "Tobacciana"
           }
         ],
         "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/lcYAAeSwsnBo3YSa/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/EAYAAOSwSSdlT8-K/s-l225.jpg"
         },
         "price": {
-          "value": "7.00",
+          "value": "16.50",
           "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267402089090%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286285504573%7C0",
         "seller": {
-          "username": "queen_city_cardz",
-          "feedbackPercentage": "99.9",
-          "feedbackScore": 4396
+          "username": "star5-asianartist",
+          "feedbackPercentage": "99.0",
+          "feedbackScore": 23160
         },
-        "condition": "Ungraded",
-        "conditionId": "4000",
+        "marketingPrice": {
+          "originalPrice": {
+            "value": "18.88",
+            "currency": "USD"
+          },
+          "discountPercentage": "13.0",
+          "discountAmount": {
+            "value": "2.38",
+            "currency": "USD"
+          },
+          "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New",
+        "conditionId": "1000",
         "thumbnailImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/lcYAAeSwsnBo3YSa/s-l1600.jpg"
+            "imageUrl": "https://i.ebayimg.com/images/g/EAYAAOSwSSdlT8-K/s-l640.jpg"
           }
         ],
         "shippingOptions": [
           {
-            "shippingCostType": "CALCULATED"
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
           }
         ],
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/267402089090?hash=item3e42681282:g:lcYAAeSwsnBo3YSa",
+        "itemWebUrl": "https://www.ebay.com/itm/286285504573?hash=item42a7f2203d:g:EAYAAOSwSSdlT8-K",
         "itemLocation": {
-          "postalCode": "370**",
+          "postalCode": "103**",
           "country": "US"
         },
         "additionalImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/oAIAAeSwn0Fo3YSb/s-l1600.jpg",
-            "width": 1199,
-            "height": 1599
+            "imageUrl": "https://i.ebayimg.com/images/g/DtoAAOSw1ExjZCHr/s-l1600.jpg",
+            "width": 630,
+            "height": 630
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/6XgAAOSwhAJjZCHt/s-l1600.jpg",
+            "width": 1200,
+            "height": 1200
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/OLEAAOSwpWNjZCHs/s-l1600.jpg",
+            "width": 765,
+            "height": 699
           }
         ],
         "adultOnly": false,
-        "legacyItemId": "267402089090",
+        "legacyItemId": "286285504573",
         "availableCoupons": false,
-        "itemOriginDate": "2025-09-13T01:00:08.000Z",
-        "itemCreationDate": "2025-09-13T20:32:53.000Z",
+        "itemOriginDate": "2024-03-22T01:08:47.000Z",
+        "itemCreationDate": "2025-01-26T13:14:41.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 389,
-        "imageUrl": "https://i.ebayimg.com/images/g/lcYAAeSwsnBo3YSa/s-l1600.jpg",
-        "shortDescription": "The Charlie Kirk Tribute Holographic Custom Card is a non-sport trading card featuring a political theme. This unique card pays tribute to Charlie Kirk, known for his political franchise and influence in the realm of politics. As a collectible item, this card appeals to fans and collectors of politics-related trading cards and memorabilia. With its holographic design, this card adds a special touch to any collection, making it a sought-after piece for enthusiasts of political trading cards.",
-        "categoryPath": "Collectibles|Non-Sport Trading Cards|Trading Card Singles",
+        "quantitySold": 2012,
+        "imageUrl": "https://i.ebayimg.com/images/g/EAYAAOSwSSdlT8-K/s-l1600.jpg",
+        "shortDescription": "This Rawthentic creation is windmill powered, Non-GMO, totally chlorine free and vegan friendly. RAW Classic King Size Cones 109mm Pre Rolled Hemp Cones. RAW pre-rolled cones are created from the famous proprietary RAW blend of unbleached natural fibers, a natural sugar based gum is then added and then the rolling paper is rolled into a cone shape with a RAW hemp filter tip.",
+        "categoryPath": "Collectibles|Tobacciana|Papers",
         "shippingCost": {
-          "value": "1.03",
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "BUYER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 226,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Staten Island",
+        "itemLocationState": "New York",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|397151929062|0",
+        "title": "20 rolls of 100, 2025 Free Shipping Total 2000 Fast  free shipping",
+        "leafCategoryIds": [
+          "125"
+        ],
+        "categories": [
+          {
+            "categoryId": "125",
+            "categoryName": "Other Paper Collectibles"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "124",
+            "categoryName": "Paper"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/nPMAAeSwJDZo7KiK/s-l225.jpg"
+        },
+        "price": {
+          "value": "51.99",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C397151929062%7C0",
+        "seller": {
+          "username": "xin-xin-aotu01",
+          "feedbackPercentage": "100.0",
+          "feedbackScore": 27
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/nPMAAeSwJDZo7KiK/s-l1200.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-28T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/397151929062?hash=item5c781982e6:g:nPMAAeSwJDZo7KiK",
+        "itemLocation": {
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/p0AAAeSwhERo7KiL/s-l1600.jpg",
+            "width": 1080,
+            "height": 1080
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/QAYAAeSwavdo7KiM/s-l1600.jpg",
+            "width": 1199,
+            "height": 1600
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "397151929062",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-10-13T07:21:50.000Z",
+        "itemCreationDate": "2025-10-13T07:21:50.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 12,
+        "imageUrl": "https://i.ebayimg.com/images/g/nPMAAeSwJDZo7KiK/s-l1600.jpg",
+        "shortDescription": "Not only can it be collected, but it can also have practical uses for sending cards and letters.",
+        "categoryPath": "Collectibles|Paper|Other Paper Collectibles",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": false,
+        "returnPeriod": "undefined undefined",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 88,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "NJ",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|326785081132|0",
+        "title": "Set of 2 Hallmark 2026 14 Month Datebook Planner Write & Remember Important Info",
+        "leafCategoryIds": [
+          "262043"
+        ],
+        "categories": [
+          {
+            "categoryId": "262043",
+            "categoryName": "Non-Topographical Postcards"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "914",
+            "categoryName": "Postcards & Supplies"
+          },
+          {
+            "categoryId": "262041",
+            "categoryName": "Postcards"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/~tYAAeSwrbto0fe9/s-l225.jpg"
+        },
+        "price": {
+          "value": "10.88",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326785081132%7C0",
+        "seller": {
+          "username": "plumgirl",
+          "feedbackPercentage": "99.9",
+          "feedbackScore": 12706
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/~tYAAeSwrbto0fe9/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-25T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/326785081132?hash=item4c15e89f2c:g:~tYAAeSwrbto0fe9",
+        "itemLocation": {
+          "postalCode": "152**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/pwoAAeSw6W5o0ffS/s-l1600.jpg",
+            "width": 1352,
+            "height": 836
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/HoAAAeSwcdpo0fYQ/s-l1600.jpg",
+            "width": 1242,
+            "height": 1007
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "326785081132",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-09-23T01:21:22.000Z",
+        "itemCreationDate": "2025-09-23T01:21:22.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 155,
+        "imageUrl": "https://i.ebayimg.com/images/g/~tYAAeSwrbto0fe9/s-l1600.jpg",
+        "shortDescription": "Set of two (2) 2026 Hallmark Datebooks/Planners. NOTE: Unlike many previous years, Hallmark did not make a wallet sized calendar to go with this. Traditional and modern anniversary gifts. Birthstones for each month.",
+        "categoryPath": "Collectibles|Postcards & Supplies|Postcards|Non-Topographical Postcards",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "Worldwide",
+            "regionType": "WORLDWIDE",
+            "regionId": "WORLDWIDE"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 45,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Pittsburgh",
+        "itemLocationState": "Pennsylvania",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|392164447786|662497646788",
+        "title": "Individual WHATABURGER Restaurant Table Tent Numbers - Modern Glossy",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=392164447786",
+        "leafCategoryIds": [
+          "850"
+        ],
+        "categories": [
+          {
+            "categoryId": "850",
+            "categoryName": "Other Restaurant Ads"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "34",
+            "categoryName": "Advertising"
+          },
+          {
+            "categoryId": "849",
+            "categoryName": "Restaurants & Fast Food"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/dMoAAOSwrZBcCdpZ/s-l225.jpg"
+        },
+        "price": {
+          "value": "1.67",
+          "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C392164447786%7C662497646788",
+        "seller": {
+          "username": "jowe_9345",
+          "feedbackPercentage": "100.0",
+          "feedbackScore": 1215
+        },
+        "condition": "Used",
+        "conditionId": "3000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/dMoAAOSwrZBcCdpZ/s-l960.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/392164447786?hash=item5b4ed2962a:g:dMoAAOSwrZBcCdpZ",
+        "itemLocation": {
+          "postalCode": "750**",
+          "country": "US"
+        },
+        "adultOnly": false,
+        "legacyItemId": "392164447786",
+        "availableCoupons": false,
+        "itemOriginDate": "2018-11-01T11:14:47.000Z",
+        "itemCreationDate": "2018-11-01T11:14:47.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 2635,
+        "imageUrl": "https://i.ebayimg.com/images/g/Mr4AAOSwFu1cCdzx/s-l1600.jpg",
+        "additionalImages": [],
+        "shortDescription": "Whataburger number tents with the modern glossy paint. Used condition. Sold individually. Check out all of the variations.",
+        "categoryPath": "Collectibles|Advertising|Restaurants & Fast Food|Other Restaurant Ads",
+        "shippingCost": {
+          "value": "0.00",
           "currency": "USD"
         },
         "shippingType": "Standard Shipping",
@@ -3757,9 +3042,958 @@
             "regionId": "US"
           },
           {
+            "regionName": "Denmark",
+            "regionType": "COUNTRY",
+            "regionId": "DK"
+          },
+          {
+            "regionName": "Guatemala",
+            "regionType": "COUNTRY",
+            "regionId": "GT"
+          },
+          {
             "regionName": "New Zealand",
             "regionType": "COUNTRY",
             "regionId": "NZ"
+          },
+          {
+            "regionName": "Fiji",
+            "regionType": "COUNTRY",
+            "regionId": "FJ"
+          },
+          {
+            "regionName": "Papua New Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "PG"
+          },
+          {
+            "regionName": "Solomon Islands",
+            "regionType": "COUNTRY",
+            "regionId": "SB"
+          },
+          {
+            "regionName": "Vatican City State",
+            "regionType": "COUNTRY",
+            "regionId": "VA"
+          },
+          {
+            "regionName": "Sierra Leone",
+            "regionType": "COUNTRY",
+            "regionId": "SL"
+          },
+          {
+            "regionName": "Nauru",
+            "regionType": "COUNTRY",
+            "regionId": "NR"
+          },
+          {
+            "regionName": "Wallis and Futuna",
+            "regionType": "COUNTRY",
+            "regionId": "WF"
+          },
+          {
+            "regionName": "Marshall Islands",
+            "regionType": "COUNTRY",
+            "regionId": "MH"
+          },
+          {
+            "regionName": "Anguilla",
+            "regionType": "COUNTRY",
+            "regionId": "AI"
+          },
+          {
+            "regionName": "El Salvador",
+            "regionType": "COUNTRY",
+            "regionId": "SV"
+          },
+          {
+            "regionName": "Gambia",
+            "regionType": "COUNTRY",
+            "regionId": "GM"
+          },
+          {
+            "regionName": "Guam",
+            "regionType": "COUNTRY",
+            "regionId": "GU"
+          },
+          {
+            "regionName": "Micronesia",
+            "regionType": "COUNTRY",
+            "regionId": "FM"
+          },
+          {
+            "regionName": "Dominican Republic",
+            "regionType": "COUNTRY",
+            "regionId": "DO"
+          },
+          {
+            "regionName": "Cameroon",
+            "regionType": "COUNTRY",
+            "regionId": "CM"
+          },
+          {
+            "regionName": "Guyana",
+            "regionType": "COUNTRY",
+            "regionId": "GY"
+          },
+          {
+            "regionName": "Azerbaijan Republic",
+            "regionType": "COUNTRY",
+            "regionId": "AZ"
+          },
+          {
+            "regionName": "Poland",
+            "regionType": "COUNTRY",
+            "regionId": "PL"
+          },
+          {
+            "regionName": "Georgia",
+            "regionType": "COUNTRY",
+            "regionId": "GE"
+          },
+          {
+            "regionName": "Oman",
+            "regionType": "COUNTRY",
+            "regionId": "OM"
+          },
+          {
+            "regionName": "Suriname",
+            "regionType": "COUNTRY",
+            "regionId": "SR"
+          },
+          {
+            "regionName": "Tonga",
+            "regionType": "COUNTRY",
+            "regionId": "TO"
+          },
+          {
+            "regionName": "Kenya",
+            "regionType": "COUNTRY",
+            "regionId": "KE"
+          },
+          {
+            "regionName": "Argentina",
+            "regionType": "COUNTRY",
+            "regionId": "AR"
+          },
+          {
+            "regionName": "San Marino",
+            "regionType": "COUNTRY",
+            "regionId": "SM"
+          },
+          {
+            "regionName": "Guinea-Bissau",
+            "regionType": "COUNTRY",
+            "regionId": "GW"
+          },
+          {
+            "regionName": "Armenia",
+            "regionType": "COUNTRY",
+            "regionId": "AM"
+          },
+          {
+            "regionName": "Uzbekistan",
+            "regionType": "COUNTRY",
+            "regionId": "UZ"
+          },
+          {
+            "regionName": "Bhutan",
+            "regionType": "COUNTRY",
+            "regionId": "BT"
+          },
+          {
+            "regionName": "Eritrea",
+            "regionType": "COUNTRY",
+            "regionId": "ER"
+          },
+          {
+            "regionName": "Senegal",
+            "regionType": "COUNTRY",
+            "regionId": "SN"
+          },
+          {
+            "regionName": "Togo",
+            "regionType": "COUNTRY",
+            "regionId": "TG"
+          },
+          {
+            "regionName": "Saint Kitts-Nevis",
+            "regionType": "COUNTRY",
+            "regionId": "KN"
+          },
+          {
+            "regionName": "Morocco",
+            "regionType": "COUNTRY",
+            "regionId": "MA"
+          },
+          {
+            "regionName": "Ireland",
+            "regionType": "COUNTRY",
+            "regionId": "IE"
+          },
+          {
+            "regionName": "Burundi",
+            "regionType": "COUNTRY",
+            "regionId": "BI"
+          },
+          {
+            "regionName": "Saint Vincent and the Grenadines",
+            "regionType": "COUNTRY",
+            "regionId": "VC"
+          },
+          {
+            "regionName": "Netherlands",
+            "regionType": "COUNTRY",
+            "regionId": "NL"
+          },
+          {
+            "regionName": "Slovakia",
+            "regionType": "COUNTRY",
+            "regionId": "SK"
+          },
+          {
+            "regionName": "Slovenia",
+            "regionType": "COUNTRY",
+            "regionId": "SI"
+          },
+          {
+            "regionName": "Equatorial Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GQ"
+          },
+          {
+            "regionName": "Mauritania",
+            "regionType": "COUNTRY",
+            "regionId": "MR"
+          },
+          {
+            "regionName": "Belize",
+            "regionType": "COUNTRY",
+            "regionId": "BZ"
+          },
+          {
+            "regionName": "Philippines",
+            "regionType": "COUNTRY",
+            "regionId": "PH"
+          },
+          {
+            "regionName": "Aruba",
+            "regionType": "COUNTRY",
+            "regionId": "AW"
+          },
+          {
+            "regionName": "Democratic Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CD"
+          },
+          {
+            "regionType": "COUNTRY",
+            "regionId": "UY"
+          },
+          {
+            "regionName": "Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CG"
+          },
+          {
+            "regionName": "American Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "AS"
+          },
+          {
+            "regionName": "Sweden",
+            "regionType": "COUNTRY",
+            "regionId": "SE"
+          },
+          {
+            "regionName": "Spain",
+            "regionType": "COUNTRY",
+            "regionId": "ES"
+          },
+          {
+            "regionName": "Iceland",
+            "regionType": "COUNTRY",
+            "regionId": "IS"
+          },
+          {
+            "regionName": "Estonia",
+            "regionType": "COUNTRY",
+            "regionId": "EE"
+          },
+          {
+            "regionName": "Macedonia",
+            "regionType": "COUNTRY",
+            "regionId": "MK"
+          },
+          {
+            "regionName": "Belgium",
+            "regionType": "COUNTRY",
+            "regionId": "BE"
+          },
+          {
+            "regionName": "Israel",
+            "regionType": "COUNTRY",
+            "regionId": "IL"
+          },
+          {
+            "regionName": "Liechtenstein",
+            "regionType": "COUNTRY",
+            "regionId": "LI"
+          },
+          {
+            "regionName": "Benin",
+            "regionType": "COUNTRY",
+            "regionId": "BJ"
+          },
+          {
+            "regionName": "Algeria",
+            "regionType": "COUNTRY",
+            "regionId": "DZ"
+          },
+          {
+            "regionName": "Bermuda",
+            "regionType": "COUNTRY",
+            "regionId": "BM"
+          },
+          {
+            "regionName": "Montserrat",
+            "regionType": "COUNTRY",
+            "regionId": "MS"
+          },
+          {
+            "regionName": "Zambia",
+            "regionType": "COUNTRY",
+            "regionId": "ZM"
+          },
+          {
+            "regionName": "South Korea",
+            "regionType": "COUNTRY",
+            "regionId": "KR"
+          },
+          {
+            "regionName": "Antigua and Barbuda",
+            "regionType": "COUNTRY",
+            "regionId": "AG"
+          },
+          {
+            "regionName": "Vanuatu",
+            "regionType": "COUNTRY",
+            "regionId": "VU"
+          },
+          {
+            "regionName": "Ecuador",
+            "regionType": "COUNTRY",
+            "regionId": "EC"
+          },
+          {
+            "regionName": "Albania",
+            "regionType": "COUNTRY",
+            "regionId": "AL"
+          },
+          {
+            "regionName": "Italy",
+            "regionType": "COUNTRY",
+            "regionId": "IT"
+          },
+          {
+            "regionName": "Swaziland",
+            "regionType": "COUNTRY",
+            "regionId": "SZ"
+          },
+          {
+            "regionName": "Ethiopia",
+            "regionType": "COUNTRY",
+            "regionId": "ET"
+          },
+          {
+            "regionName": "Monaco",
+            "regionType": "COUNTRY",
+            "regionId": "MC"
+          },
+          {
+            "regionName": "Niger",
+            "regionType": "COUNTRY",
+            "regionId": "NE"
+          },
+          {
+            "regionName": "Tanzania",
+            "regionType": "COUNTRY",
+            "regionId": "TZ"
+          },
+          {
+            "regionName": "Pakistan",
+            "regionType": "COUNTRY",
+            "regionId": "PK"
+          },
+          {
+            "regionName": "Burkina Faso",
+            "regionType": "COUNTRY",
+            "regionId": "BF"
+          },
+          {
+            "regionName": "Panama",
+            "regionType": "COUNTRY",
+            "regionId": "PA"
+          },
+          {
+            "regionName": "Singapore",
+            "regionType": "COUNTRY",
+            "regionId": "SG"
+          },
+          {
+            "regionName": "Kyrgyzstan",
+            "regionType": "COUNTRY",
+            "regionId": "KG"
+          },
+          {
+            "regionName": "Switzerland",
+            "regionType": "COUNTRY",
+            "regionId": "CH"
+          },
+          {
+            "regionName": "Ghana",
+            "regionType": "COUNTRY",
+            "regionId": "GH"
+          },
+          {
+            "regionName": "Djibouti",
+            "regionType": "COUNTRY",
+            "regionId": "DJ"
+          },
+          {
+            "regionName": "Puerto Rico",
+            "regionType": "COUNTRY",
+            "regionId": "PR"
+          },
+          {
+            "regionName": "Cape Verde Islands",
+            "regionType": "COUNTRY",
+            "regionId": "CV"
+          },
+          {
+            "regionName": "Moldova",
+            "regionType": "COUNTRY",
+            "regionId": "MD"
+          },
+          {
+            "regionName": "Mali",
+            "regionType": "COUNTRY",
+            "regionId": "ML"
+          },
+          {
+            "regionName": "Botswana",
+            "regionType": "COUNTRY",
+            "regionId": "BW"
+          },
+          {
+            "regionName": "Republic of Croatia",
+            "regionType": "COUNTRY",
+            "regionId": "HR"
+          },
+          {
+            "regionName": "Cambodia",
+            "regionType": "COUNTRY",
+            "regionId": "KH"
+          },
+          {
+            "regionName": "Madagascar",
+            "regionType": "COUNTRY",
+            "regionId": "MG"
+          },
+          {
+            "regionName": "Portugal",
+            "regionType": "COUNTRY",
+            "regionId": "PT"
+          },
+          {
+            "regionName": "Malta",
+            "regionType": "COUNTRY",
+            "regionId": "MT"
+          },
+          {
+            "regionName": "Tajikistan",
+            "regionType": "COUNTRY",
+            "regionId": "TJ"
+          },
+          {
+            "regionName": "Vietnam",
+            "regionType": "COUNTRY",
+            "regionId": "VN"
+          },
+          {
+            "regionName": "Cayman Islands",
+            "regionType": "COUNTRY",
+            "regionId": "KY"
+          },
+          {
+            "regionName": "Paraguay",
+            "regionType": "COUNTRY",
+            "regionId": "PY"
+          },
+          {
+            "regionName": "Lebanon",
+            "regionType": "COUNTRY",
+            "regionId": "LB"
+          },
+          {
+            "regionName": "Cyprus",
+            "regionType": "COUNTRY",
+            "regionId": "CY"
+          },
+          {
+            "regionName": "Seychelles",
+            "regionType": "COUNTRY",
+            "regionId": "SC"
+          },
+          {
+            "regionName": "Liberia",
+            "regionType": "COUNTRY",
+            "regionId": "LR"
+          },
+          {
+            "regionName": "Rwanda",
+            "regionType": "COUNTRY",
+            "regionId": "RW"
+          },
+          {
+            "regionName": "Bangladesh",
+            "regionType": "COUNTRY",
+            "regionId": "BD"
+          },
+          {
+            "regionName": "Bolivia",
+            "regionType": "COUNTRY",
+            "regionId": "BO"
+          },
+          {
+            "regionName": "Maldives",
+            "regionType": "COUNTRY",
+            "regionId": "MV"
+          },
+          {
+            "regionName": "Australia",
+            "regionType": "COUNTRY",
+            "regionId": "AU"
+          },
+          {
+            "regionName": "Austria",
+            "regionType": "COUNTRY",
+            "regionId": "AT"
+          },
+          {
+            "regionName": "Gibraltar",
+            "regionType": "COUNTRY",
+            "regionId": "GI"
+          },
+          {
+            "regionName": "Sri Lanka",
+            "regionType": "COUNTRY",
+            "regionId": "LK"
+          },
+          {
+            "regionName": "Central African Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CF"
+          },
+          {
+            "regionName": "Gabon Republic",
+            "regionType": "COUNTRY",
+            "regionId": "GA"
+          },
+          {
+            "regionName": "Lesotho",
+            "regionType": "COUNTRY",
+            "regionId": "LS"
+          },
+          {
+            "regionName": "Nigeria",
+            "regionType": "COUNTRY",
+            "regionId": "NG"
+          },
+          {
+            "regionName": "Zimbabwe",
+            "regionType": "COUNTRY",
+            "regionId": "ZW"
+          },
+          {
+            "regionName": "Mauritius",
+            "regionType": "COUNTRY",
+            "regionId": "MU"
+          },
+          {
+            "regionName": "Saint Lucia",
+            "regionType": "COUNTRY",
+            "regionId": "LC"
+          },
+          {
+            "regionName": "Bulgaria",
+            "regionType": "COUNTRY",
+            "regionId": "BG"
+          },
+          {
+            "regionName": "Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GN"
+          },
+          {
+            "regionName": "Czech Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CZ"
+          },
+          {
+            "regionName": "Côte d'Ivoire (Ivory Coast)",
+            "regionType": "COUNTRY",
+            "regionId": "CI"
+          },
+          {
+            "regionName": "Canada",
+            "regionType": "COUNTRY",
+            "regionId": "CA"
+          },
+          {
+            "regionName": "Turks and Caicos Islands",
+            "regionType": "COUNTRY",
+            "regionId": "TC"
+          },
+          {
+            "regionName": "Chad",
+            "regionType": "COUNTRY",
+            "regionId": "TD"
+          },
+          {
+            "regionName": "Kiribati",
+            "regionType": "COUNTRY",
+            "regionId": "KI"
+          },
+          {
+            "regionName": "Andorra",
+            "regionType": "COUNTRY",
+            "regionId": "AD"
+          },
+          {
+            "regionName": "Turkmenistan",
+            "regionType": "COUNTRY",
+            "regionId": "TM"
+          },
+          {
+            "regionName": "Grenada",
+            "regionType": "COUNTRY",
+            "regionId": "GD"
+          },
+          {
+            "regionName": "Greece",
+            "regionType": "COUNTRY",
+            "regionId": "GR"
+          },
+          {
+            "regionName": "Romania",
+            "regionType": "COUNTRY",
+            "regionId": "RO"
+          },
+          {
+            "regionName": "Costa Rica",
+            "regionType": "COUNTRY",
+            "regionId": "CR"
+          },
+          {
+            "regionName": "India",
+            "regionType": "COUNTRY",
+            "regionId": "IN"
+          },
+          {
+            "regionName": "Greenland",
+            "regionType": "COUNTRY",
+            "regionId": "GL"
+          },
+          {
+            "regionName": "Yemen",
+            "regionType": "COUNTRY",
+            "regionId": "YE"
+          },
+          {
+            "regionName": "Mexico",
+            "regionType": "COUNTRY",
+            "regionId": "MX"
+          },
+          {
+            "regionName": "Afghanistan",
+            "regionType": "COUNTRY",
+            "regionId": "AF"
+          },
+          {
+            "regionName": "Serbia",
+            "regionType": "COUNTRY",
+            "regionId": "RS"
+          },
+          {
+            "regionName": "Kazakhstan",
+            "regionType": "COUNTRY",
+            "regionId": "KZ"
+          },
+          {
+            "regionName": "Montenegro",
+            "regionType": "COUNTRY",
+            "regionId": "ME"
+          },
+          {
+            "regionName": "Japan",
+            "regionType": "COUNTRY",
+            "regionId": "JP"
+          },
+          {
+            "regionName": "Nepal",
+            "regionType": "COUNTRY",
+            "regionId": "NP"
+          },
+          {
+            "regionName": "Bahamas",
+            "regionType": "COUNTRY",
+            "regionId": "BS"
+          },
+          {
+            "regionName": "Lithuania",
+            "regionType": "COUNTRY",
+            "regionId": "LT"
+          },
+          {
+            "regionName": "Bahrain",
+            "regionType": "COUNTRY",
+            "regionId": "BH"
+          },
+          {
+            "regionName": "Trinidad and Tobago",
+            "regionType": "COUNTRY",
+            "regionId": "TT"
+          },
+          {
+            "regionName": "United Kingdom",
+            "regionType": "COUNTRY",
+            "regionId": "GB"
+          },
+          {
+            "regionName": "Palau",
+            "regionType": "COUNTRY",
+            "regionId": "PW"
+          },
+          {
+            "regionName": "Malawi",
+            "regionType": "COUNTRY",
+            "regionId": "MW"
+          },
+          {
+            "regionName": "Bosnia and Herzegovina",
+            "regionType": "COUNTRY",
+            "regionId": "BA"
+          },
+          {
+            "regionName": "Hungary",
+            "regionType": "COUNTRY",
+            "regionId": "HU"
+          },
+          {
+            "regionName": "Angola",
+            "regionType": "COUNTRY",
+            "regionId": "AO"
+          },
+          {
+            "regionName": "Nicaragua",
+            "regionType": "COUNTRY",
+            "regionId": "NI"
+          },
+          {
+            "regionName": "Finland",
+            "regionType": "COUNTRY",
+            "regionId": "FI"
+          },
+          {
+            "regionName": "Tunisia",
+            "regionType": "COUNTRY",
+            "regionId": "TN"
+          },
+          {
+            "regionName": "Luxembourg",
+            "regionType": "COUNTRY",
+            "regionId": "LU"
+          },
+          {
+            "regionName": "Uganda",
+            "regionType": "COUNTRY",
+            "regionId": "UG"
+          },
+          {
+            "regionName": "Brazil",
+            "regionType": "COUNTRY",
+            "regionId": "BR"
+          },
+          {
+            "regionName": "Turkey",
+            "regionType": "COUNTRY",
+            "regionId": "TR"
+          },
+          {
+            "regionName": "Western Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "WS"
+          },
+          {
+            "regionName": "France",
+            "regionType": "COUNTRY",
+            "regionId": "FR"
+          },
+          {
+            "regionName": "Germany",
+            "regionType": "COUNTRY",
+            "regionId": "DE"
+          },
+          {
+            "regionName": "Egypt",
+            "regionType": "COUNTRY",
+            "regionId": "EG"
+          },
+          {
+            "regionName": "Latvia",
+            "regionType": "COUNTRY",
+            "regionId": "LV"
+          },
+          {
+            "regionName": "Jamaica",
+            "regionType": "COUNTRY",
+            "regionId": "JM"
+          },
+          {
+            "regionName": "Mozambique",
+            "regionType": "COUNTRY",
+            "regionId": "MZ"
+          },
+          {
+            "regionName": "Namibia",
+            "regionType": "COUNTRY",
+            "regionId": "NA"
+          },
+          {
+            "regionName": "Peru",
+            "regionType": "COUNTRY",
+            "regionId": "PE"
+          },
+          {
+            "regionName": "Virgin Islands (U.S.)",
+            "regionType": "COUNTRY",
+            "regionId": "VI"
+          },
+          {
+            "regionName": "Brunei Darussalam",
+            "regionType": "COUNTRY",
+            "regionId": "BN"
+          },
+          {
+            "regionName": "Honduras",
+            "regionType": "COUNTRY",
+            "regionId": "HN"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "BUYER",
+        "estimatedAvailableQuantity": 0,
+        "estimatedRemainingQuantity": 725,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Plano",
+        "itemLocationState": "Texas",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|166909803401|466584363541",
+        "title": "Disney Assorted Pin Trading Lot ~ Pick Size From 25-600 ~ Brand New ~ No Doubles",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=166909803401",
+        "leafCategoryIds": [
+          "143"
+        ],
+        "categories": [
+          {
+            "categoryId": "143",
+            "categoryName": "Other Disney Pins & Patches"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "137",
+            "categoryName": "Disneyana"
+          },
+          {
+            "categoryId": "1369",
+            "categoryName": "Contemporary (1968-Now)"
+          },
+          {
+            "categoryId": "38004",
+            "categoryName": "Pins, Patches & Buttons"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZLwAAOSwEwNmtVag/s-l225.jpg"
+        },
+        "price": {
+          "value": "27.59",
+          "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166909803401%7C466584363541",
+        "seller": {
+          "username": "couger85",
+          "feedbackPercentage": "97.9",
+          "feedbackScore": 9407
+        },
+        "condition": "Unspecified",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/ZLwAAOSwEwNmtVag/s-l1200.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/166909803401?hash=item26dc997b89:g:ZLwAAOSwEwNmtVag",
+        "itemLocation": {
+          "postalCode": "347**",
+          "country": "US"
+        },
+        "adultOnly": false,
+        "legacyItemId": "166909803401",
+        "availableCoupons": false,
+        "itemOriginDate": "2024-08-08T23:52:13.000Z",
+        "itemCreationDate": "2024-08-08T23:52:13.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 736,
+        "imageUrl": "https://i.ebayimg.com/images/g/ZLwAAOSwEwNmtVag/s-l1600.jpg",
+        "additionalImages": [],
+        "shortDescription": "I will do my best to minimize doubles above 200 pins but you will get doubles. Disney Pins Lots. Happy Trading! leave high stars for us! Random pins in each lot. 200 pins or less you will receive a no-doubles lot.",
+        "categoryPath": "Collectibles|Disneyana|Contemporary (1968-Now)|Pins, Patches & Buttons|Other Disney Pins & Patches",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
           },
           {
             "regionName": "Fiji",
@@ -4631,6 +4865,11 @@
             "regionId": "UG"
           },
           {
+            "regionName": "Brazil",
+            "regionType": "COUNTRY",
+            "regionId": "BR"
+          },
+          {
             "regionName": "Turkey",
             "regionType": "COUNTRY",
             "regionId": "TR"
@@ -4673,590 +4912,16 @@
         ],
         "returnsAccepted": true,
         "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "estimatedAvailableQuantity": 852,
-        "estimatedRemainingQuantity": 852,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Clarksville",
-        "itemLocationState": "Tennessee",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|306547056034|0",
-        "title": "30 rolls of 100 USPS - Postage US Ship!!-3000 PCS (2023)-Special Sale!! New seal",
-        "leafCategoryIds": [
-          "125"
-        ],
-        "categories": [
-          {
-            "categoryId": "125",
-            "categoryName": "Other Paper Collectibles"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "124",
-            "categoryName": "Paper"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/coEAAeSwQc1o7Klx/s-l225.jpg"
-        },
-        "price": {
-          "value": "76.99",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C306547056034%7C0",
-        "seller": {
-          "username": "tongxinwei08",
-          "feedbackPercentage": "86.4",
-          "feedbackScore": 32
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/coEAAeSwQc1o7Klx/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-31T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/306547056034?hash=item475fa0dda2:g:coEAAeSwQc1o7Klx",
-        "itemLocation": {
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/1ScAAeSwz59o7Kly/s-l1600.jpg",
-            "width": 1200,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/aR8AAeSwFWZo7Klz/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/NnAAAeSwjwNo7Kl0/s-l1600.jpg",
-            "width": 800,
-            "height": 800
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "306547056034",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-10-13T07:25:41.000Z",
-        "itemCreationDate": "2025-10-13T07:25:41.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 39,
-        "imageUrl": "https://i.ebayimg.com/images/g/coEAAeSwQc1o7Klx/s-l1600.jpg",
-        "shortDescription": "New 30 rolls of 100 USPS - Postage Free Ship!!-3000 PCS-Discount Multiples!",
-        "categoryPath": "Collectibles|Paper|Other Paper Collectibles",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": false,
-        "returnPeriod": "undefined undefined",
+        "returnShippingPayer": "SELLER",
         "availabilityThreshold": 10,
         "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 61,
+        "estimatedRemainingQuantity": 9264,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
-        "itemLocationCity": "NJ",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|167850251896|0",
-        "title": "Genshin Impact x Taiwan Family Mart Exclusive Collab Aranara Pet Redeem Code",
-        "leafCategoryIds": [
-          "69528"
-        ],
-        "categories": [
-          {
-            "categoryId": "69528",
-            "categoryName": "Other Animation Merchandise"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "1344",
-            "categoryName": "Animation Merchandise"
-          },
-          {
-            "categoryId": "13658",
-            "categoryName": "Animation Art & Merchandise"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/8TMAAeSwnTho5hEk/s-l225.jpg"
-        },
-        "price": {
-          "value": "25.67",
-          "currency": "USD",
-          "convertedFromValue": "35.99",
-          "convertedFromCurrency": "CAD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C167850251896%7C0",
-        "seller": {
-          "username": "giselles.cat",
-          "feedbackPercentage": "100.0",
-          "feedbackScore": 135
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/8TMAAeSwnTho5hEk/s-l960.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD",
-              "convertedFromValue": "0.00",
-              "convertedFromCurrency": "CAD"
-            }
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/167850251896?hash=item2714a79678:g:8TMAAeSwnTho5hEk",
-        "itemLocation": {
-          "postalCode": "L6C***",
-          "country": "CA"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/9e0AAeSwAupo5hEk/s-l1600.jpg",
-            "width": 1200,
-            "height": 1200
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "167850251896",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-10-10T06:44:58.000Z",
-        "itemCreationDate": "2025-10-10T06:44:58.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "quantitySold": 52,
-        "imageUrl": "https://i.ebayimg.com/images/g/8TMAAeSwnTho5hEk/s-l1600.jpg",
-        "categoryPath": "Collectibles|Animation Art & Merchandise|Animation Merchandise|Other Animation Merchandise",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD",
-          "convertedFromValue": "0.00",
-          "convertedFromCurrency": "CAD"
-        },
-        "shippingType": "Economy Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "Worldwide",
-            "regionType": "WORLDWIDE",
-            "regionId": "WORLDWIDE"
-          }
-        ],
-        "returnsAccepted": false,
-        "returnPeriod": "undefined undefined",
-        "estimatedAvailableQuantity": 10,
-        "estimatedRemainingQuantity": 10,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Markham",
-        "itemLocationState": "Ontario",
-        "itemLocationCountry": "CA"
-      },
-      {
-        "itemId": "v1|286285504573|0",
-        "title": "Authentic RAW Classic King Size W/Filter Tip Pre-Rolled Cones 100 Pack US",
-        "leafCategoryIds": [
-          "73563"
-        ],
-        "categories": [
-          {
-            "categoryId": "73563",
-            "categoryName": "Papers"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "593",
-            "categoryName": "Tobacciana"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/EAYAAOSwSSdlT8-K/s-l225.jpg"
-        },
-        "price": {
-          "value": "16.50",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C286285504573%7C0",
-        "seller": {
-          "username": "star5-asianartist",
-          "feedbackPercentage": "99.0",
-          "feedbackScore": 23159
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "18.88",
-            "currency": "USD"
-          },
-          "discountPercentage": "13",
-          "discountAmount": {
-            "value": "2.38",
-            "currency": "USD"
-          },
-          "priceTreatment": "MARKDOWN"
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/EAYAAOSwSSdlT8-K/s-l640.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/286285504573?hash=item42a7f2203d:g:EAYAAOSwSSdlT8-K",
-        "itemLocation": {
-          "postalCode": "103**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/DtoAAOSw1ExjZCHr/s-l1600.jpg",
-            "width": 630,
-            "height": 630
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/6XgAAOSwhAJjZCHt/s-l1600.jpg",
-            "width": 1200,
-            "height": 1200
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/OLEAAOSwpWNjZCHs/s-l1600.jpg",
-            "width": 765,
-            "height": 699
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "286285504573",
-        "availableCoupons": false,
-        "itemOriginDate": "2024-03-22T01:08:47.000Z",
-        "itemCreationDate": "2025-01-26T13:14:41.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 2012,
-        "imageUrl": "https://i.ebayimg.com/images/g/EAYAAOSwSSdlT8-K/s-l1600.jpg",
-        "shortDescription": "This Rawthentic creation is windmill powered, Non-GMO, totally chlorine free and vegan friendly. RAW Classic King Size Cones 109mm Pre Rolled Hemp Cones. RAW pre-rolled cones are created from the famous proprietary RAW blend of unbleached natural fibers, a natural sugar based gum is then added and then the rolling paper is rolled into a cone shape with a RAW hemp filter tip.",
-        "categoryPath": "Collectibles|Tobacciana|Papers",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 226,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Staten Island",
-        "itemLocationState": "New York",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|406265193317|676592964012",
-        "title": "Kitty Bat | Halloween",
-        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=406265193317",
-        "leafCategoryIds": [
-          "263082"
-        ],
-        "categories": [
-          {
-            "categoryId": "263082",
-            "categoryName": "Mixed Lots"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "263076",
-            "categoryName": "Collectible Figures & Supplies"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/vfAAAeSwfNxo4qjm/s-l225.jpg"
-        },
-        "price": {
-          "value": "2.05",
-          "currency": "USD"
-        },
-        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406265193317%7C676592964012",
-        "seller": {
-          "username": "sarzpay",
-          "feedbackPercentage": "99.8",
-          "feedbackScore": 1976
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/vfAAAeSwfNxo4qjm/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-25T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/406265193317?hash=item5e974ae365:g:vfAAAeSwfNxo4qjm",
-        "itemLocation": {
-          "postalCode": "331**",
-          "country": "US"
-        },
-        "adultOnly": false,
-        "legacyItemId": "406265193317",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-10-05T17:22:21.000Z",
-        "itemCreationDate": "2025-10-05T17:22:21.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 62,
-        "imageUrl": "https://i.ebayimg.com/images/g/vfAAAeSwfNxo4qjm/s-l1600.jpg",
-        "additionalImages": [],
-        "shortDescription": "What you are purchasing is virtual and is not a physical item, so it will not arrive at your door.",
-        "categoryPath": "Collectibles|Collectible Figures & Supplies|Mixed Lots",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Economy Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "Worldwide",
-            "regionType": "WORLDWIDE",
-            "regionId": "WORLDWIDE"
-          }
-        ],
-        "returnsAccepted": false,
-        "returnPeriod": "undefined undefined",
-        "estimatedAvailableQuantity": 8,
-        "estimatedRemainingQuantity": 8,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Miami",
+        "itemLocationCity": "Winter Garden",
         "itemLocationState": "Florida",
         "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|336203829477|0",
-        "title": "CC Morgan Silver Dollars 1878-1893 - 5 Uncirculated Coins Mixed Dates Lot",
-        "leafCategoryIds": [
-          "125"
-        ],
-        "categories": [
-          {
-            "categoryId": "125",
-            "categoryName": "Other Paper Collectibles"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "124",
-            "categoryName": "Paper"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/itUAAeSwt~Bo2T2V/s-l225.jpg"
-        },
-        "price": {
-          "value": "65.99",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336203829477%7C0",
-        "seller": {
-          "username": "taojinghushangmao33019900",
-          "feedbackPercentage": "85.7",
-          "feedbackScore": 5
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/itUAAeSwt~Bo2T2V/s-l1200.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            }
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE",
-          "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/336203829477?hash=item4e474f50e5:g:itUAAeSwt~Bo2T2V&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uan%2BhFmlggpRy%2BxzK75iypmhRixGUb6rHxJOgtn2cuaVjnbMnVvLSh9ihIpR3HR4NG%2BIisgOHuyVrqBUQ0FrAV%2B1wH%2BzmBXvi4Bm%2BDWAHxJ5SefkgIX69iPxk%2FJ9O1tmesKIBuTc0voujSzAP4mX%2F1CklZirV2QDbWRO0rchhsGUdbOADUQoyhGfOZ1DIAc%2Bv7m9UGe12UWaQMbjSGQOYpKStXzUGIdVcDEZNCyNHzjKuoWklv374RFo%2F2BvfUrVs823MPPN5EajDcQmZv8jJUh",
-        "itemLocation": {
-          "postalCode": "******",
-          "country": "HK"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/m8wAAeSw81xo2T2X/s-l1600.jpg",
-            "width": 859,
-            "height": 1148
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/mHMAAeSws2Fo2T2W/s-l1600.jpg",
-            "width": 859,
-            "height": 1145
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/yRsAAeSwj19o2T2W/s-l1600.jpg",
-            "width": 710,
-            "height": 947
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/pHwAAeSwDNdo2T2W/s-l1600.jpg",
-            "width": 1121,
-            "height": 1041
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/l~AAAeSwzydo2T2W/s-l1600.jpg",
-            "width": 1102,
-            "height": 1034
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/nngAAeSwucpo2T2W/s-l1600.jpg",
-            "width": 954,
-            "height": 938
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/wK4AAeSwn75o2T2W/s-l1600.jpg",
-            "width": 869,
-            "height": 865
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/jiIAAeSwH~5o2T2V/s-l1600.jpg",
-            "width": 827,
-            "height": 941
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "336203829477",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-09-28T13:49:17.000Z",
-        "itemCreationDate": "2025-09-28T13:49:17.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 19,
-        "imageUrl": "https://i.ebayimg.com/images/g/itUAAeSwt~Bo2T2V/s-l1600.jpg",
-        "shortDescription": "Attention: Due to lighting and camera issues, there may be slight differences in color between the actual item and the image. This is a normal situation, and the actual item received shall prevail! Dear buyer, hello. We are committed to building a high-quality store on eBay. Thank you very much for choosing our store. If there are any issues with your product, please do not apply for a return and do not leave negative reviews. Please contact us and we will reply to you within 24 hours. We will definitely provide you with a satisfactory solution. Thank you very much for your support and understanding. Wishing you good health and abundant wealth. Delivery time: Approximately 7-14 days after placing the order (excluding special holidays, weather conditions, and force majeure)",
-        "categoryPath": "Collectibles|Paper|Other Paper Collectibles",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping from outside",
-        "shipToLocations": [
-          {
-            "regionName": "Worldwide",
-            "regionType": "WORLDWIDE",
-            "regionId": "WORLDWIDE"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 30,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "hong kong",
-        "itemLocationCountry": "HK"
       },
       {
         "itemId": "v1|276479135541|0",
@@ -5317,7 +4982,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/276479135541?hash=item405f70cf35:g:-OcAAOSwpplmT~XR&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYhGWl1Cibd8P9kv6F0IVjHjgtgdCi8yOZ2RYZqwK2mSB5H85QMaV3VptHKkP%2BKFTv7wpjnsYerh8p8RX3L9t7zieXH22ERtrZrY01oAdzeIkXcP581OBsG6bzKtdu5aPBsr70ubzVaijpaqyiVGV%2BRevMeuJlt8uWC2HgPlvc8AgMEp6zbgbLQ979owjQk5v2IMLJCocNd3%2BM63gKIn8Qs5Z1dtYKI5tAI9roj%2FnKsZphX8hvFXJrooFiNVd1o2dHef7d3RzdKFt%2BTC2MV4iyU",
+        "itemWebUrl": "https://www.ebay.com/itm/276479135541?hash=item405f70cf35:g:-OcAAOSwpplmT~XR&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYhGWl1Cibd8P9kv6F0IVjHjgtgdCi8yOZ2RYZqwK2mSB5H85QMaV3VptHKkP%2BKFTv7wpjnsYerh8p8RX3L9t7zieXH22ERtrZrY01oAdzeIkXcP581OBsG6bzKtdu5aPCWEV%2FgQjNb2FrsoaiiHdq2KnULYkSko4BkvDCDeY2SqbKCoCivxoXqOyhgSGMcfjbu1sIe3gGEmYvzXr484ZzbiotL5y5WdekNlTjxIz%2FinlduG%2BEgJv472d4w2A95KSzVfjtAo9TXVTXMnOWF9r7X",
         "itemLocation": {
           "postalCode": "328**",
           "country": "US"
@@ -6488,7 +6153,7 @@
             "value": "84.99",
             "currency": "USD"
           },
-          "discountPercentage": "5",
+          "discountPercentage": "5.0",
           "discountAmount": {
             "value": "4.25",
             "currency": "USD"
@@ -6517,7 +6182,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/276499423471?hash=item4060a660ef:g:4KUAAOSwF79mY4Sx&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbmXFLKYZN6Jcq1UtE%2B0UPPU1j9ibfZuz9VyU3jWpejCaeKRYJ4TXPSOUceHkvntIJJnA0D265krOoBFq%2BBchWPwrRDPR25KLXqkBSDkIM0yWCBOor0uWPNSf9PRQt43inuC4DChK9P8NAAAYXQdyPkQkBDXpVNqzS%2FRON8Q5pVTwsIxKhEuR4tDg4sP5DY8prnWBT%2BClpgsepGWSks4kObnSZUzNtDF8HUh6k9dgJhaSyFuqPBis8ehIxYm7%2Fr4auqzlUrvMOxkiMDkUMO5qpS",
+        "itemWebUrl": "https://www.ebay.com/itm/276499423471?hash=item4060a660ef:g:4KUAAOSwF79mY4Sx&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UbmXFLKYZN6Jcq1UtE%2B0UPPU1j9ibfZuz9VyU3jWpejCaeKRYJ4TXPSOUceHkvntIJJnA0D265krOoBFq%2BBchWPwrRDPR25KLXqkBSDkIM0yWCBOor0uWPNSf9PRQt43ikKRDmlDb8sjAFORo4jOPuknFyvGXFOAXuiSplWtrMs2vnyBzuaFJV9zMdmHBHPV9RgyPByThi1viT1v1%2Fxc4aIPvPE7SyJUaZc%2BDFU4oHKXX77ngHS3GBPczg7pL%2FiAWW4K%2B9VuqwlM%2FewT5oFiGoO",
         "itemLocation": {
           "postalCode": "328**",
           "country": "US"
@@ -7666,214 +7331,6 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|276578341389|0",
-        "title": "RAW 500's Classic 1¼ Natural Unrefined Rolling Paper - 1 Pack of 500 Papers",
-        "leafCategoryIds": [
-          "73563"
-        ],
-        "categories": [
-          {
-            "categoryId": "73563",
-            "categoryName": "Papers"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "593",
-            "categoryName": "Tobacciana"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/oFUAAOSw~2RmrU1h/s-l225.jpg"
-        },
-        "price": {
-          "value": "8.99",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C276578341389%7C0",
-        "seller": {
-          "username": "loudcactus",
-          "feedbackPercentage": "100.0",
-          "feedbackScore": 1058
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/oFUAAOSw~2RmrU1h/s-l960.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/276578341389?hash=item40655a920d:g:oFUAAOSw~2RmrU1h",
-        "itemLocation": {
-          "postalCode": "851**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/FJ4AAOSwks5mrU2Q/s-l1600.jpg",
-            "width": 905,
-            "height": 603
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "276578341389",
-        "availableCoupons": false,
-        "itemOriginDate": "2024-08-02T21:26:38.000Z",
-        "itemCreationDate": "2024-08-02T21:26:38.000Z",
-        "topRatedBuyingExperience": true,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 927,
-        "imageUrl": "https://i.ebayimg.com/images/g/oFUAAOSw~2RmrU1h/s-l1600.jpg",
-        "shortDescription": "RAW 500's Classic 1¼ Natural Unrefined Rolling Papers. The paper is made from high-quality raw materials, ensuring a natural and authentic smoking experience. With its classic design and natural taste, RAW 500's Classic 1¼ Natural Unrefined Rolling Paper is the perfect choice for anyone who wants to enjoy a high-quality smoking experience.",
-        "categoryPath": "Collectibles|Tobacciana|Papers",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "SELLER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 407,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "San Tan Valley",
-        "itemLocationState": "Arizona",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|397151929062|0",
-        "title": "20 rolls of 100, 2025 Free Shipping Total 2000 Fast  free shipping",
-        "leafCategoryIds": [
-          "125"
-        ],
-        "categories": [
-          {
-            "categoryId": "125",
-            "categoryName": "Other Paper Collectibles"
-          },
-          {
-            "categoryId": "1",
-            "categoryName": "Collectibles"
-          },
-          {
-            "categoryId": "124",
-            "categoryName": "Paper"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/nPMAAeSwJDZo7KiK/s-l225.jpg"
-        },
-        "price": {
-          "value": "51.99",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C397151929062%7C0",
-        "seller": {
-          "username": "xin-xin-aotu01",
-          "feedbackPercentage": "100.0",
-          "feedbackScore": 27
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/nPMAAeSwJDZo7KiK/s-l1200.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-28T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/397151929062?hash=item5c781982e6:g:nPMAAeSwJDZo7KiK",
-        "itemLocation": {
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/p0AAAeSwhERo7KiL/s-l1600.jpg",
-            "width": 1080,
-            "height": 1080
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/QAYAAeSwavdo7KiM/s-l1600.jpg",
-            "width": 1199,
-            "height": 1600
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "397151929062",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-10-13T07:21:50.000Z",
-        "itemCreationDate": "2025-10-13T07:21:50.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 12,
-        "imageUrl": "https://i.ebayimg.com/images/g/nPMAAeSwJDZo7KiK/s-l1600.jpg",
-        "shortDescription": "Not only can it be collected, but it can also have practical uses for sending cards and letters.",
-        "categoryPath": "Collectibles|Paper|Other Paper Collectibles",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": false,
-        "returnPeriod": "undefined undefined",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 88,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "NJ",
-        "itemLocationCountry": "US"
-      },
-      {
         "itemId": "v1|397058977406|0",
         "title": "Chanel No 5 Eau De Parfum 3.4oz/ 100ml NEW IN SEALED BOX Free Shipping",
         "leafCategoryIds": [
@@ -7931,7 +7388,7 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/397058977406?hash=item5c728f2e7e:g:LroAAeSwkMpou4dw&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua3PQb6UBWDECbGdLvsQLTs4mvYvwqKL0XjqD5sHFqKLGufgJly0YWdI9g704QlRhVrOT047z4K7%2BigEoSTMimT8NuGrsFdK1Vb7jhDXucjWoNKEL2Ny%2F01loN%2B5BprkNI9RAeeoM3gdycBbbHDg3Y%2FgpxNnOJHz5UFkPkUSVE3vyXJdxDzqFISarN2LstKbCVp9gVmdKSKFntBL0zh8%2FHcalX1HjvyotL4CjYDUp7aqOP8bZy3DIk9j3svvcFXq7oX3wC2dDuOGZM1WhgBmi1W",
+        "itemWebUrl": "https://www.ebay.com/itm/397058977406?hash=item5c728f2e7e:g:LroAAeSwkMpou4dw&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua3PQb6UBWDECbGdLvsQLTs4mvYvwqKL0XjqD5sHFqKLGufgJly0YWdI9g704QlRhVrOT047z4K7%2BigEoSTMimT8NuGrsFdK1Vb7jhDXucjWoNKEL2Ny%2F01loN%2B5BprkNKp5x6TjF8iSJosgWVa08T0jTTtTZKbTp4eEYTkd0y8xpjl%2BkLwTHl5ZLyKbK4JYwkZIlYaktzAJTVejLFyNeBGv603xjSPqsTA6N0aHpsphM0iZx9Xi%2BU8a6wZSSNvLKoTR2WcO20GerS1J0xYiI4c",
         "itemLocation": {
           "postalCode": "243**",
           "country": "US"
@@ -7981,8 +7438,2114 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|272178823654|0",
-        "title": "TarTrap Disposable Cigarette Filter Bulk Pack (1200 Filters)",
+        "itemId": "v1|227023396924|526172606147",
+        "title": "One World Under Doom (2025) #1 2 3 4 5 6 7 8 Marvel Comics COVER SELECT",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=227023396924",
+        "leafCategoryIds": [
+          "259104"
+        ],
+        "categories": [
+          {
+            "categoryId": "259104",
+            "categoryName": "Comics & Graphic Novels"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "63",
+            "categoryName": "Comic Books & Memorabilia"
+          },
+          {
+            "categoryId": "259103",
+            "categoryName": "Comics"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/X2AAAeSw9zdo6R2v/s-l225.jpg"
+        },
+        "price": {
+          "value": "3.88",
+          "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C227023396924%7C526172606147",
+        "seller": {
+          "username": "cosmic_kingdom_comics",
+          "feedbackPercentage": "100.0",
+          "feedbackScore": 11237
+        },
+        "condition": "Brand New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/X2AAAeSw9zdo6R2v/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "6.95",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "epid": "17075465577",
+        "itemWebUrl": "https://www.ebay.com/itm/227023396924?hash=item34dba6203c:g:X2AAAeSw9zdo6R2v",
+        "itemLocation": {
+          "postalCode": "040**",
+          "country": "US"
+        },
+        "adultOnly": false,
+        "legacyItemId": "227023396924",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-10-13T14:17:02.000Z",
+        "itemCreationDate": "2025-10-13T14:17:02.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 33,
+        "imageUrl": "https://i.ebayimg.com/images/g/W-EAAeSw1jtovvOZ/s-l1600.jpg",
+        "additionalImages": [],
+        "shortDescription": "ONE WORLD UNDER DOOM #3 VARIANT SET (5 BOOKS) [ONE WORLD UNDER DOOM #3, ONE WORLD UNDER DOOM #3 CHRIS GIARRUSSO MARVEL UNIVERSE CONNECTING WRAP VARIANT H, ONE WORLD UNDER DOOM #3 GABRIELE DELL'OTTO VARIANT, ONE WORLD UNDER DOOM #3 GODTAIL DOOMASAUR VARIANT, ONE WORLD UNDER DOOM #3 R.B. SILVA VARIANT].",
+        "categoryPath": "Collectibles|Comic Books & Memorabilia|Comics|Comics & Graphic Novels",
+        "shippingCost": {
+          "value": "6.95",
+          "currency": "USD"
+        },
+        "shippingType": "Economy Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          },
+          {
+            "regionName": "Denmark",
+            "regionType": "COUNTRY",
+            "regionId": "DK"
+          },
+          {
+            "regionName": "Guatemala",
+            "regionType": "COUNTRY",
+            "regionId": "GT"
+          },
+          {
+            "regionName": "New Zealand",
+            "regionType": "COUNTRY",
+            "regionId": "NZ"
+          },
+          {
+            "regionName": "Fiji",
+            "regionType": "COUNTRY",
+            "regionId": "FJ"
+          },
+          {
+            "regionName": "Papua New Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "PG"
+          },
+          {
+            "regionName": "Solomon Islands",
+            "regionType": "COUNTRY",
+            "regionId": "SB"
+          },
+          {
+            "regionName": "Vatican City State",
+            "regionType": "COUNTRY",
+            "regionId": "VA"
+          },
+          {
+            "regionName": "Sierra Leone",
+            "regionType": "COUNTRY",
+            "regionId": "SL"
+          },
+          {
+            "regionName": "Nauru",
+            "regionType": "COUNTRY",
+            "regionId": "NR"
+          },
+          {
+            "regionName": "Wallis and Futuna",
+            "regionType": "COUNTRY",
+            "regionId": "WF"
+          },
+          {
+            "regionName": "Anguilla",
+            "regionType": "COUNTRY",
+            "regionId": "AI"
+          },
+          {
+            "regionName": "El Salvador",
+            "regionType": "COUNTRY",
+            "regionId": "SV"
+          },
+          {
+            "regionName": "Gambia",
+            "regionType": "COUNTRY",
+            "regionId": "GM"
+          },
+          {
+            "regionName": "Dominican Republic",
+            "regionType": "COUNTRY",
+            "regionId": "DO"
+          },
+          {
+            "regionName": "Malaysia",
+            "regionType": "COUNTRY",
+            "regionId": "MY"
+          },
+          {
+            "regionName": "Cameroon",
+            "regionType": "COUNTRY",
+            "regionId": "CM"
+          },
+          {
+            "regionName": "Guyana",
+            "regionType": "COUNTRY",
+            "regionId": "GY"
+          },
+          {
+            "regionName": "Taiwan",
+            "regionType": "COUNTRY",
+            "regionId": "TW"
+          },
+          {
+            "regionName": "Azerbaijan Republic",
+            "regionType": "COUNTRY",
+            "regionId": "AZ"
+          },
+          {
+            "regionName": "Poland",
+            "regionType": "COUNTRY",
+            "regionId": "PL"
+          },
+          {
+            "regionName": "Macau",
+            "regionType": "COUNTRY",
+            "regionId": "MO"
+          },
+          {
+            "regionName": "Georgia",
+            "regionType": "COUNTRY",
+            "regionId": "GE"
+          },
+          {
+            "regionName": "Oman",
+            "regionType": "COUNTRY",
+            "regionId": "OM"
+          },
+          {
+            "regionName": "Suriname",
+            "regionType": "COUNTRY",
+            "regionId": "SR"
+          },
+          {
+            "regionName": "Tonga",
+            "regionType": "COUNTRY",
+            "regionId": "TO"
+          },
+          {
+            "regionName": "United Arab Emirates",
+            "regionType": "COUNTRY",
+            "regionId": "AE"
+          },
+          {
+            "regionName": "Kenya",
+            "regionType": "COUNTRY",
+            "regionId": "KE"
+          },
+          {
+            "regionName": "Argentina",
+            "regionType": "COUNTRY",
+            "regionId": "AR"
+          },
+          {
+            "regionName": "San Marino",
+            "regionType": "COUNTRY",
+            "regionId": "SM"
+          },
+          {
+            "regionName": "Guinea-Bissau",
+            "regionType": "COUNTRY",
+            "regionId": "GW"
+          },
+          {
+            "regionName": "Armenia",
+            "regionType": "COUNTRY",
+            "regionId": "AM"
+          },
+          {
+            "regionName": "Uzbekistan",
+            "regionType": "COUNTRY",
+            "regionId": "UZ"
+          },
+          {
+            "regionName": "Bhutan",
+            "regionType": "COUNTRY",
+            "regionId": "BT"
+          },
+          {
+            "regionName": "Eritrea",
+            "regionType": "COUNTRY",
+            "regionId": "ER"
+          },
+          {
+            "regionName": "Senegal",
+            "regionType": "COUNTRY",
+            "regionId": "SN"
+          },
+          {
+            "regionName": "Togo",
+            "regionType": "COUNTRY",
+            "regionId": "TG"
+          },
+          {
+            "regionName": "Saint Kitts-Nevis",
+            "regionType": "COUNTRY",
+            "regionId": "KN"
+          },
+          {
+            "regionName": "Morocco",
+            "regionType": "COUNTRY",
+            "regionId": "MA"
+          },
+          {
+            "regionName": "Ireland",
+            "regionType": "COUNTRY",
+            "regionId": "IE"
+          },
+          {
+            "regionName": "Qatar",
+            "regionType": "COUNTRY",
+            "regionId": "QA"
+          },
+          {
+            "regionName": "Burundi",
+            "regionType": "COUNTRY",
+            "regionId": "BI"
+          },
+          {
+            "regionName": "Saint Vincent and the Grenadines",
+            "regionType": "COUNTRY",
+            "regionId": "VC"
+          },
+          {
+            "regionName": "Netherlands",
+            "regionType": "COUNTRY",
+            "regionId": "NL"
+          },
+          {
+            "regionName": "Slovakia",
+            "regionType": "COUNTRY",
+            "regionId": "SK"
+          },
+          {
+            "regionName": "Slovenia",
+            "regionType": "COUNTRY",
+            "regionId": "SI"
+          },
+          {
+            "regionName": "Equatorial Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GQ"
+          },
+          {
+            "regionName": "Thailand",
+            "regionType": "COUNTRY",
+            "regionId": "TH"
+          },
+          {
+            "regionName": "Mauritania",
+            "regionType": "COUNTRY",
+            "regionId": "MR"
+          },
+          {
+            "regionName": "Belize",
+            "regionType": "COUNTRY",
+            "regionId": "BZ"
+          },
+          {
+            "regionName": "Philippines",
+            "regionType": "COUNTRY",
+            "regionId": "PH"
+          },
+          {
+            "regionName": "Aruba",
+            "regionType": "COUNTRY",
+            "regionId": "AW"
+          },
+          {
+            "regionName": "Democratic Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CD"
+          },
+          {
+            "regionType": "COUNTRY",
+            "regionId": "UY"
+          },
+          {
+            "regionName": "Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CG"
+          },
+          {
+            "regionName": "Sweden",
+            "regionType": "COUNTRY",
+            "regionId": "SE"
+          },
+          {
+            "regionName": "Colombia",
+            "regionType": "COUNTRY",
+            "regionId": "CO"
+          },
+          {
+            "regionName": "Spain",
+            "regionType": "COUNTRY",
+            "regionId": "ES"
+          },
+          {
+            "regionName": "Iceland",
+            "regionType": "COUNTRY",
+            "regionId": "IS"
+          },
+          {
+            "regionName": "Estonia",
+            "regionType": "COUNTRY",
+            "regionId": "EE"
+          },
+          {
+            "regionName": "Macedonia",
+            "regionType": "COUNTRY",
+            "regionId": "MK"
+          },
+          {
+            "regionName": "Belgium",
+            "regionType": "COUNTRY",
+            "regionId": "BE"
+          },
+          {
+            "regionName": "Israel",
+            "regionType": "COUNTRY",
+            "regionId": "IL"
+          },
+          {
+            "regionName": "Kuwait",
+            "regionType": "COUNTRY",
+            "regionId": "KW"
+          },
+          {
+            "regionName": "Liechtenstein",
+            "regionType": "COUNTRY",
+            "regionId": "LI"
+          },
+          {
+            "regionName": "Benin",
+            "regionType": "COUNTRY",
+            "regionId": "BJ"
+          },
+          {
+            "regionName": "Algeria",
+            "regionType": "COUNTRY",
+            "regionId": "DZ"
+          },
+          {
+            "regionName": "Bermuda",
+            "regionType": "COUNTRY",
+            "regionId": "BM"
+          },
+          {
+            "regionName": "Montserrat",
+            "regionType": "COUNTRY",
+            "regionId": "MS"
+          },
+          {
+            "regionName": "Zambia",
+            "regionType": "COUNTRY",
+            "regionId": "ZM"
+          },
+          {
+            "regionName": "South Korea",
+            "regionType": "COUNTRY",
+            "regionId": "KR"
+          },
+          {
+            "regionName": "Antigua and Barbuda",
+            "regionType": "COUNTRY",
+            "regionId": "AG"
+          },
+          {
+            "regionName": "Vanuatu",
+            "regionType": "COUNTRY",
+            "regionId": "VU"
+          },
+          {
+            "regionName": "Ecuador",
+            "regionType": "COUNTRY",
+            "regionId": "EC"
+          },
+          {
+            "regionName": "Albania",
+            "regionType": "COUNTRY",
+            "regionId": "AL"
+          },
+          {
+            "regionName": "Italy",
+            "regionType": "COUNTRY",
+            "regionId": "IT"
+          },
+          {
+            "regionName": "Swaziland",
+            "regionType": "COUNTRY",
+            "regionId": "SZ"
+          },
+          {
+            "regionName": "Ethiopia",
+            "regionType": "COUNTRY",
+            "regionId": "ET"
+          },
+          {
+            "regionName": "Monaco",
+            "regionType": "COUNTRY",
+            "regionId": "MC"
+          },
+          {
+            "regionName": "Niger",
+            "regionType": "COUNTRY",
+            "regionId": "NE"
+          },
+          {
+            "regionName": "Tanzania",
+            "regionType": "COUNTRY",
+            "regionId": "TZ"
+          },
+          {
+            "regionName": "Pakistan",
+            "regionType": "COUNTRY",
+            "regionId": "PK"
+          },
+          {
+            "regionName": "Burkina Faso",
+            "regionType": "COUNTRY",
+            "regionId": "BF"
+          },
+          {
+            "regionName": "Panama",
+            "regionType": "COUNTRY",
+            "regionId": "PA"
+          },
+          {
+            "regionName": "Singapore",
+            "regionType": "COUNTRY",
+            "regionId": "SG"
+          },
+          {
+            "regionName": "Kyrgyzstan",
+            "regionType": "COUNTRY",
+            "regionId": "KG"
+          },
+          {
+            "regionName": "Switzerland",
+            "regionType": "COUNTRY",
+            "regionId": "CH"
+          },
+          {
+            "regionName": "Ghana",
+            "regionType": "COUNTRY",
+            "regionId": "GH"
+          },
+          {
+            "regionName": "Djibouti",
+            "regionType": "COUNTRY",
+            "regionId": "DJ"
+          },
+          {
+            "regionName": "Puerto Rico",
+            "regionType": "COUNTRY",
+            "regionId": "PR"
+          },
+          {
+            "regionName": "Chile",
+            "regionType": "COUNTRY",
+            "regionId": "CL"
+          },
+          {
+            "regionName": "China",
+            "regionType": "COUNTRY",
+            "regionId": "CN"
+          },
+          {
+            "regionName": "Cape Verde Islands",
+            "regionType": "COUNTRY",
+            "regionId": "CV"
+          },
+          {
+            "regionName": "Moldova",
+            "regionType": "COUNTRY",
+            "regionId": "MD"
+          },
+          {
+            "regionName": "Mali",
+            "regionType": "COUNTRY",
+            "regionId": "ML"
+          },
+          {
+            "regionName": "Botswana",
+            "regionType": "COUNTRY",
+            "regionId": "BW"
+          },
+          {
+            "regionName": "Republic of Croatia",
+            "regionType": "COUNTRY",
+            "regionId": "HR"
+          },
+          {
+            "regionName": "Cambodia",
+            "regionType": "COUNTRY",
+            "regionId": "KH"
+          },
+          {
+            "regionName": "Madagascar",
+            "regionType": "COUNTRY",
+            "regionId": "MG"
+          },
+          {
+            "regionName": "Indonesia",
+            "regionType": "COUNTRY",
+            "regionId": "ID"
+          },
+          {
+            "regionName": "Portugal",
+            "regionType": "COUNTRY",
+            "regionId": "PT"
+          },
+          {
+            "regionName": "Malta",
+            "regionType": "COUNTRY",
+            "regionId": "MT"
+          },
+          {
+            "regionName": "Tajikistan",
+            "regionType": "COUNTRY",
+            "regionId": "TJ"
+          },
+          {
+            "regionName": "Vietnam",
+            "regionType": "COUNTRY",
+            "regionId": "VN"
+          },
+          {
+            "regionName": "Cayman Islands",
+            "regionType": "COUNTRY",
+            "regionId": "KY"
+          },
+          {
+            "regionName": "Paraguay",
+            "regionType": "COUNTRY",
+            "regionId": "PY"
+          },
+          {
+            "regionName": "Lebanon",
+            "regionType": "COUNTRY",
+            "regionId": "LB"
+          },
+          {
+            "regionName": "Cyprus",
+            "regionType": "COUNTRY",
+            "regionId": "CY"
+          },
+          {
+            "regionName": "Seychelles",
+            "regionType": "COUNTRY",
+            "regionId": "SC"
+          },
+          {
+            "regionName": "Liberia",
+            "regionType": "COUNTRY",
+            "regionId": "LR"
+          },
+          {
+            "regionName": "Rwanda",
+            "regionType": "COUNTRY",
+            "regionId": "RW"
+          },
+          {
+            "regionName": "Bangladesh",
+            "regionType": "COUNTRY",
+            "regionId": "BD"
+          },
+          {
+            "regionName": "Bolivia",
+            "regionType": "COUNTRY",
+            "regionId": "BO"
+          },
+          {
+            "regionName": "Maldives",
+            "regionType": "COUNTRY",
+            "regionId": "MV"
+          },
+          {
+            "regionName": "Australia",
+            "regionType": "COUNTRY",
+            "regionId": "AU"
+          },
+          {
+            "regionName": "Austria",
+            "regionType": "COUNTRY",
+            "regionId": "AT"
+          },
+          {
+            "regionName": "Gibraltar",
+            "regionType": "COUNTRY",
+            "regionId": "GI"
+          },
+          {
+            "regionName": "Sri Lanka",
+            "regionType": "COUNTRY",
+            "regionId": "LK"
+          },
+          {
+            "regionName": "Hong Kong",
+            "regionType": "COUNTRY",
+            "regionId": "HK"
+          },
+          {
+            "regionName": "Central African Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CF"
+          },
+          {
+            "regionName": "Gabon Republic",
+            "regionType": "COUNTRY",
+            "regionId": "GA"
+          },
+          {
+            "regionName": "Lesotho",
+            "regionType": "COUNTRY",
+            "regionId": "LS"
+          },
+          {
+            "regionName": "Nigeria",
+            "regionType": "COUNTRY",
+            "regionId": "NG"
+          },
+          {
+            "regionName": "Zimbabwe",
+            "regionType": "COUNTRY",
+            "regionId": "ZW"
+          },
+          {
+            "regionName": "Mauritius",
+            "regionType": "COUNTRY",
+            "regionId": "MU"
+          },
+          {
+            "regionName": "Saint Lucia",
+            "regionType": "COUNTRY",
+            "regionId": "LC"
+          },
+          {
+            "regionName": "Bulgaria",
+            "regionType": "COUNTRY",
+            "regionId": "BG"
+          },
+          {
+            "regionName": "Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GN"
+          },
+          {
+            "regionName": "Czech Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CZ"
+          },
+          {
+            "regionName": "Norway",
+            "regionType": "COUNTRY",
+            "regionId": "NO"
+          },
+          {
+            "regionName": "Côte d'Ivoire (Ivory Coast)",
+            "regionType": "COUNTRY",
+            "regionId": "CI"
+          },
+          {
+            "regionName": "Canada",
+            "regionType": "COUNTRY",
+            "regionId": "CA"
+          },
+          {
+            "regionName": "Turks and Caicos Islands",
+            "regionType": "COUNTRY",
+            "regionId": "TC"
+          },
+          {
+            "regionName": "Chad",
+            "regionType": "COUNTRY",
+            "regionId": "TD"
+          },
+          {
+            "regionName": "Kiribati",
+            "regionType": "COUNTRY",
+            "regionId": "KI"
+          },
+          {
+            "regionName": "Andorra",
+            "regionType": "COUNTRY",
+            "regionId": "AD"
+          },
+          {
+            "regionName": "Turkmenistan",
+            "regionType": "COUNTRY",
+            "regionId": "TM"
+          },
+          {
+            "regionName": "Grenada",
+            "regionType": "COUNTRY",
+            "regionId": "GD"
+          },
+          {
+            "regionName": "Greece",
+            "regionType": "COUNTRY",
+            "regionId": "GR"
+          },
+          {
+            "regionName": "Romania",
+            "regionType": "COUNTRY",
+            "regionId": "RO"
+          },
+          {
+            "regionName": "Costa Rica",
+            "regionType": "COUNTRY",
+            "regionId": "CR"
+          },
+          {
+            "regionName": "India",
+            "regionType": "COUNTRY",
+            "regionId": "IN"
+          },
+          {
+            "regionName": "Greenland",
+            "regionType": "COUNTRY",
+            "regionId": "GL"
+          },
+          {
+            "regionName": "Yemen",
+            "regionType": "COUNTRY",
+            "regionId": "YE"
+          },
+          {
+            "regionName": "Mexico",
+            "regionType": "COUNTRY",
+            "regionId": "MX"
+          },
+          {
+            "regionName": "Afghanistan",
+            "regionType": "COUNTRY",
+            "regionId": "AF"
+          },
+          {
+            "regionName": "Serbia",
+            "regionType": "COUNTRY",
+            "regionId": "RS"
+          },
+          {
+            "regionName": "Kazakhstan",
+            "regionType": "COUNTRY",
+            "regionId": "KZ"
+          },
+          {
+            "regionName": "Montenegro",
+            "regionType": "COUNTRY",
+            "regionId": "ME"
+          },
+          {
+            "regionName": "Saudi Arabia",
+            "regionType": "COUNTRY",
+            "regionId": "SA"
+          },
+          {
+            "regionName": "Japan",
+            "regionType": "COUNTRY",
+            "regionId": "JP"
+          },
+          {
+            "regionName": "Nepal",
+            "regionType": "COUNTRY",
+            "regionId": "NP"
+          },
+          {
+            "regionName": "Bahamas",
+            "regionType": "COUNTRY",
+            "regionId": "BS"
+          },
+          {
+            "regionName": "Lithuania",
+            "regionType": "COUNTRY",
+            "regionId": "LT"
+          },
+          {
+            "regionName": "Bahrain",
+            "regionType": "COUNTRY",
+            "regionId": "BH"
+          },
+          {
+            "regionName": "Trinidad and Tobago",
+            "regionType": "COUNTRY",
+            "regionId": "TT"
+          },
+          {
+            "regionName": "United Kingdom",
+            "regionType": "COUNTRY",
+            "regionId": "GB"
+          },
+          {
+            "regionName": "Malawi",
+            "regionType": "COUNTRY",
+            "regionId": "MW"
+          },
+          {
+            "regionName": "Bosnia and Herzegovina",
+            "regionType": "COUNTRY",
+            "regionId": "BA"
+          },
+          {
+            "regionName": "Hungary",
+            "regionType": "COUNTRY",
+            "regionId": "HU"
+          },
+          {
+            "regionName": "Angola",
+            "regionType": "COUNTRY",
+            "regionId": "AO"
+          },
+          {
+            "regionName": "Nicaragua",
+            "regionType": "COUNTRY",
+            "regionId": "NI"
+          },
+          {
+            "regionName": "Finland",
+            "regionType": "COUNTRY",
+            "regionId": "FI"
+          },
+          {
+            "regionName": "Tunisia",
+            "regionType": "COUNTRY",
+            "regionId": "TN"
+          },
+          {
+            "regionName": "Luxembourg",
+            "regionType": "COUNTRY",
+            "regionId": "LU"
+          },
+          {
+            "regionName": "Uganda",
+            "regionType": "COUNTRY",
+            "regionId": "UG"
+          },
+          {
+            "regionName": "Brazil",
+            "regionType": "COUNTRY",
+            "regionId": "BR"
+          },
+          {
+            "regionName": "Turkey",
+            "regionType": "COUNTRY",
+            "regionId": "TR"
+          },
+          {
+            "regionName": "Western Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "WS"
+          },
+          {
+            "regionName": "France",
+            "regionType": "COUNTRY",
+            "regionId": "FR"
+          },
+          {
+            "regionName": "Germany",
+            "regionType": "COUNTRY",
+            "regionId": "DE"
+          },
+          {
+            "regionName": "Egypt",
+            "regionType": "COUNTRY",
+            "regionId": "EG"
+          },
+          {
+            "regionName": "Latvia",
+            "regionType": "COUNTRY",
+            "regionId": "LV"
+          },
+          {
+            "regionName": "Jamaica",
+            "regionType": "COUNTRY",
+            "regionId": "JM"
+          },
+          {
+            "regionName": "Mozambique",
+            "regionType": "COUNTRY",
+            "regionId": "MZ"
+          },
+          {
+            "regionName": "Namibia",
+            "regionType": "COUNTRY",
+            "regionId": "NA"
+          },
+          {
+            "regionName": "Peru",
+            "regionType": "COUNTRY",
+            "regionId": "PE"
+          },
+          {
+            "regionName": "Brunei Darussalam",
+            "regionType": "COUNTRY",
+            "regionId": "BN"
+          },
+          {
+            "regionName": "Honduras",
+            "regionType": "COUNTRY",
+            "regionId": "HN"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "estimatedAvailableQuantity": 1,
+        "estimatedRemainingQuantity": 77,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Gray",
+        "itemLocationState": "Maine",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|136618448763|435289733093",
+        "title": "PRECIOUS MOMENTS Figurines ~ NORMAL Size ~ \"You Pick\" ~ Vintage Jonathan David",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=136618448763",
+        "leafCategoryIds": [
+          "261628"
+        ],
+        "categories": [
+          {
+            "categoryId": "261628",
+            "categoryName": "Sculptures & Figurines"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "13777",
+            "categoryName": "Decorative Collectibles"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/EMAAAeSwlnxo89b1/s-l225.jpg"
+        },
+        "price": {
+          "value": "1.49",
+          "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C136618448763%7C435289733093",
+        "seller": {
+          "username": "toyz-n-partz",
+          "feedbackPercentage": "100.0",
+          "feedbackScore": 2691
+        },
+        "condition": "Used",
+        "conditionId": "3000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/EMAAAeSwlnxo89b1/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "6.67",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/136618448763?hash=item1fcf18177b:g:EMAAAeSwlnxo89b1",
+        "itemLocation": {
+          "postalCode": "495**",
+          "country": "US"
+        },
+        "adultOnly": false,
+        "legacyItemId": "136618448763",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-10-18T18:30:32.000Z",
+        "itemCreationDate": "2025-10-18T18:30:32.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 37,
+        "imageUrl": "https://i.ebayimg.com/images/g/CO8AAeSwg3Fo89eb/s-l1600.jpg",
+        "additionalImages": [],
+        "shortDescription": "These are the NORMAL sizes that will weigh. Unless otherwise stated I will usually respond within an hour or so. I have tried to describe the item as best as I can. based on your zip code.",
+        "categoryPath": "Collectibles|Decorative Collectibles|Sculptures & Figurines",
+        "shippingCost": {
+          "value": "6.67",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          },
+          {
+            "regionName": "New Zealand",
+            "regionType": "COUNTRY",
+            "regionId": "NZ"
+          },
+          {
+            "regionName": "Fiji",
+            "regionType": "COUNTRY",
+            "regionId": "FJ"
+          },
+          {
+            "regionName": "Papua New Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "PG"
+          },
+          {
+            "regionName": "Wallis and Futuna",
+            "regionType": "COUNTRY",
+            "regionId": "WF"
+          },
+          {
+            "regionName": "Marshall Islands",
+            "regionType": "COUNTRY",
+            "regionId": "MH"
+          },
+          {
+            "regionName": "Gambia",
+            "regionType": "COUNTRY",
+            "regionId": "GM"
+          },
+          {
+            "regionName": "Malaysia",
+            "regionType": "COUNTRY",
+            "regionId": "MY"
+          },
+          {
+            "regionName": "Taiwan",
+            "regionType": "COUNTRY",
+            "regionId": "TW"
+          },
+          {
+            "regionName": "Poland",
+            "regionType": "COUNTRY",
+            "regionId": "PL"
+          },
+          {
+            "regionName": "Oman",
+            "regionType": "COUNTRY",
+            "regionId": "OM"
+          },
+          {
+            "regionName": "Suriname",
+            "regionType": "COUNTRY",
+            "regionId": "SR"
+          },
+          {
+            "regionName": "United Arab Emirates",
+            "regionType": "COUNTRY",
+            "regionId": "AE"
+          },
+          {
+            "regionName": "Kenya",
+            "regionType": "COUNTRY",
+            "regionId": "KE"
+          },
+          {
+            "regionName": "Argentina",
+            "regionType": "COUNTRY",
+            "regionId": "AR"
+          },
+          {
+            "regionName": "Guinea-Bissau",
+            "regionType": "COUNTRY",
+            "regionId": "GW"
+          },
+          {
+            "regionName": "Armenia",
+            "regionType": "COUNTRY",
+            "regionId": "AM"
+          },
+          {
+            "regionName": "Uzbekistan",
+            "regionType": "COUNTRY",
+            "regionId": "UZ"
+          },
+          {
+            "regionName": "Bhutan",
+            "regionType": "COUNTRY",
+            "regionId": "BT"
+          },
+          {
+            "regionName": "Senegal",
+            "regionType": "COUNTRY",
+            "regionId": "SN"
+          },
+          {
+            "regionName": "Togo",
+            "regionType": "COUNTRY",
+            "regionId": "TG"
+          },
+          {
+            "regionName": "Ireland",
+            "regionType": "COUNTRY",
+            "regionId": "IE"
+          },
+          {
+            "regionName": "Qatar",
+            "regionType": "COUNTRY",
+            "regionId": "QA"
+          },
+          {
+            "regionName": "Burundi",
+            "regionType": "COUNTRY",
+            "regionId": "BI"
+          },
+          {
+            "regionName": "Netherlands",
+            "regionType": "COUNTRY",
+            "regionId": "NL"
+          },
+          {
+            "regionName": "Slovakia",
+            "regionType": "COUNTRY",
+            "regionId": "SK"
+          },
+          {
+            "regionName": "Slovenia",
+            "regionType": "COUNTRY",
+            "regionId": "SI"
+          },
+          {
+            "regionName": "Equatorial Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GQ"
+          },
+          {
+            "regionName": "Thailand",
+            "regionType": "COUNTRY",
+            "regionId": "TH"
+          },
+          {
+            "regionName": "Aruba",
+            "regionType": "COUNTRY",
+            "regionId": "AW"
+          },
+          {
+            "regionName": "American Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "AS"
+          },
+          {
+            "regionName": "Sweden",
+            "regionType": "COUNTRY",
+            "regionId": "SE"
+          },
+          {
+            "regionName": "Iceland",
+            "regionType": "COUNTRY",
+            "regionId": "IS"
+          },
+          {
+            "regionName": "Macedonia",
+            "regionType": "COUNTRY",
+            "regionId": "MK"
+          },
+          {
+            "regionName": "Belgium",
+            "regionType": "COUNTRY",
+            "regionId": "BE"
+          },
+          {
+            "regionName": "Israel",
+            "regionType": "COUNTRY",
+            "regionId": "IL"
+          },
+          {
+            "regionName": "Kuwait",
+            "regionType": "COUNTRY",
+            "regionId": "KW"
+          },
+          {
+            "regionName": "Liechtenstein",
+            "regionType": "COUNTRY",
+            "regionId": "LI"
+          },
+          {
+            "regionName": "Benin",
+            "regionType": "COUNTRY",
+            "regionId": "BJ"
+          },
+          {
+            "regionName": "Algeria",
+            "regionType": "COUNTRY",
+            "regionId": "DZ"
+          },
+          {
+            "regionName": "Antigua and Barbuda",
+            "regionType": "COUNTRY",
+            "regionId": "AG"
+          },
+          {
+            "regionName": "Italy",
+            "regionType": "COUNTRY",
+            "regionId": "IT"
+          },
+          {
+            "regionName": "Swaziland",
+            "regionType": "COUNTRY",
+            "regionId": "SZ"
+          },
+          {
+            "regionName": "Tanzania",
+            "regionType": "COUNTRY",
+            "regionId": "TZ"
+          },
+          {
+            "regionName": "Pakistan",
+            "regionType": "COUNTRY",
+            "regionId": "PK"
+          },
+          {
+            "regionName": "Burkina Faso",
+            "regionType": "COUNTRY",
+            "regionId": "BF"
+          },
+          {
+            "regionName": "Panama",
+            "regionType": "COUNTRY",
+            "regionId": "PA"
+          },
+          {
+            "regionName": "Singapore",
+            "regionType": "COUNTRY",
+            "regionId": "SG"
+          },
+          {
+            "regionName": "Kyrgyzstan",
+            "regionType": "COUNTRY",
+            "regionId": "KG"
+          },
+          {
+            "regionName": "Switzerland",
+            "regionType": "COUNTRY",
+            "regionId": "CH"
+          },
+          {
+            "regionName": "Djibouti",
+            "regionType": "COUNTRY",
+            "regionId": "DJ"
+          },
+          {
+            "regionName": "Puerto Rico",
+            "regionType": "COUNTRY",
+            "regionId": "PR"
+          },
+          {
+            "regionName": "Chile",
+            "regionType": "COUNTRY",
+            "regionId": "CL"
+          },
+          {
+            "regionName": "China",
+            "regionType": "COUNTRY",
+            "regionId": "CN"
+          },
+          {
+            "regionName": "Mali",
+            "regionType": "COUNTRY",
+            "regionId": "ML"
+          },
+          {
+            "regionName": "Botswana",
+            "regionType": "COUNTRY",
+            "regionId": "BW"
+          },
+          {
+            "regionName": "Republic of Croatia",
+            "regionType": "COUNTRY",
+            "regionId": "HR"
+          },
+          {
+            "regionName": "Cambodia",
+            "regionType": "COUNTRY",
+            "regionId": "KH"
+          },
+          {
+            "regionName": "Indonesia",
+            "regionType": "COUNTRY",
+            "regionId": "ID"
+          },
+          {
+            "regionName": "Portugal",
+            "regionType": "COUNTRY",
+            "regionId": "PT"
+          },
+          {
+            "regionName": "Malta",
+            "regionType": "COUNTRY",
+            "regionId": "MT"
+          },
+          {
+            "regionName": "Tajikistan",
+            "regionType": "COUNTRY",
+            "regionId": "TJ"
+          },
+          {
+            "regionName": "Vietnam",
+            "regionType": "COUNTRY",
+            "regionId": "VN"
+          },
+          {
+            "regionName": "Cayman Islands",
+            "regionType": "COUNTRY",
+            "regionId": "KY"
+          },
+          {
+            "regionName": "Paraguay",
+            "regionType": "COUNTRY",
+            "regionId": "PY"
+          },
+          {
+            "regionName": "Cyprus",
+            "regionType": "COUNTRY",
+            "regionId": "CY"
+          },
+          {
+            "regionName": "Seychelles",
+            "regionType": "COUNTRY",
+            "regionId": "SC"
+          },
+          {
+            "regionName": "Rwanda",
+            "regionType": "COUNTRY",
+            "regionId": "RW"
+          },
+          {
+            "regionName": "Bangladesh",
+            "regionType": "COUNTRY",
+            "regionId": "BD"
+          },
+          {
+            "regionName": "Australia",
+            "regionType": "COUNTRY",
+            "regionId": "AU"
+          },
+          {
+            "regionName": "Austria",
+            "regionType": "COUNTRY",
+            "regionId": "AT"
+          },
+          {
+            "regionName": "Sri Lanka",
+            "regionType": "COUNTRY",
+            "regionId": "LK"
+          },
+          {
+            "regionName": "Gabon Republic",
+            "regionType": "COUNTRY",
+            "regionId": "GA"
+          },
+          {
+            "regionName": "Zimbabwe",
+            "regionType": "COUNTRY",
+            "regionId": "ZW"
+          },
+          {
+            "regionName": "Bulgaria",
+            "regionType": "COUNTRY",
+            "regionId": "BG"
+          },
+          {
+            "regionName": "Czech Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CZ"
+          },
+          {
+            "regionName": "Norway",
+            "regionType": "COUNTRY",
+            "regionId": "NO"
+          },
+          {
+            "regionName": "Côte d'Ivoire (Ivory Coast)",
+            "regionType": "COUNTRY",
+            "regionId": "CI"
+          },
+          {
+            "regionName": "Kiribati",
+            "regionType": "COUNTRY",
+            "regionId": "KI"
+          },
+          {
+            "regionName": "Turkmenistan",
+            "regionType": "COUNTRY",
+            "regionId": "TM"
+          },
+          {
+            "regionName": "Grenada",
+            "regionType": "COUNTRY",
+            "regionId": "GD"
+          },
+          {
+            "regionName": "Greece",
+            "regionType": "COUNTRY",
+            "regionId": "GR"
+          },
+          {
+            "regionName": "Greenland",
+            "regionType": "COUNTRY",
+            "regionId": "GL"
+          },
+          {
+            "regionName": "Yemen",
+            "regionType": "COUNTRY",
+            "regionId": "YE"
+          },
+          {
+            "regionName": "Afghanistan",
+            "regionType": "COUNTRY",
+            "regionId": "AF"
+          },
+          {
+            "regionName": "Montenegro",
+            "regionType": "COUNTRY",
+            "regionId": "ME"
+          },
+          {
+            "regionName": "Nepal",
+            "regionType": "COUNTRY",
+            "regionId": "NP"
+          },
+          {
+            "regionName": "Bahamas",
+            "regionType": "COUNTRY",
+            "regionId": "BS"
+          },
+          {
+            "regionName": "Bahrain",
+            "regionType": "COUNTRY",
+            "regionId": "BH"
+          },
+          {
+            "regionName": "United Kingdom",
+            "regionType": "COUNTRY",
+            "regionId": "GB"
+          },
+          {
+            "regionName": "Bosnia and Herzegovina",
+            "regionType": "COUNTRY",
+            "regionId": "BA"
+          },
+          {
+            "regionName": "Hungary",
+            "regionType": "COUNTRY",
+            "regionId": "HU"
+          },
+          {
+            "regionName": "Angola",
+            "regionType": "COUNTRY",
+            "regionId": "AO"
+          },
+          {
+            "regionName": "Western Samoa",
+            "regionType": "COUNTRY",
+            "regionId": "WS"
+          },
+          {
+            "regionName": "France",
+            "regionType": "COUNTRY",
+            "regionId": "FR"
+          },
+          {
+            "regionName": "Mozambique",
+            "regionType": "COUNTRY",
+            "regionId": "MZ"
+          },
+          {
+            "regionName": "Namibia",
+            "regionType": "COUNTRY",
+            "regionId": "NA"
+          },
+          {
+            "regionName": "Peru",
+            "regionType": "COUNTRY",
+            "regionId": "PE"
+          },
+          {
+            "regionName": "Denmark",
+            "regionType": "COUNTRY",
+            "regionId": "DK"
+          },
+          {
+            "regionName": "Guatemala",
+            "regionType": "COUNTRY",
+            "regionId": "GT"
+          },
+          {
+            "regionName": "Solomon Islands",
+            "regionType": "COUNTRY",
+            "regionId": "SB"
+          },
+          {
+            "regionName": "Vatican City State",
+            "regionType": "COUNTRY",
+            "regionId": "VA"
+          },
+          {
+            "regionName": "Sierra Leone",
+            "regionType": "COUNTRY",
+            "regionId": "SL"
+          },
+          {
+            "regionName": "Nauru",
+            "regionType": "COUNTRY",
+            "regionId": "NR"
+          },
+          {
+            "regionName": "Anguilla",
+            "regionType": "COUNTRY",
+            "regionId": "AI"
+          },
+          {
+            "regionName": "El Salvador",
+            "regionType": "COUNTRY",
+            "regionId": "SV"
+          },
+          {
+            "regionName": "Guam",
+            "regionType": "COUNTRY",
+            "regionId": "GU"
+          },
+          {
+            "regionName": "Micronesia",
+            "regionType": "COUNTRY",
+            "regionId": "FM"
+          },
+          {
+            "regionName": "Dominican Republic",
+            "regionType": "COUNTRY",
+            "regionId": "DO"
+          },
+          {
+            "regionName": "Cameroon",
+            "regionType": "COUNTRY",
+            "regionId": "CM"
+          },
+          {
+            "regionName": "Guyana",
+            "regionType": "COUNTRY",
+            "regionId": "GY"
+          },
+          {
+            "regionName": "Azerbaijan Republic",
+            "regionType": "COUNTRY",
+            "regionId": "AZ"
+          },
+          {
+            "regionName": "Macau",
+            "regionType": "COUNTRY",
+            "regionId": "MO"
+          },
+          {
+            "regionName": "Georgia",
+            "regionType": "COUNTRY",
+            "regionId": "GE"
+          },
+          {
+            "regionName": "Tonga",
+            "regionType": "COUNTRY",
+            "regionId": "TO"
+          },
+          {
+            "regionName": "San Marino",
+            "regionType": "COUNTRY",
+            "regionId": "SM"
+          },
+          {
+            "regionName": "Eritrea",
+            "regionType": "COUNTRY",
+            "regionId": "ER"
+          },
+          {
+            "regionName": "Saint Kitts-Nevis",
+            "regionType": "COUNTRY",
+            "regionId": "KN"
+          },
+          {
+            "regionName": "Morocco",
+            "regionType": "COUNTRY",
+            "regionId": "MA"
+          },
+          {
+            "regionName": "Saint Vincent and the Grenadines",
+            "regionType": "COUNTRY",
+            "regionId": "VC"
+          },
+          {
+            "regionName": "Mauritania",
+            "regionType": "COUNTRY",
+            "regionId": "MR"
+          },
+          {
+            "regionName": "Belize",
+            "regionType": "COUNTRY",
+            "regionId": "BZ"
+          },
+          {
+            "regionName": "Philippines",
+            "regionType": "COUNTRY",
+            "regionId": "PH"
+          },
+          {
+            "regionName": "Democratic Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CD"
+          },
+          {
+            "regionType": "COUNTRY",
+            "regionId": "UY"
+          },
+          {
+            "regionName": "Republic of the Congo",
+            "regionType": "COUNTRY",
+            "regionId": "CG"
+          },
+          {
+            "regionName": "Colombia",
+            "regionType": "COUNTRY",
+            "regionId": "CO"
+          },
+          {
+            "regionName": "Spain",
+            "regionType": "COUNTRY",
+            "regionId": "ES"
+          },
+          {
+            "regionName": "Estonia",
+            "regionType": "COUNTRY",
+            "regionId": "EE"
+          },
+          {
+            "regionName": "Bermuda",
+            "regionType": "COUNTRY",
+            "regionId": "BM"
+          },
+          {
+            "regionName": "Montserrat",
+            "regionType": "COUNTRY",
+            "regionId": "MS"
+          },
+          {
+            "regionName": "Zambia",
+            "regionType": "COUNTRY",
+            "regionId": "ZM"
+          },
+          {
+            "regionName": "South Korea",
+            "regionType": "COUNTRY",
+            "regionId": "KR"
+          },
+          {
+            "regionName": "Vanuatu",
+            "regionType": "COUNTRY",
+            "regionId": "VU"
+          },
+          {
+            "regionName": "Ecuador",
+            "regionType": "COUNTRY",
+            "regionId": "EC"
+          },
+          {
+            "regionName": "Albania",
+            "regionType": "COUNTRY",
+            "regionId": "AL"
+          },
+          {
+            "regionName": "Ethiopia",
+            "regionType": "COUNTRY",
+            "regionId": "ET"
+          },
+          {
+            "regionName": "Monaco",
+            "regionType": "COUNTRY",
+            "regionId": "MC"
+          },
+          {
+            "regionName": "Niger",
+            "regionType": "COUNTRY",
+            "regionId": "NE"
+          },
+          {
+            "regionName": "Ghana",
+            "regionType": "COUNTRY",
+            "regionId": "GH"
+          },
+          {
+            "regionName": "Cape Verde Islands",
+            "regionType": "COUNTRY",
+            "regionId": "CV"
+          },
+          {
+            "regionName": "Moldova",
+            "regionType": "COUNTRY",
+            "regionId": "MD"
+          },
+          {
+            "regionName": "Madagascar",
+            "regionType": "COUNTRY",
+            "regionId": "MG"
+          },
+          {
+            "regionName": "Lebanon",
+            "regionType": "COUNTRY",
+            "regionId": "LB"
+          },
+          {
+            "regionName": "Liberia",
+            "regionType": "COUNTRY",
+            "regionId": "LR"
+          },
+          {
+            "regionName": "Bolivia",
+            "regionType": "COUNTRY",
+            "regionId": "BO"
+          },
+          {
+            "regionName": "Maldives",
+            "regionType": "COUNTRY",
+            "regionId": "MV"
+          },
+          {
+            "regionName": "Gibraltar",
+            "regionType": "COUNTRY",
+            "regionId": "GI"
+          },
+          {
+            "regionName": "Hong Kong",
+            "regionType": "COUNTRY",
+            "regionId": "HK"
+          },
+          {
+            "regionName": "Central African Republic",
+            "regionType": "COUNTRY",
+            "regionId": "CF"
+          },
+          {
+            "regionName": "Lesotho",
+            "regionType": "COUNTRY",
+            "regionId": "LS"
+          },
+          {
+            "regionName": "Nigeria",
+            "regionType": "COUNTRY",
+            "regionId": "NG"
+          },
+          {
+            "regionName": "Mauritius",
+            "regionType": "COUNTRY",
+            "regionId": "MU"
+          },
+          {
+            "regionName": "Saint Lucia",
+            "regionType": "COUNTRY",
+            "regionId": "LC"
+          },
+          {
+            "regionName": "Guinea",
+            "regionType": "COUNTRY",
+            "regionId": "GN"
+          },
+          {
+            "regionName": "Canada",
+            "regionType": "COUNTRY",
+            "regionId": "CA"
+          },
+          {
+            "regionName": "Turks and Caicos Islands",
+            "regionType": "COUNTRY",
+            "regionId": "TC"
+          },
+          {
+            "regionName": "Chad",
+            "regionType": "COUNTRY",
+            "regionId": "TD"
+          },
+          {
+            "regionName": "Andorra",
+            "regionType": "COUNTRY",
+            "regionId": "AD"
+          },
+          {
+            "regionName": "Romania",
+            "regionType": "COUNTRY",
+            "regionId": "RO"
+          },
+          {
+            "regionName": "Costa Rica",
+            "regionType": "COUNTRY",
+            "regionId": "CR"
+          },
+          {
+            "regionName": "India",
+            "regionType": "COUNTRY",
+            "regionId": "IN"
+          },
+          {
+            "regionName": "Mexico",
+            "regionType": "COUNTRY",
+            "regionId": "MX"
+          },
+          {
+            "regionName": "Serbia",
+            "regionType": "COUNTRY",
+            "regionId": "RS"
+          },
+          {
+            "regionName": "Kazakhstan",
+            "regionType": "COUNTRY",
+            "regionId": "KZ"
+          },
+          {
+            "regionName": "Saudi Arabia",
+            "regionType": "COUNTRY",
+            "regionId": "SA"
+          },
+          {
+            "regionName": "Japan",
+            "regionType": "COUNTRY",
+            "regionId": "JP"
+          },
+          {
+            "regionName": "Lithuania",
+            "regionType": "COUNTRY",
+            "regionId": "LT"
+          },
+          {
+            "regionName": "Trinidad and Tobago",
+            "regionType": "COUNTRY",
+            "regionId": "TT"
+          },
+          {
+            "regionName": "Palau",
+            "regionType": "COUNTRY",
+            "regionId": "PW"
+          },
+          {
+            "regionName": "Malawi",
+            "regionType": "COUNTRY",
+            "regionId": "MW"
+          },
+          {
+            "regionName": "Nicaragua",
+            "regionType": "COUNTRY",
+            "regionId": "NI"
+          },
+          {
+            "regionName": "Finland",
+            "regionType": "COUNTRY",
+            "regionId": "FI"
+          },
+          {
+            "regionName": "Tunisia",
+            "regionType": "COUNTRY",
+            "regionId": "TN"
+          },
+          {
+            "regionName": "Luxembourg",
+            "regionType": "COUNTRY",
+            "regionId": "LU"
+          },
+          {
+            "regionName": "Uganda",
+            "regionType": "COUNTRY",
+            "regionId": "UG"
+          },
+          {
+            "regionName": "Brazil",
+            "regionType": "COUNTRY",
+            "regionId": "BR"
+          },
+          {
+            "regionName": "Turkey",
+            "regionType": "COUNTRY",
+            "regionId": "TR"
+          },
+          {
+            "regionName": "Germany",
+            "regionType": "COUNTRY",
+            "regionId": "DE"
+          },
+          {
+            "regionName": "Egypt",
+            "regionType": "COUNTRY",
+            "regionId": "EG"
+          },
+          {
+            "regionName": "Latvia",
+            "regionType": "COUNTRY",
+            "regionId": "LV"
+          },
+          {
+            "regionName": "Jamaica",
+            "regionType": "COUNTRY",
+            "regionId": "JM"
+          },
+          {
+            "regionName": "Virgin Islands (U.S.)",
+            "regionType": "COUNTRY",
+            "regionId": "VI"
+          },
+          {
+            "regionName": "Brunei Darussalam",
+            "regionType": "COUNTRY",
+            "regionId": "BN"
+          },
+          {
+            "regionName": "Honduras",
+            "regionType": "COUNTRY",
+            "regionId": "HN"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "estimatedAvailableQuantity": 1,
+        "estimatedRemainingQuantity": 16,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Grand Rapids",
+        "itemLocationState": "Michigan",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|257152925011|0",
+        "title": "RAW Organic Cones King Size Bulk Box - 1400 Count",
+        "leafCategoryIds": [
+          "73563"
+        ],
+        "categories": [
+          {
+            "categoryId": "73563",
+            "categoryName": "Papers"
+          },
+          {
+            "categoryId": "1",
+            "categoryName": "Collectibles"
+          },
+          {
+            "categoryId": "593",
+            "categoryName": "Tobacciana"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/qBQAAeSwluVomoIZ/s-l225.jpg"
+        },
+        "price": {
+          "value": "99.99",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257152925011%7C0",
+        "seller": {
+          "username": "cannfilm",
+          "feedbackPercentage": "100.0",
+          "feedbackScore": 65
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/qBQAAeSwluVomoIZ/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-29T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE",
+          "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/257152925011?hash=item3bdf823d53:g:qBQAAeSwluVomoIZ&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYBPhmbCMuS%2BNonOG2w1ME3jWT8JPsAlrod0sjJGOLokxfo4A6TyPbFFzyxeqPIMZp4lvwXl7RiFLzLPzpIxJggtEwTWL%2BqbRd2CjN6biOc92Y31OhxOO5rmtTG%2FL6s6ul0%2BoArYOaeiZTz%2BBCoSBY0Oex2IY%2F8%2BZmi8XIEWqH6aQ4UG9B3XloZEtCzVWD%2FVS25FBNL80Zczr%2FSRV2fOaX%2BH3opH0KFFxErraW9gL9MmAFa8lUm1D6T%2FceFCZCs4T781pATgVvG2Cnviqd38D28",
+        "itemLocation": {
+          "postalCode": "070**",
+          "country": "US"
+        },
+        "adultOnly": false,
+        "legacyItemId": "257152925011",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-08-11T23:56:23.000Z",
+        "itemCreationDate": "2025-10-12T03:42:07.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 3,
+        "imageUrl": "https://i.ebayimg.com/images/g/qBQAAeSwluVomoIZ/s-l1600.jpg",
+        "additionalImages": [],
+        "shortDescription": "The tip is hand folded into a W to prevent materials from passing through yet give an unfiltered big draw. Genuine RAW Cones do NOT use plastic straws!",
+        "categoryPath": "Collectibles|Tobacciana|Papers",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": false,
+        "returnPeriod": "undefined undefined",
+        "estimatedAvailableQuantity": 3,
+        "estimatedRemainingQuantity": 3,
+        "deliveryOptions": [
+          "SHIP_TO_HOME",
+          "SELLER_ARRANGED_LOCAL_PICKUP"
+        ],
+        "itemLocationCity": "Boonton",
+        "itemLocationState": "New Jersey",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|175501816511|0",
+        "title": "900 EFFICIENT Cigarette Filters Bulk Economy Pack With Free Extra 150 Filters",
         "leafCategoryIds": [
           "156508"
         ],
@@ -8005,23 +9568,23 @@
           }
         ],
         "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/iqAAAOSw9lRl~Hxc/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/pt0AAOSwzgBYxE~y/s-l225.jpg"
         },
         "price": {
-          "value": "39.90",
+          "value": "29.45",
           "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C272178823654%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C175501816511%7C0",
         "seller": {
-          "username": "wellnessuniverse",
-          "feedbackPercentage": "99.7",
-          "feedbackScore": 4541
+          "username": "onlineglobalsales",
+          "feedbackPercentage": "99.8",
+          "feedbackScore": 18566
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/iqAAAOSw9lRl~Hxc/s-l960.jpg"
+            "imageUrl": "https://i.ebayimg.com/images/g/pt0AAOSwzgBYxE~y/s-l1600.jpg"
           }
         ],
         "shippingOptions": [
@@ -8036,42 +9599,38 @@
           }
         ],
         "buyingOptions": [
-          "FIXED_PRICE"
+          "FIXED_PRICE",
+          "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/272178823654?hash=item3f5f1f41e6:g:iqAAAOSw9lRl~Hxc&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ubr0MHiCrdPMTbtq8boVEQUtHbHQu9dsZQz9joF94HKL8pVRS4M%2Bq%2BoaXEpbz9QIRfIGWCkvzBbF4XvHTHG%2BpjNhbdFX0nqx1AEW56byv9m2u98igI3LEVmqDQKR%2BJ9ORcVEjaAx6%2FYFKzoaMNxqn63%2F3%2FEomw4Syqa0xwAtCbHoz%2FzDv8EgtIMaG3cwR%2BIOKi1eAKGec9u%2FuhizS2PcFd859LNv7h8i9K5PREzAy3sL5%2F7nrRk5nJB8fkEqNPq7GGhuG8iJXxG7puYKDTJdjF6",
+        "itemWebUrl": "https://www.ebay.com/itm/175501816511?hash=item28dcb932bf:g:pt0AAOSwzgBYxE~y&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZLGh%2B32JlWe0UX%2BqedR3TTXQw3DCmrkuBMZ4Z%2BeoXcNukzslQ2JxIs19pBhUeJnq2156ZrhhECLFJugmRqK5nlbgZM%2FmIoscxGsD1uItyo%2BzIouxUNU9cIRA7%2FpGzvbpZ484enhsv%2FO7cT8B08EU3gMbtnKOJKxPks55gGaHynP6%2FZSw%2BDSBPV7Zv9ytJecVtZZf8JJ46sYFdxO0FWL3KUU1tTL%2Bn%2BgSn9GKGMiweP4l4mwBXrLorEWtyWiz2OU4uyiUQI1br%2B81mtrRoEZcfd",
         "itemLocation": {
           "postalCode": "070**",
           "country": "US"
         },
         "additionalImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/61sAAOSws4JW7jXw/s-l1600.jpg",
-            "width": 1242,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/qHEAAOxyGwNTFsUD/s-l1600.jpg",
-            "width": 513,
-            "height": 251
+            "imageUrl": "https://i.ebayimg.com/images/g/Or8AAOxydUJTN5Di/s-l1600.jpg",
+            "width": 750,
+            "height": 474
           }
         ],
         "adultOnly": false,
-        "legacyItemId": "272178823654",
+        "legacyItemId": "175501816511",
         "availableCoupons": false,
-        "itemOriginDate": "2016-03-20T05:33:48.000Z",
-        "itemCreationDate": "2016-03-20T05:33:48.000Z",
+        "itemOriginDate": "2017-03-18T02:46:00.000Z",
+        "itemCreationDate": "2022-11-23T15:06:07.000Z",
         "topRatedBuyingExperience": true,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 546,
-        "imageUrl": "https://i.ebayimg.com/images/g/iqAAAOSw9lRl~Hxc/s-l1600.jpg",
-        "shortDescription": "TARTRAP PREMIUM CIGARETTE FILTERS, HIGHEST QUALITY ON THE MARKET! TarTrap Disposable Cigarette Filters in a Convenient Resealable Bag! TarTrap does not change the flavor of your favorite cigarettes!",
+        "quantitySold": 414,
+        "imageUrl": "https://i.ebayimg.com/images/g/pt0AAOSwzgBYxE~y/s-l1600.jpg",
+        "shortDescription": "1050 filters in a convenient resealable bag. Each filter is good for 5 - 6 Cigarettes. I THINK YOU DO NOT WANT THIS IN YOUR LUNGS! EFFICIENTwill not take anything away.",
         "categoryPath": "Collectibles|Tobacciana|Cigars|Cigar Cases & Holders",
         "shippingCost": {
           "value": "0.00",
           "currency": "USD"
         },
-        "shippingType": "Expedited Shipping",
+        "shippingType": "Economy Shipping",
         "shipToLocations": [
           {
             "regionName": "United States",
@@ -8084,27 +9643,27 @@
         "returnShippingPayer": "SELLER",
         "availabilityThreshold": 10,
         "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 204,
+        "estimatedRemainingQuantity": 2741,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
-        "itemLocationCity": "Montclair",
+        "itemLocationCity": "Fairfield",
         "itemLocationState": "New Jersey",
         "itemLocationCountry": "US"
       }
     ],
-    "total": 99709906,
+    "total": 103091756,
     "limit": 20,
     "offset": 0,
     "categoryId": "1",
     "source": "eBay Browse API (Official)",
     "apiEndpoint": "https://api.ebay.com/buy/browse/v1",
-    "timestamp": "2025-10-19T16:18:11.264Z",
+    "timestamp": "2025-10-19T17:49:48.850Z",
     "metadata": {
       "ack": "Success",
-      "timestamp": "2025-10-19T16:18:11.264Z",
-      "totalPages": 4985496
+      "timestamp": "2025-10-19T17:49:48.850Z",
+      "totalPages": 5154588
     }
   },
-  "expiresAt": "2025-10-20T16:18:12.234Z"
+  "expiresAt": "2025-10-20T17:49:50.775Z"
 }

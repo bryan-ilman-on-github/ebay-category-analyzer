@@ -242,7 +242,7 @@ body {
 
 .data-table th {
   text-align: left;
-  padding: 14px 18px;
+  padding: 14px 12px;
   font-weight: 600;
   color: #16191f;
   font-size: 12px;
@@ -269,7 +269,7 @@ body {
 }
 
 .data-table td {
-  padding: 14px 18px;
+  padding: 14px 12px;
   border-bottom: 1px solid #eaeded;
   vertical-align: top;
 }
@@ -297,7 +297,7 @@ body {
 
 .price-cell {
   white-space: nowrap;
-  min-width: 140px;
+  min-width: 100px;
 }
 
 .price-main {
@@ -680,7 +680,7 @@ body {
 
   .data-table th,
   .data-table td {
-    padding: 10px 12px;
+    padding: 10px 8px;
   }
 
   .main-image {
@@ -732,7 +732,7 @@ body {
 
   .data-table th,
   .data-table td {
-    padding: 8px 10px;
+    padding: 8px 6px;
   }
 
   .main-image {

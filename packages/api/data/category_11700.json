@@ -1,6 +1,6 @@
 {
   "key": "category_11700",
-  "timestamp": 1760890682128,
+  "timestamp": 1760896124263,
   "data": {
     "success": true,
     "items": [
@@ -37,7 +37,7 @@
           "imageUrl": "https://i.ebayimg.com/images/g/0ZgAAeSwlbto3VS8/s-l225.jpg"
         },
         "price": {
-          "value": "449.99",
+          "value": "32.99",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
@@ -68,7 +68,7 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/257134725705?hash=item3bde6c8a49:g:0ZgAAeSwlbto3VS8&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYoXkH9ZEWHFhDosTb8EF3RuSZkBFX3jyb5iJLy%2F6yqFhDvIVZsWEKDWgS%2FmmRlj28ZxXSawqaHTZ1VT2PTJ%2F7kk0ds4s3nx%2FeCLQtqbawydUSclVIm09ZZgXan%2FQuqDwLCI6q1obgilDAFHJdEpHU4MdsBn%2FqSjMJiE1%2FwnNjvgdHf3%2B3xJfl6V4Jq6zyU1XoMg5L%2BAKN78SYXtemtVXAu3NCwEyFoEg5lcRP588wRxwQ0vuoKVA05Dinju3xzD793hVvz6CSrF0Vi1e18zmsy",
+        "itemWebUrl": "https://www.ebay.com/itm/257134725705?hash=item3bde6c8a49:g:0ZgAAeSwlbto3VS8&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYoXkH9ZEWHFhDosTb8EF3RuSZkBFX3jyb5iJLy%2F6yqFhDvIVZsWEKDWgS%2FmmRlj28ZxXSawqaHTZ1VT2PTJ%2F7kk0ds4s3nx%2FeCLQtqbawydUSclVIm09ZZgXan%2FQuqDwIzv%2F%2BvwMlrvNDm9CaSGWIxRuMq4ujxKlCm%2BaFNk%2BPEjtOMdNSfOzaPU8FFoe0jCSfZNH7aknj40fS3y0g1TrTNaXcIAd7fnDMswHHi7%2Boh6xeLfpKAfBFTGJSpHXliHUuIM8B9vm4Fs9qo7BC4c1EK",
         "itemLocation": {
           "postalCode": "840**",
           "country": "US"
@@ -113,7 +113,7 @@
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 0,
+        "quantitySold": 31,
         "imageUrl": "https://i.ebayimg.com/images/g/0ZgAAeSwlbto3VS8/s-l1600.jpg",
         "shortDescription": "Fresh Harvested In 2025. These are the freshest pine nuts on the market, and the most affordable! Soft Shell Pine Nuts. Harvested In Nevada.",
         "categoryPath": "Home & Garden|Food & Beverages|Pantry|Baking & Desserts|Nuts & Seeds",
@@ -131,8 +131,9 @@
         ],
         "returnsAccepted": false,
         "returnPeriod": "undefined undefined",
-        "estimatedAvailableQuantity": 10,
-        "estimatedRemainingQuantity": 10,
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 193,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -220,7 +221,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/364080235647?hash=item54c4df847f:g:4~kAAOSwMmNjvRSX&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua0GeFJZfFGQFwwXGDAnClwwTDEnlow1wAPLhTvbHB3vkhyAsZ1d6Z3s4vR1A2Re%2FeBkY6voQSWJig5BxefNY4VW%2FbNa%2FRQNNbi4nsJKJuRoIriQpPaasjblcpaMgcwv8g2zXjntKURw3XJcBds7nQs8MfItyQpULRoxwCN%2BlgH7IVyc5qwLKHyWPoCQPRYF7Wwu795JiZiHlneArun9m%2BpEnX2czlTYeEnL8ebkxHRmr9DMT0Pz1Ug0qCOtkiM8jWpKtRpE6NrOyGTQDio4lqi",
+        "itemWebUrl": "https://www.ebay.com/itm/364080235647?hash=item54c4df847f:g:4~kAAOSwMmNjvRSX&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Ua0GeFJZfFGQFwwXGDAnClwwTDEnlow1wAPLhTvbHB3vkhyAsZ1d6Z3s4vR1A2Re%2FeBkY6voQSWJig5BxefNY4VW%2FbNa%2FRQNNbi4nsJKJuRoIriQpPaasjblcpaMgcwv8hza%2FC0PsuVuk3c3VHkrXeCxvfOy7bll1tVLkY7f2l%2F26PBSodbqBreXO%2BdMhdZctQK9vm42CHw53fLIJVRxMOZtG3gDX7Z7xIpte5dAM1%2BHQ0HbNo1BwOpQNeM2s23%2Fts%2BsPnxJWbOTjpjYdNUy%2BTB",
         "itemLocation": {
           "postalCode": "927**",
           "country": "US"
@@ -349,7 +350,7 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/388697154409?hash=item5a8027e369:g:MgMAAeSwQuhofrgK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uacr9ieNlY7B4AAvj1XbnbyEVnk0vOShtDu5mo1zWqtq2IM1coxLj7wdMw0oCs5PU5%2FbzUlcYd%2BoJZGAPtM5lmDUHBAT3HTJIynru4lCeN99v9D9fhKRjIvyp6RKrkt59rTkg2QqKyDamX3TEODO71bca8NKo%2FmvLhdY%2BNMkx6P%2FKasJLyqnQqk5fZNYhheyDDbBQX7iqIppKQeDVAxddo8a2X7VG9MyN6lVfPhlX91ia2Ph09ErrXfqT%2FbQDSbQIAYcgaly0G7MVRZiNJx3BKD",
+        "itemWebUrl": "https://www.ebay.com/itm/388697154409?hash=item5a8027e369:g:MgMAAeSwQuhofrgK&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uacr9ieNlY7B4AAvj1XbnbyEVnk0vOShtDu5mo1zWqtq2IM1coxLj7wdMw0oCs5PU5%2FbzUlcYd%2BoJZGAPtM5lmDUHBAT3HTJIynru4lCeN99v9D9fhKRjIvyp6RKrkt59q%2BpxxPq78RrYd9h0NSO%2B%2BjlLRuaM494a9Bp%2BSUOaEvURphkaFj6p79aqgSvtgwZPsa8XzP%2Bvs71y4acWHJBP5umdopi2I8F%2FRbyqYRupaxfar9YgcuLasQqgI2oBchcXBzVFlNEdNJPKuj6O6LVmtT",
         "itemLocation": {
           "postalCode": "224**",
           "country": "US"
@@ -419,7 +420,7 @@
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 66,
+        "quantitySold": 311,
         "imageUrl": "https://i.ebayimg.com/images/g/MgMAAeSwQuhofrgK/s-l1600.jpg",
         "shortDescription": "Mattress in a Box – Compressed, rolled, and easy to set up. Motion Isolating – Ideal for couples or light sleepers. Key Features. 📏 Available Sizes .",
         "categoryPath": "Home & Garden|Furniture|Mattresses",
@@ -439,7 +440,7 @@
         "returnPeriod": "30 CALENDAR_DAY",
         "returnShippingPayer": "BUYER",
         "estimatedAvailableQuantity": 7,
-        "estimatedRemainingQuantity": 7,
+        "estimatedRemainingQuantity": 226,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -448,98 +449,101 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|197750445396|0",
-        "title": "Subterranean Bait Stations NEW IN BOX QUANTITY: 28",
+        "itemId": "v1|177284475542|476950375127",
+        "title": "Lot of Authentic Water Filter Replacement for Berkey BB9-2 Black & PF-2 Filters",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=177284475542",
         "leafCategoryIds": [
-          "181039"
+          "20684"
         ],
         "categories": [
           {
-            "categoryId": "181039",
-            "categoryName": "Insect Traps & Baits"
+            "categoryId": "20684",
+            "categoryName": "Water Filters"
           },
           {
             "categoryId": "11700",
             "categoryName": "Home & Garden"
           },
           {
-            "categoryId": "159912",
-            "categoryName": "Yard, Garden & Outdoor Living"
+            "categoryId": "20625",
+            "categoryName": "Kitchen, Dining & Bar"
           },
           {
-            "categoryId": "181034",
-            "categoryName": "Weed & Pest Control"
+            "categoryId": "20667",
+            "categoryName": "Small Kitchen Appliances"
           },
           {
-            "categoryId": "181036",
-            "categoryName": "Insect & Grub Control"
+            "categoryId": "54144",
+            "categoryName": "Water Purification & Soda Makers"
           }
         ],
         "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/epwAAeSwF9xoc~Yr/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/HNsAAeSw2ttofz0D/s-l225.jpg"
         },
         "price": {
-          "value": "199.99",
+          "value": "49.49",
           "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C197750445396%7C0",
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C177284475542%7C476950375127",
         "seller": {
-          "username": "termite8876",
-          "feedbackPercentage": "100.0",
-          "feedbackScore": 14
+          "username": "ultrapure-icelabs",
+          "feedbackPercentage": "96.0",
+          "feedbackScore": 92
+        },
+        "marketingPrice": {
+          "originalPrice": {
+            "value": "54.99",
+            "currency": "USD"
+          },
+          "discountPercentage": "10.0",
+          "discountAmount": {
+            "value": "5.50",
+            "currency": "USD"
+          },
+          "priceTreatment": "MARKDOWN"
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/epwAAeSwF9xoc~Yr/s-l1200.jpg"
+            "imageUrl": "https://i.ebayimg.com/images/g/HNsAAeSw2ttofz0D/s-l1200.jpg"
           }
         ],
         "shippingOptions": [
           {
             "shippingCostType": "FIXED",
             "shippingCost": {
-              "value": "24.99",
+              "value": "0.00",
               "currency": "USD"
             },
             "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+            "maxEstimatedDeliveryDate": "2025-10-25T07:00:00.000Z"
           }
         ],
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/197750445396?hash=item2e0ad85554:g:epwAAeSwF9xoc~Yr&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uar8qDGJUw%2BAeXoDl%2F07JV3VwPlvUx5CNHwjnKlVDbzMZ7bYlqtmdp0i74M1h70ofA3xcp38p%2FKOvRYrPcb24vPby1auel39oFd1TB53hMacaGmwnaRfkmq4voOSFynUyB5K4%2BqF6FCB3HUDkVAumGPHNWC640mK%2BIIKQbsxjZ4pEEIlRdQnT76VNWDqMWlvh03ydkoKf2jpZXOJ6p7AD9yDUKRjjUaTciozwYojhl6LZuz2fIPqKV8BqHsPv4oxA73TWn0F3ibnOTpLmYRuR1Z",
+        "itemWebUrl": "https://www.ebay.com/itm/177284475542?hash=item2946fa6a96:g:HNsAAeSw2ttofz0D&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5Uaj2a3tEaNTHj%2Fk6BdTAOQxmi35QklRXuAM0p6P6rRXyaM%2B3PVllsSd5E4FyfdXmHKnOYvFehjR4ilGIYsf3PhVtArPrcMmEF8Yna1difi18BK%2BNyTYAsHopj0NCLCsYxCKtXrPzIDZwT23CqzfDX6PltZ2dBK7rn45bvjpR6M0x2Q44eShZP%2FdaNcxp2rvbFo3jwkCsOxsYcI1DSVMNxqu8zvPzSxj3YcMoE%2B87dpu%2FGeC3XGdCWjDDw%2B1zfch2oqncb6tX0CJBAIPLrb4JDtM",
         "itemLocation": {
-          "postalCode": "294**",
+          "postalCode": "221**",
           "country": "US"
         },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/aAkAAeSwh7xoc~Yr/s-l1600.jpg",
-            "width": 1600,
-            "height": 1341
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/t9MAAeSwEE5oc~Yr/s-l1600.jpg",
-            "width": 1200,
-            "height": 1600
-          }
-        ],
+        "additionalImages": [],
         "adultOnly": false,
-        "legacyItemId": "197750445396",
+        "legacyItemId": "177284475542",
         "availableCoupons": false,
-        "itemOriginDate": "2025-10-05T22:31:55.000Z",
-        "itemCreationDate": "2025-10-06T22:31:58.000Z",
+        "itemOriginDate": "2025-07-22T07:25:58.000Z",
+        "itemCreationDate": "2025-07-22T07:25:58.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": true,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 20,
-        "imageUrl": "https://i.ebayimg.com/images/g/epwAAeSwF9xoc~Yr/s-l1600.jpg",
-        "shortDescription": "The subterranean bait stations are a highly effective solution for preventing unwanted infestations. 28 complete stations with (BAIT INCLUDED FOR. ).",
-        "categoryPath": "Home & Garden|Yard, Garden & Outdoor Living|Weed & Pest Control|Insect & Grub Control|Insect Traps & Baits",
+        "quantitySold": 75,
+        "imageUrl": "https://i.ebayimg.com/images/g/HN0AAeSwyTJoh5q7/s-l1600.jpg",
+        "shortDescription": "No other gravity-fed filter can achieve this level of filtration. What does the Berkey remove from water?. For use with Big Berkey, Travel Berkey, Berkey Light, Royal Berkey, Imperial Berkey, Crown Berkey.",
+        "categoryPath": "Home & Garden|Kitchen, Dining & Bar|Small Kitchen Appliances|Water Purification & Soda Makers|Water Filters",
         "shippingCost": {
-          "value": "24.99",
+          "value": "0.00",
           "currency": "USD"
         },
         "shippingType": "Standard Shipping",
@@ -552,17 +556,18 @@
         ],
         "returnsAccepted": false,
         "returnPeriod": "undefined undefined",
-        "estimatedAvailableQuantity": 1,
-        "estimatedRemainingQuantity": 1,
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 374,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
-        "itemLocationCity": "Goose Creek",
-        "itemLocationState": "South Carolina",
+        "itemLocationCity": "Springfield",
+        "itemLocationState": "Virginia",
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|232685866914|536490789600",
+        "itemId": "v1|232685866914|536490789582",
         "title": "Ceramic Window Tint Roll for Home, Office, Car, Truck, Auto - Any Size & Shade",
         "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=232685866914",
         "leafCategoryIds": [
@@ -586,11 +591,11 @@
           "imageUrl": "https://i.ebayimg.com/images/g/6v0AAOSwhhpamvVU/s-l225.jpg"
         },
         "price": {
-          "value": "288.35",
+          "value": "18.87",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C232685866914%7C536490789600",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C232685866914%7C536490789582",
         "seller": {
           "username": "northern-tint",
           "feedbackPercentage": "99.3",
@@ -610,8 +615,8 @@
               "value": "0.00",
               "currency": "USD"
             },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-27T07:00:00.000Z"
           }
         ],
         "buyingOptions": [
@@ -631,8 +636,8 @@
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 4,
-        "imageUrl": "https://i.ebayimg.com/images/g/TW4AAOSwCj5amtMK/s-l1600.jpg",
+        "quantitySold": 1558,
+        "imageUrl": "https://i.ebayimg.com/images/g/aQcAAOSwnOVamtL0/s-l1600.jpg",
         "additionalImages": [],
         "shortDescription": "Introducing the revolutionary NT Nano Ceramic Window Tint, the ultimate solution for your window tinting needs. So why settle for a subpar window tint when you can experience the ultimate in comfort, durability, and style with the NT Nano Ceramic Window Tint?.",
         "categoryPath": "Home & Garden|Window Treatments & Hardware|Window Film",
@@ -1530,8 +1535,8 @@
         "returnsAccepted": true,
         "returnPeriod": "30 CALENDAR_DAY",
         "returnShippingPayer": "BUYER",
-        "estimatedAvailableQuantity": 3,
-        "estimatedRemainingQuantity": 3,
+        "estimatedAvailableQuantity": 4,
+        "estimatedRemainingQuantity": 263,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -1540,63 +1545,59 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|352821716902|0",
-        "title": "12,000 BTU Ductless Air Conditioner, Heat Pump Mini Split 110V 1 Ton W/kit, WiFi",
+        "itemId": "v1|326787431597|0",
+        "title": "BISSELL Steam Shot Handheld Steam Cleaner & Sanitizer 1st Gen",
         "leafCategoryIds": [
-          "185108"
+          "260133"
         ],
         "categories": [
           {
-            "categoryId": "185108",
-            "categoryName": "Central Air Conditioners"
+            "categoryId": "260133",
+            "categoryName": "Mops, Brooms & Scrubbers"
+          },
+          {
+            "categoryId": "299",
+            "categoryName": "Household Supplies & Cleaning"
           },
           {
             "categoryId": "11700",
             "categoryName": "Home & Garden"
           },
           {
-            "categoryId": "30565",
-            "categoryName": "Heating, Cooling & Air"
-          },
-          {
-            "categoryId": "159907",
-            "categoryName": "Home Improvement"
-          },
-          {
-            "categoryId": "260445",
-            "categoryName": "Central Heating & Cooling Systems"
+            "categoryId": "259338",
+            "categoryName": "Cleaning Tools"
           }
         ],
         "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/PWwAAOSw3idoBVBH/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/NQIAAeSwVRVowYdA/s-l225.jpg"
         },
         "price": {
-          "value": "453.18",
+          "value": "14.99",
           "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C352821716902%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326787431597%7C0",
         "seller": {
-          "username": "masterhvacinc",
-          "feedbackPercentage": "100.0",
-          "feedbackScore": 6021
+          "username": "bissell_homecare_inc",
+          "feedbackPercentage": "98.8",
+          "feedbackScore": 55491
         },
         "marketingPrice": {
           "originalPrice": {
-            "value": "498.00",
+            "value": "39.99",
             "currency": "USD"
           },
-          "discountPercentage": "9",
+          "discountPercentage": "63.0",
           "discountAmount": {
-            "value": "44.82",
+            "value": "25.00",
             "currency": "USD"
           },
-          "priceTreatment": "MARKDOWN"
+          "priceTreatment": "LIST_PRICE"
         },
-        "condition": "New",
-        "conditionId": "1000",
+        "condition": "Certified - Refurbished",
+        "conditionId": "2000",
         "thumbnailImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/PWwAAOSw3idoBVBH/s-l1600.jpg"
+            "imageUrl": "https://i.ebayimg.com/images/g/NQIAAeSwVRVowYdA/s-l1600.jpg"
           }
         ],
         "shippingOptions": [
@@ -1613,41 +1614,64 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "epid": "8059327255",
-        "itemWebUrl": "https://www.ebay.com/itm/352821716902?hash=item5225d027a6:g:PWwAAOSw3idoBVBH",
+        "itemWebUrl": "https://www.ebay.com/itm/326787431597?hash=item4c160c7cad:g:NQIAAeSwVRVowYdA",
         "itemLocation": {
-          "postalCode": "785**",
           "country": "US"
         },
         "additionalImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/gNUAAOSwOrllhcmw/s-l1600.jpg",
-            "width": 640,
-            "height": 613
+            "imageUrl": "https://i.ebayimg.com/images/g/TGQAAeSwjDlo1FYo/s-l1600.jpg",
+            "width": 1600,
+            "height": 1143
           },
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/Y8QAAOSwlf5cz7Sq/s-l1600.jpg",
-            "width": 1080,
-            "height": 1473
+            "imageUrl": "https://i.ebayimg.com/images/g/pbwAAeSwGZ5owYdF/s-l1600.jpg",
+            "width": 1600,
+            "height": 1143
           },
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/OvUAAOSwjmpgz1xM/s-l1600.jpg",
-            "width": 1080,
-            "height": 1086
+            "imageUrl": "https://i.ebayimg.com/images/g/PtIAAeSwEUJowYdG/s-l1600.jpg",
+            "width": 1600,
+            "height": 1143
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/HvkAAeSwOxZo1UeS/s-l1600.jpg",
+            "width": 1600,
+            "height": 1066
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/GWEAAeSwZ9to1Uh4/s-l1600.jpg",
+            "width": 1600,
+            "height": 1066
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/iLIAAeSwjDlo1UiB/s-l1600.jpg",
+            "width": 1066,
+            "height": 1600
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/B8MAAeSw44Vo1UiM/s-l1600.jpg",
+            "width": 1600,
+            "height": 1066
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/KdUAAeSwGuRo1UiZ/s-l1600.jpg",
+            "width": 1066,
+            "height": 1600
           }
         ],
         "adultOnly": false,
-        "legacyItemId": "352821716902",
+        "legacyItemId": "326787431597",
         "availableCoupons": false,
-        "itemOriginDate": "2019-10-12T18:24:30.000Z",
-        "itemCreationDate": "2019-10-12T18:24:30.000Z",
-        "topRatedBuyingExperience": true,
+        "itemOriginDate": "2025-09-24T20:41:13.000Z",
+        "itemCreationDate": "2025-09-24T20:41:13.000Z",
+        "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 29593,
-        "imageUrl": "https://i.ebayimg.com/images/g/PWwAAOSw3idoBVBH/s-l1600.jpg",
-        "shortDescription": "12000 btu ductless mini split air conditioner and heat pump 1 Ton and can cool or heat up to 600 square feet. 12,000 btu Ductless mini split 1 Ton. Air Conditioner and Heat pump. Mini Split Air Conditioner.",
-        "categoryPath": "Home & Garden|Home Improvement|Heating, Cooling & Air|Central Heating & Cooling Systems|Central Air Conditioners",
+        "quantitySold": 6503,
+        "imageUrl": "https://i.ebayimg.com/images/g/NQIAAeSwVRVowYdA/s-l1600.jpg",
+        "shortDescription": "New & Improved Model. Clean and sanitize with the natural power of steam: 1000 watts of steam power eliminates 99.9% of germs and bacteria from a variety of hard surfaces.",
+        "categoryPath": "Home & Garden|Household Supplies & Cleaning|Cleaning Tools|Mops, Brooms & Scrubbers",
         "shippingCost": {
           "value": "0.00",
           "currency": "USD"
@@ -1658,6 +1682,11 @@
             "regionName": "United States",
             "regionType": "COUNTRY",
             "regionId": "US"
+          },
+          {
+            "regionName": "Puerto Rico",
+            "regionType": "COUNTRY",
+            "regionId": "PR"
           }
         ],
         "returnsAccepted": true,
@@ -1665,271 +1694,15 @@
         "returnShippingPayer": "SELLER",
         "availabilityThreshold": 10,
         "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 39,
+        "estimatedRemainingQuantity": 43507,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
-        "itemLocationCity": "Brownsville",
-        "itemLocationState": "Texas",
+        "itemLocationCity": "United States",
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|336159238316|0",
-        "title": "2PCS For Milwauke 48-11-1860 18v 6.0 AH Batteries M18 XC18 48-11-1860 US Stock",
-        "leafCategoryIds": [
-          "260219"
-        ],
-        "categories": [
-          {
-            "categoryId": "260219",
-            "categoryName": "Other Power & Air Tool Accessories"
-          },
-          {
-            "categoryId": "631",
-            "categoryName": "Tools & Workshop Equipment"
-          },
-          {
-            "categoryId": "11700",
-            "categoryName": "Home & Garden"
-          },
-          {
-            "categoryId": "260176",
-            "categoryName": "Power Tool & Air Tool Accessories"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/PAUAAeSwstFotwrf/s-l225.jpg"
-        },
-        "price": {
-          "value": "99.00",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336159238316%7C0",
-        "seller": {
-          "username": "rankrandomluck",
-          "feedbackPercentage": "98.4",
-          "feedbackScore": 144
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/PAUAAeSwstFotwrf/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-30T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/336159238316?hash=item4e44a6e8ac:g:PAUAAeSwstFotwrf",
-        "itemLocation": {
-          "country": "US"
-        },
-        "adultOnly": false,
-        "legacyItemId": "336159238316",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-09-03T10:05:09.000Z",
-        "itemCreationDate": "2025-09-03T10:05:09.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 432,
-        "imageUrl": "https://i.ebayimg.com/images/g/PAUAAeSwstFotwrf/s-l1600.jpg",
-        "additionalImages": [],
-        "shortDescription": "2PCS BRAND NEW - Milwauke M18 XC 6.0Ah Battery Pack 48-11-1860",
-        "categoryPath": "Home & Garden|Tools & Workshop Equipment|Power Tool & Air Tool Accessories|Other Power & Air Tool Accessories",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "SELLER",
-        "estimatedAvailableQuantity": 10,
-        "estimatedRemainingQuantity": 10,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "US",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|297430711432|0",
-        "title": "2024 New RYZE Mushroom Coffee Organic Coffee 30 Servings in one Pack - No odor",
-        "leafCategoryIds": [
-          "185039"
-        ],
-        "categories": [
-          {
-            "categoryId": "185039",
-            "categoryName": "Other Coffee"
-          },
-          {
-            "categoryId": "11700",
-            "categoryName": "Home & Garden"
-          },
-          {
-            "categoryId": "14308",
-            "categoryName": "Food & Beverages"
-          },
-          {
-            "categoryId": "185035",
-            "categoryName": "Non-Alcoholic Drinks"
-          },
-          {
-            "categoryId": "185036",
-            "categoryName": "Coffee"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/BccAAOSwmN9nRTSb/s-l225.jpg"
-        },
-        "price": {
-          "value": "13.57",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297430711432%7C0",
-        "seller": {
-          "username": "grge645614",
-          "feedbackPercentage": "98.7",
-          "feedbackScore": 2524
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/BccAAOSwmN9nRTSb/s-l1200.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-27T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE",
-          "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/297430711432?hash=item4540407c88:g:BccAAOSwmN9nRTSb",
-        "itemLocation": {
-          "postalCode": "079**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/LrAAAOSwQVVnRTSd/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/-boAAOSwFMJnRTSf/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/26kAAOSwCJxnRTSi/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/9I0AAOSwbnBnRTSk/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/6DEAAOSweHFnRTSm/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/D2wAAOSwyRtnRTSq/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/cjUAAOSwcIdnRTSt/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/Wi8AAOSwCHpnRTSv/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/CY4AAOSwbn9nRTSy/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/yx0AAOSw8QlnRTS0/s-l1600.jpg",
-            "width": 1000,
-            "height": 1000
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "297430711432",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-06-23T02:02:43.000Z",
-        "itemCreationDate": "2025-06-23T02:02:43.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 4667,
-        "imageUrl": "https://i.ebayimg.com/images/g/BccAAOSwmN9nRTSb/s-l1600.jpg",
-        "shortDescription": "Experience the power of nature's super foods with this Mushroom Coffee. With its carefully curated blend of ingredients, it's a guilt-free indulgence that you can feel good about sipping.",
-        "categoryPath": "Home & Garden|Food & Beverages|Non-Alcoholic Drinks|Coffee|Other Coffee",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "SELLER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 1201,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Whippany",
-        "itemLocationState": "New Jersey",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|136383718572|435216974718",
+        "itemId": "v1|136383718572|435216974721",
         "title": "LED Motion Sensor Under Cabinet Closet Light USB Rechargeable Kitchen Lamp Strip",
         "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=136383718572",
         "leafCategoryIds": [
@@ -1958,11 +1731,11 @@
           "imageUrl": "https://i.ebayimg.com/images/g/O28AAeSw7VBosVgK/s-l225.jpg"
         },
         "price": {
-          "value": "302.88",
+          "value": "6.88",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C136383718572%7C435216974718",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C136383718572%7C435216974721",
         "seller": {
           "username": "oscommerc-27",
           "feedbackPercentage": "98.1",
@@ -1970,12 +1743,12 @@
         },
         "marketingPrice": {
           "originalPrice": {
-            "value": "378.60",
+            "value": "8.60",
             "currency": "USD"
           },
-          "discountPercentage": "20",
+          "discountPercentage": "20.0",
           "discountAmount": {
-            "value": "75.72",
+            "value": "1.72",
             "currency": "USD"
           },
           "priceTreatment": "MARKDOWN"
@@ -2091,7 +1864,7 @@
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 0,
+        "quantitySold": 117,
         "imageUrl": "https://i.ebayimg.com/images/g/O28AAeSw7VBosVgK/s-l1600.jpg",
         "shortDescription": "Item type: Cabinet Lamp. Light color: 3000K 4000K 6000K 3color in One Lamp. We'll do our best to solve your problem. Because we believe that everything can be solved through communication. Shell color:Silver.",
         "categoryPath": "Home & Garden|Lamps, Lighting & Ceiling Fans|Night Lights",
@@ -2890,7 +2663,7 @@
         "returnPeriod": "30 CALENDAR_DAY",
         "returnShippingPayer": "SELLER",
         "estimatedAvailableQuantity": 1,
-        "estimatedRemainingQuantity": 1,
+        "estimatedRemainingQuantity": 45,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -2899,126 +2672,82 @@
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|187648100432|0",
-        "title": "GE XWFE Refrigerator Water Filter OEM - White W/Chip See Pics And Description",
+        "itemId": "v1|336159238316|0",
+        "title": "2PCS For Milwauke 48-11-1860 18v 6.0 AH Batteries M18 XC18 48-11-1860 US Stock",
         "leafCategoryIds": [
-          "20684"
+          "260219"
         ],
         "categories": [
           {
-            "categoryId": "20684",
-            "categoryName": "Water Filters"
+            "categoryId": "260219",
+            "categoryName": "Other Power & Air Tool Accessories"
+          },
+          {
+            "categoryId": "631",
+            "categoryName": "Tools & Workshop Equipment"
           },
           {
             "categoryId": "11700",
             "categoryName": "Home & Garden"
           },
           {
-            "categoryId": "20625",
-            "categoryName": "Kitchen, Dining & Bar"
-          },
-          {
-            "categoryId": "20667",
-            "categoryName": "Small Kitchen Appliances"
-          },
-          {
-            "categoryId": "54144",
-            "categoryName": "Water Purification & Soda Makers"
+            "categoryId": "260176",
+            "categoryName": "Power Tool & Air Tool Accessories"
           }
         ],
         "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/1SwAAOSwsoNnE2Wb/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/PAUAAeSwstFotwrf/s-l225.jpg"
         },
         "price": {
-          "value": "21.16",
+          "value": "99.00",
           "currency": "USD"
         },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C187648100432%7C0",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336159238316%7C0",
         "seller": {
-          "username": "cmcappliances",
-          "feedbackPercentage": "99.8",
-          "feedbackScore": 1905
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "23.00",
-            "currency": "USD"
-          },
-          "discountPercentage": "8",
-          "discountAmount": {
-            "value": "1.84",
-            "currency": "USD"
-          },
-          "priceTreatment": "MARKDOWN"
+          "username": "rankrandomluck",
+          "feedbackPercentage": "98.4",
+          "feedbackScore": 144
         },
         "condition": "New",
         "conditionId": "1000",
         "thumbnailImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/1SwAAOSwsoNnE2Wb/s-l1600.jpg"
+            "imageUrl": "https://i.ebayimg.com/images/g/PAUAAeSwstFotwrf/s-l1600.jpg"
           }
         ],
         "shippingOptions": [
           {
             "shippingCostType": "FIXED",
             "shippingCost": {
-              "value": "1.99",
+              "value": "0.00",
               "currency": "USD"
             },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+            "minEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-30T07:00:00.000Z"
           }
         ],
         "buyingOptions": [
-          "FIXED_PRICE",
-          "BEST_OFFER"
+          "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/187648100432?hash=item2bb0b2c850:g:1SwAAOSwsoNnE2Wb",
+        "itemWebUrl": "https://www.ebay.com/itm/336159238316?hash=item4e44a6e8ac:g:PAUAAeSwstFotwrf",
         "itemLocation": {
-          "postalCode": "402**",
           "country": "US"
         },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/LAgAAOSwa2VnE2Wc/s-l1600.jpg",
-            "width": 1600,
-            "height": 1050
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/rd4AAOSwcB1l6AGL/s-l1600.jpg",
-            "width": 1200,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/GOEAAeSwH4xoivo~/s-l1600.jpg",
-            "width": 674,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/kjIAAeSwmzpoivo~/s-l1600.jpg",
-            "width": 778,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/lQAAAeSwT3toivo~/s-l1600.jpg",
-            "width": 1600,
-            "height": 1090
-          }
-        ],
         "adultOnly": false,
-        "legacyItemId": "187648100432",
+        "legacyItemId": "336159238316",
         "availableCoupons": false,
-        "itemOriginDate": "2025-09-11T04:55:32.000Z",
-        "itemCreationDate": "2025-10-13T16:09:14.000Z",
+        "itemOriginDate": "2025-09-03T10:05:09.000Z",
+        "itemCreationDate": "2025-09-03T10:05:09.000Z",
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 143,
-        "imageUrl": "https://i.ebayimg.com/images/g/1SwAAOSwsoNnE2Wb/s-l1600.jpg",
-        "shortDescription": "Keep your household water pure with this GE XWFE refrigerator water filter. It has a capacity of 170 gallons.",
-        "categoryPath": "Home & Garden|Kitchen, Dining & Bar|Small Kitchen Appliances|Water Purification & Soda Makers|Water Filters",
+        "quantitySold": 433,
+        "imageUrl": "https://i.ebayimg.com/images/g/PAUAAeSwstFotwrf/s-l1600.jpg",
+        "additionalImages": [],
+        "shortDescription": "2PCS BRAND NEW - Milwauke M18 XC 6.0Ah Battery Pack 48-11-1860",
+        "categoryPath": "Home & Garden|Tools & Workshop Equipment|Power Tool & Air Tool Accessories|Other Power & Air Tool Accessories",
         "shippingCost": {
-          "value": "1.99",
+          "value": "0.00",
           "currency": "USD"
         },
         "shippingType": "Standard Shipping",
@@ -3027,931 +2756,285 @@
             "regionName": "United States",
             "regionType": "COUNTRY",
             "regionId": "US"
-          },
-          {
-            "regionName": "New Zealand",
-            "regionType": "COUNTRY",
-            "regionId": "NZ"
-          },
-          {
-            "regionName": "Fiji",
-            "regionType": "COUNTRY",
-            "regionId": "FJ"
-          },
-          {
-            "regionName": "Papua New Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "PG"
-          },
-          {
-            "regionName": "Wallis and Futuna",
-            "regionType": "COUNTRY",
-            "regionId": "WF"
-          },
-          {
-            "regionName": "Marshall Islands",
-            "regionType": "COUNTRY",
-            "regionId": "MH"
-          },
-          {
-            "regionName": "Gambia",
-            "regionType": "COUNTRY",
-            "regionId": "GM"
-          },
-          {
-            "regionName": "Malaysia",
-            "regionType": "COUNTRY",
-            "regionId": "MY"
-          },
-          {
-            "regionName": "Taiwan",
-            "regionType": "COUNTRY",
-            "regionId": "TW"
-          },
-          {
-            "regionName": "Poland",
-            "regionType": "COUNTRY",
-            "regionId": "PL"
-          },
-          {
-            "regionName": "Oman",
-            "regionType": "COUNTRY",
-            "regionId": "OM"
-          },
-          {
-            "regionName": "Suriname",
-            "regionType": "COUNTRY",
-            "regionId": "SR"
-          },
-          {
-            "regionName": "United Arab Emirates",
-            "regionType": "COUNTRY",
-            "regionId": "AE"
-          },
-          {
-            "regionName": "Kenya",
-            "regionType": "COUNTRY",
-            "regionId": "KE"
-          },
-          {
-            "regionName": "Argentina",
-            "regionType": "COUNTRY",
-            "regionId": "AR"
-          },
-          {
-            "regionName": "Guinea-Bissau",
-            "regionType": "COUNTRY",
-            "regionId": "GW"
-          },
-          {
-            "regionName": "Armenia",
-            "regionType": "COUNTRY",
-            "regionId": "AM"
-          },
-          {
-            "regionName": "Uzbekistan",
-            "regionType": "COUNTRY",
-            "regionId": "UZ"
-          },
-          {
-            "regionName": "Bhutan",
-            "regionType": "COUNTRY",
-            "regionId": "BT"
-          },
-          {
-            "regionName": "Senegal",
-            "regionType": "COUNTRY",
-            "regionId": "SN"
-          },
-          {
-            "regionName": "Togo",
-            "regionType": "COUNTRY",
-            "regionId": "TG"
-          },
-          {
-            "regionName": "Ireland",
-            "regionType": "COUNTRY",
-            "regionId": "IE"
-          },
-          {
-            "regionName": "Qatar",
-            "regionType": "COUNTRY",
-            "regionId": "QA"
-          },
-          {
-            "regionName": "Burundi",
-            "regionType": "COUNTRY",
-            "regionId": "BI"
-          },
-          {
-            "regionName": "Netherlands",
-            "regionType": "COUNTRY",
-            "regionId": "NL"
-          },
-          {
-            "regionName": "Slovakia",
-            "regionType": "COUNTRY",
-            "regionId": "SK"
-          },
-          {
-            "regionName": "Slovenia",
-            "regionType": "COUNTRY",
-            "regionId": "SI"
-          },
-          {
-            "regionName": "Equatorial Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GQ"
-          },
-          {
-            "regionName": "Thailand",
-            "regionType": "COUNTRY",
-            "regionId": "TH"
-          },
-          {
-            "regionName": "Aruba",
-            "regionType": "COUNTRY",
-            "regionId": "AW"
-          },
-          {
-            "regionName": "American Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "AS"
-          },
-          {
-            "regionName": "Sweden",
-            "regionType": "COUNTRY",
-            "regionId": "SE"
-          },
-          {
-            "regionName": "Iceland",
-            "regionType": "COUNTRY",
-            "regionId": "IS"
-          },
-          {
-            "regionName": "Macedonia",
-            "regionType": "COUNTRY",
-            "regionId": "MK"
-          },
-          {
-            "regionName": "Belgium",
-            "regionType": "COUNTRY",
-            "regionId": "BE"
-          },
-          {
-            "regionName": "Israel",
-            "regionType": "COUNTRY",
-            "regionId": "IL"
-          },
-          {
-            "regionName": "Kuwait",
-            "regionType": "COUNTRY",
-            "regionId": "KW"
-          },
-          {
-            "regionName": "Liechtenstein",
-            "regionType": "COUNTRY",
-            "regionId": "LI"
-          },
-          {
-            "regionName": "Benin",
-            "regionType": "COUNTRY",
-            "regionId": "BJ"
-          },
-          {
-            "regionName": "Algeria",
-            "regionType": "COUNTRY",
-            "regionId": "DZ"
-          },
-          {
-            "regionName": "Antigua and Barbuda",
-            "regionType": "COUNTRY",
-            "regionId": "AG"
-          },
-          {
-            "regionName": "Italy",
-            "regionType": "COUNTRY",
-            "regionId": "IT"
-          },
-          {
-            "regionName": "Swaziland",
-            "regionType": "COUNTRY",
-            "regionId": "SZ"
-          },
-          {
-            "regionName": "Tanzania",
-            "regionType": "COUNTRY",
-            "regionId": "TZ"
-          },
-          {
-            "regionName": "Pakistan",
-            "regionType": "COUNTRY",
-            "regionId": "PK"
-          },
-          {
-            "regionName": "Burkina Faso",
-            "regionType": "COUNTRY",
-            "regionId": "BF"
-          },
-          {
-            "regionName": "Panama",
-            "regionType": "COUNTRY",
-            "regionId": "PA"
-          },
-          {
-            "regionName": "Singapore",
-            "regionType": "COUNTRY",
-            "regionId": "SG"
-          },
-          {
-            "regionName": "Kyrgyzstan",
-            "regionType": "COUNTRY",
-            "regionId": "KG"
-          },
-          {
-            "regionName": "Switzerland",
-            "regionType": "COUNTRY",
-            "regionId": "CH"
-          },
-          {
-            "regionName": "Djibouti",
-            "regionType": "COUNTRY",
-            "regionId": "DJ"
-          },
-          {
-            "regionName": "Puerto Rico",
-            "regionType": "COUNTRY",
-            "regionId": "PR"
-          },
-          {
-            "regionName": "Chile",
-            "regionType": "COUNTRY",
-            "regionId": "CL"
-          },
-          {
-            "regionName": "China",
-            "regionType": "COUNTRY",
-            "regionId": "CN"
-          },
-          {
-            "regionName": "Mali",
-            "regionType": "COUNTRY",
-            "regionId": "ML"
-          },
-          {
-            "regionName": "Botswana",
-            "regionType": "COUNTRY",
-            "regionId": "BW"
-          },
-          {
-            "regionName": "Republic of Croatia",
-            "regionType": "COUNTRY",
-            "regionId": "HR"
-          },
-          {
-            "regionName": "Cambodia",
-            "regionType": "COUNTRY",
-            "regionId": "KH"
-          },
-          {
-            "regionName": "Indonesia",
-            "regionType": "COUNTRY",
-            "regionId": "ID"
-          },
-          {
-            "regionName": "Portugal",
-            "regionType": "COUNTRY",
-            "regionId": "PT"
-          },
-          {
-            "regionName": "Malta",
-            "regionType": "COUNTRY",
-            "regionId": "MT"
-          },
-          {
-            "regionName": "Tajikistan",
-            "regionType": "COUNTRY",
-            "regionId": "TJ"
-          },
-          {
-            "regionName": "Vietnam",
-            "regionType": "COUNTRY",
-            "regionId": "VN"
-          },
-          {
-            "regionName": "Cayman Islands",
-            "regionType": "COUNTRY",
-            "regionId": "KY"
-          },
-          {
-            "regionName": "Paraguay",
-            "regionType": "COUNTRY",
-            "regionId": "PY"
-          },
-          {
-            "regionName": "Cyprus",
-            "regionType": "COUNTRY",
-            "regionId": "CY"
-          },
-          {
-            "regionName": "Seychelles",
-            "regionType": "COUNTRY",
-            "regionId": "SC"
-          },
-          {
-            "regionName": "Rwanda",
-            "regionType": "COUNTRY",
-            "regionId": "RW"
-          },
-          {
-            "regionName": "Bangladesh",
-            "regionType": "COUNTRY",
-            "regionId": "BD"
-          },
-          {
-            "regionName": "Australia",
-            "regionType": "COUNTRY",
-            "regionId": "AU"
-          },
-          {
-            "regionName": "Austria",
-            "regionType": "COUNTRY",
-            "regionId": "AT"
-          },
-          {
-            "regionName": "Sri Lanka",
-            "regionType": "COUNTRY",
-            "regionId": "LK"
-          },
-          {
-            "regionName": "Gabon Republic",
-            "regionType": "COUNTRY",
-            "regionId": "GA"
-          },
-          {
-            "regionName": "Zimbabwe",
-            "regionType": "COUNTRY",
-            "regionId": "ZW"
-          },
-          {
-            "regionName": "Bulgaria",
-            "regionType": "COUNTRY",
-            "regionId": "BG"
-          },
-          {
-            "regionName": "Czech Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CZ"
-          },
-          {
-            "regionName": "Norway",
-            "regionType": "COUNTRY",
-            "regionId": "NO"
-          },
-          {
-            "regionName": "Côte d'Ivoire (Ivory Coast)",
-            "regionType": "COUNTRY",
-            "regionId": "CI"
-          },
-          {
-            "regionName": "Kiribati",
-            "regionType": "COUNTRY",
-            "regionId": "KI"
-          },
-          {
-            "regionName": "Turkmenistan",
-            "regionType": "COUNTRY",
-            "regionId": "TM"
-          },
-          {
-            "regionName": "Grenada",
-            "regionType": "COUNTRY",
-            "regionId": "GD"
-          },
-          {
-            "regionName": "Greece",
-            "regionType": "COUNTRY",
-            "regionId": "GR"
-          },
-          {
-            "regionName": "Greenland",
-            "regionType": "COUNTRY",
-            "regionId": "GL"
-          },
-          {
-            "regionName": "Yemen",
-            "regionType": "COUNTRY",
-            "regionId": "YE"
-          },
-          {
-            "regionName": "Afghanistan",
-            "regionType": "COUNTRY",
-            "regionId": "AF"
-          },
-          {
-            "regionName": "Montenegro",
-            "regionType": "COUNTRY",
-            "regionId": "ME"
-          },
-          {
-            "regionName": "Nepal",
-            "regionType": "COUNTRY",
-            "regionId": "NP"
-          },
-          {
-            "regionName": "Bahamas",
-            "regionType": "COUNTRY",
-            "regionId": "BS"
-          },
-          {
-            "regionName": "Bahrain",
-            "regionType": "COUNTRY",
-            "regionId": "BH"
-          },
-          {
-            "regionName": "Bosnia and Herzegovina",
-            "regionType": "COUNTRY",
-            "regionId": "BA"
-          },
-          {
-            "regionName": "Hungary",
-            "regionType": "COUNTRY",
-            "regionId": "HU"
-          },
-          {
-            "regionName": "Angola",
-            "regionType": "COUNTRY",
-            "regionId": "AO"
-          },
-          {
-            "regionName": "Western Samoa",
-            "regionType": "COUNTRY",
-            "regionId": "WS"
-          },
-          {
-            "regionName": "France",
-            "regionType": "COUNTRY",
-            "regionId": "FR"
-          },
-          {
-            "regionName": "Mozambique",
-            "regionType": "COUNTRY",
-            "regionId": "MZ"
-          },
-          {
-            "regionName": "Namibia",
-            "regionType": "COUNTRY",
-            "regionId": "NA"
-          },
-          {
-            "regionName": "Peru",
-            "regionType": "COUNTRY",
-            "regionId": "PE"
-          },
-          {
-            "regionName": "Denmark",
-            "regionType": "COUNTRY",
-            "regionId": "DK"
-          },
-          {
-            "regionName": "Guatemala",
-            "regionType": "COUNTRY",
-            "regionId": "GT"
-          },
-          {
-            "regionName": "Solomon Islands",
-            "regionType": "COUNTRY",
-            "regionId": "SB"
-          },
-          {
-            "regionName": "Vatican City State",
-            "regionType": "COUNTRY",
-            "regionId": "VA"
-          },
-          {
-            "regionName": "Sierra Leone",
-            "regionType": "COUNTRY",
-            "regionId": "SL"
-          },
-          {
-            "regionName": "Nauru",
-            "regionType": "COUNTRY",
-            "regionId": "NR"
-          },
-          {
-            "regionName": "Anguilla",
-            "regionType": "COUNTRY",
-            "regionId": "AI"
-          },
-          {
-            "regionName": "El Salvador",
-            "regionType": "COUNTRY",
-            "regionId": "SV"
-          },
-          {
-            "regionName": "Guam",
-            "regionType": "COUNTRY",
-            "regionId": "GU"
-          },
-          {
-            "regionName": "Micronesia",
-            "regionType": "COUNTRY",
-            "regionId": "FM"
-          },
-          {
-            "regionName": "Dominican Republic",
-            "regionType": "COUNTRY",
-            "regionId": "DO"
-          },
-          {
-            "regionName": "Cameroon",
-            "regionType": "COUNTRY",
-            "regionId": "CM"
-          },
-          {
-            "regionName": "Guyana",
-            "regionType": "COUNTRY",
-            "regionId": "GY"
-          },
-          {
-            "regionName": "Azerbaijan Republic",
-            "regionType": "COUNTRY",
-            "regionId": "AZ"
-          },
-          {
-            "regionName": "Macau",
-            "regionType": "COUNTRY",
-            "regionId": "MO"
-          },
-          {
-            "regionName": "Georgia",
-            "regionType": "COUNTRY",
-            "regionId": "GE"
-          },
-          {
-            "regionName": "Tonga",
-            "regionType": "COUNTRY",
-            "regionId": "TO"
-          },
-          {
-            "regionName": "San Marino",
-            "regionType": "COUNTRY",
-            "regionId": "SM"
-          },
-          {
-            "regionName": "Eritrea",
-            "regionType": "COUNTRY",
-            "regionId": "ER"
-          },
-          {
-            "regionName": "Saint Kitts-Nevis",
-            "regionType": "COUNTRY",
-            "regionId": "KN"
-          },
-          {
-            "regionName": "Morocco",
-            "regionType": "COUNTRY",
-            "regionId": "MA"
-          },
-          {
-            "regionName": "Saint Vincent and the Grenadines",
-            "regionType": "COUNTRY",
-            "regionId": "VC"
-          },
-          {
-            "regionName": "Mauritania",
-            "regionType": "COUNTRY",
-            "regionId": "MR"
-          },
-          {
-            "regionName": "Belize",
-            "regionType": "COUNTRY",
-            "regionId": "BZ"
-          },
-          {
-            "regionName": "Philippines",
-            "regionType": "COUNTRY",
-            "regionId": "PH"
-          },
-          {
-            "regionName": "Democratic Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CD"
-          },
-          {
-            "regionType": "COUNTRY",
-            "regionId": "UY"
-          },
-          {
-            "regionName": "Republic of the Congo",
-            "regionType": "COUNTRY",
-            "regionId": "CG"
-          },
-          {
-            "regionName": "Colombia",
-            "regionType": "COUNTRY",
-            "regionId": "CO"
-          },
-          {
-            "regionName": "Spain",
-            "regionType": "COUNTRY",
-            "regionId": "ES"
-          },
-          {
-            "regionName": "Estonia",
-            "regionType": "COUNTRY",
-            "regionId": "EE"
-          },
-          {
-            "regionName": "Bermuda",
-            "regionType": "COUNTRY",
-            "regionId": "BM"
-          },
-          {
-            "regionName": "Montserrat",
-            "regionType": "COUNTRY",
-            "regionId": "MS"
-          },
-          {
-            "regionName": "Zambia",
-            "regionType": "COUNTRY",
-            "regionId": "ZM"
-          },
-          {
-            "regionName": "South Korea",
-            "regionType": "COUNTRY",
-            "regionId": "KR"
-          },
-          {
-            "regionName": "Vanuatu",
-            "regionType": "COUNTRY",
-            "regionId": "VU"
-          },
-          {
-            "regionName": "Ecuador",
-            "regionType": "COUNTRY",
-            "regionId": "EC"
-          },
-          {
-            "regionName": "Albania",
-            "regionType": "COUNTRY",
-            "regionId": "AL"
-          },
-          {
-            "regionName": "Ethiopia",
-            "regionType": "COUNTRY",
-            "regionId": "ET"
-          },
-          {
-            "regionName": "Monaco",
-            "regionType": "COUNTRY",
-            "regionId": "MC"
-          },
-          {
-            "regionName": "Niger",
-            "regionType": "COUNTRY",
-            "regionId": "NE"
-          },
-          {
-            "regionName": "Ghana",
-            "regionType": "COUNTRY",
-            "regionId": "GH"
-          },
-          {
-            "regionName": "Cape Verde Islands",
-            "regionType": "COUNTRY",
-            "regionId": "CV"
-          },
-          {
-            "regionName": "Moldova",
-            "regionType": "COUNTRY",
-            "regionId": "MD"
-          },
-          {
-            "regionName": "Madagascar",
-            "regionType": "COUNTRY",
-            "regionId": "MG"
-          },
-          {
-            "regionName": "Lebanon",
-            "regionType": "COUNTRY",
-            "regionId": "LB"
-          },
-          {
-            "regionName": "Liberia",
-            "regionType": "COUNTRY",
-            "regionId": "LR"
-          },
-          {
-            "regionName": "Bolivia",
-            "regionType": "COUNTRY",
-            "regionId": "BO"
-          },
-          {
-            "regionName": "Maldives",
-            "regionType": "COUNTRY",
-            "regionId": "MV"
-          },
-          {
-            "regionName": "Gibraltar",
-            "regionType": "COUNTRY",
-            "regionId": "GI"
-          },
-          {
-            "regionName": "Hong Kong",
-            "regionType": "COUNTRY",
-            "regionId": "HK"
-          },
-          {
-            "regionName": "Central African Republic",
-            "regionType": "COUNTRY",
-            "regionId": "CF"
-          },
-          {
-            "regionName": "Lesotho",
-            "regionType": "COUNTRY",
-            "regionId": "LS"
-          },
-          {
-            "regionName": "Nigeria",
-            "regionType": "COUNTRY",
-            "regionId": "NG"
-          },
-          {
-            "regionName": "Mauritius",
-            "regionType": "COUNTRY",
-            "regionId": "MU"
-          },
-          {
-            "regionName": "Saint Lucia",
-            "regionType": "COUNTRY",
-            "regionId": "LC"
-          },
-          {
-            "regionName": "Guinea",
-            "regionType": "COUNTRY",
-            "regionId": "GN"
-          },
-          {
-            "regionName": "Canada",
-            "regionType": "COUNTRY",
-            "regionId": "CA"
-          },
-          {
-            "regionName": "Turks and Caicos Islands",
-            "regionType": "COUNTRY",
-            "regionId": "TC"
-          },
-          {
-            "regionName": "Chad",
-            "regionType": "COUNTRY",
-            "regionId": "TD"
-          },
-          {
-            "regionName": "Andorra",
-            "regionType": "COUNTRY",
-            "regionId": "AD"
-          },
-          {
-            "regionName": "Romania",
-            "regionType": "COUNTRY",
-            "regionId": "RO"
-          },
-          {
-            "regionName": "Costa Rica",
-            "regionType": "COUNTRY",
-            "regionId": "CR"
-          },
-          {
-            "regionName": "India",
-            "regionType": "COUNTRY",
-            "regionId": "IN"
-          },
-          {
-            "regionName": "Mexico",
-            "regionType": "COUNTRY",
-            "regionId": "MX"
-          },
-          {
-            "regionName": "Serbia",
-            "regionType": "COUNTRY",
-            "regionId": "RS"
-          },
-          {
-            "regionName": "Kazakhstan",
-            "regionType": "COUNTRY",
-            "regionId": "KZ"
-          },
-          {
-            "regionName": "Saudi Arabia",
-            "regionType": "COUNTRY",
-            "regionId": "SA"
-          },
-          {
-            "regionName": "Japan",
-            "regionType": "COUNTRY",
-            "regionId": "JP"
-          },
-          {
-            "regionName": "Lithuania",
-            "regionType": "COUNTRY",
-            "regionId": "LT"
-          },
-          {
-            "regionName": "Trinidad and Tobago",
-            "regionType": "COUNTRY",
-            "regionId": "TT"
-          },
-          {
-            "regionName": "Palau",
-            "regionType": "COUNTRY",
-            "regionId": "PW"
-          },
-          {
-            "regionName": "Malawi",
-            "regionType": "COUNTRY",
-            "regionId": "MW"
-          },
-          {
-            "regionName": "Nicaragua",
-            "regionType": "COUNTRY",
-            "regionId": "NI"
-          },
-          {
-            "regionName": "Finland",
-            "regionType": "COUNTRY",
-            "regionId": "FI"
-          },
-          {
-            "regionName": "Tunisia",
-            "regionType": "COUNTRY",
-            "regionId": "TN"
-          },
-          {
-            "regionName": "Luxembourg",
-            "regionType": "COUNTRY",
-            "regionId": "LU"
-          },
-          {
-            "regionName": "Uganda",
-            "regionType": "COUNTRY",
-            "regionId": "UG"
-          },
-          {
-            "regionName": "Brazil",
-            "regionType": "COUNTRY",
-            "regionId": "BR"
-          },
-          {
-            "regionName": "Turkey",
-            "regionType": "COUNTRY",
-            "regionId": "TR"
-          },
-          {
-            "regionName": "Egypt",
-            "regionType": "COUNTRY",
-            "regionId": "EG"
-          },
-          {
-            "regionName": "Latvia",
-            "regionType": "COUNTRY",
-            "regionId": "LV"
-          },
-          {
-            "regionName": "Jamaica",
-            "regionType": "COUNTRY",
-            "regionId": "JM"
-          },
-          {
-            "regionName": "Virgin Islands (U.S.)",
-            "regionType": "COUNTRY",
-            "regionId": "VI"
-          },
-          {
-            "regionName": "Brunei Darussalam",
-            "regionType": "COUNTRY",
-            "regionId": "BN"
-          },
-          {
-            "regionName": "Honduras",
-            "regionType": "COUNTRY",
-            "regionId": "HN"
           }
         ],
-        "returnsAccepted": false,
-        "returnPeriod": "undefined undefined",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 75,
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "estimatedAvailableQuantity": 9,
+        "estimatedRemainingQuantity": 9,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
-        "itemLocationCity": "Louisville",
-        "itemLocationState": "Kentucky",
+        "itemLocationCity": "US",
         "itemLocationCountry": "US"
       },
       {
-        "itemId": "v1|293630703557|592447709885",
+        "itemId": "v1|185420363161|693216185806",
+        "title": "All Perennial Wildflower Mix, 15 Species Flowers, Variety Packet-Size, Easy Grow",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=185420363161",
+        "leafCategoryIds": [
+          "40605"
+        ],
+        "categories": [
+          {
+            "categoryId": "40605",
+            "categoryName": "Seeds & Bulbs"
+          },
+          {
+            "categoryId": "11700",
+            "categoryName": "Home & Garden"
+          },
+          {
+            "categoryId": "159912",
+            "categoryName": "Yard, Garden & Outdoor Living"
+          },
+          {
+            "categoryId": "181003",
+            "categoryName": "Plants, Seeds & Bulbs"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/p28AAOSwuxFY3GOL/s-l225.jpg"
+        },
+        "price": {
+          "value": "1.99",
+          "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C185420363161%7C693216185806",
+        "seller": {
+          "username": "southeastseeds",
+          "feedbackPercentage": "99.4",
+          "feedbackScore": 70690
+        },
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/p28AAOSwuxFY3GOL/s-l640.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-25T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/185420363161?hash=item2b2bea3599:g:p28AAOSwuxFY3GOL",
+        "itemLocation": {
+          "postalCode": "327**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/C3IAAOSwd2ZbyqRj/s-l1600.jpg",
+            "width": 1024,
+            "height": 653
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "185420363161",
+        "availableCoupons": false,
+        "itemOriginDate": "2020-07-29T15:15:26.000Z",
+        "itemCreationDate": "2022-05-10T18:49:39.000Z",
+        "topRatedBuyingExperience": true,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 2448,
+        "imageUrl": "https://i.ebayimg.com/images/g/p28AAOSwuxFY3GOL/s-l1600.jpg",
+        "shortDescription": "Best if planted in spring and fall seasons. This mix contains 15 different perennial wildflowers. Species will bloom in first and seconds seasons. The beautiful, long-lasting perennial blooms will continue year after year.",
+        "categoryPath": "Home & Garden|Yard, Garden & Outdoor Living|Plants, Seeds & Bulbs|Seeds & Bulbs",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 2942,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Deltona",
+        "itemLocationState": "Florida",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|297430711432|0",
+        "title": "2024 New RYZE Mushroom Coffee Organic Coffee 30 Servings in one Pack - No odor",
+        "leafCategoryIds": [
+          "185039"
+        ],
+        "categories": [
+          {
+            "categoryId": "185039",
+            "categoryName": "Other Coffee"
+          },
+          {
+            "categoryId": "11700",
+            "categoryName": "Home & Garden"
+          },
+          {
+            "categoryId": "14308",
+            "categoryName": "Food & Beverages"
+          },
+          {
+            "categoryId": "185035",
+            "categoryName": "Non-Alcoholic Drinks"
+          },
+          {
+            "categoryId": "185036",
+            "categoryName": "Coffee"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/BccAAOSwmN9nRTSb/s-l225.jpg"
+        },
+        "price": {
+          "value": "13.57",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297430711432%7C0",
+        "seller": {
+          "username": "grge645614",
+          "feedbackPercentage": "98.7",
+          "feedbackScore": 2524
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/BccAAOSwmN9nRTSb/s-l1200.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-27T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE",
+          "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/297430711432?hash=item4540407c88:g:BccAAOSwmN9nRTSb",
+        "itemLocation": {
+          "postalCode": "079**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/LrAAAOSwQVVnRTSd/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/-boAAOSwFMJnRTSf/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/26kAAOSwCJxnRTSi/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/9I0AAOSwbnBnRTSk/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/6DEAAOSweHFnRTSm/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/D2wAAOSwyRtnRTSq/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/cjUAAOSwcIdnRTSt/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/Wi8AAOSwCHpnRTSv/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/CY4AAOSwbn9nRTSy/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/yx0AAOSw8QlnRTS0/s-l1600.jpg",
+            "width": 1000,
+            "height": 1000
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "297430711432",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-06-23T02:02:43.000Z",
+        "itemCreationDate": "2025-06-23T02:02:43.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 4673,
+        "imageUrl": "https://i.ebayimg.com/images/g/BccAAOSwmN9nRTSb/s-l1600.jpg",
+        "shortDescription": "Experience the power of nature's super foods with this Mushroom Coffee. With its carefully curated blend of ingredients, it's a guilt-free indulgence that you can feel good about sipping.",
+        "categoryPath": "Home & Garden|Food & Beverages|Non-Alcoholic Drinks|Coffee|Other Coffee",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 1195,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Whippany",
+        "itemLocationState": "New Jersey",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|293630703557|592447709902",
         "title": "Super Strong N52 Rare Earth Round Neodymium Magnet Disc Thin Tiny Small Large",
         "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=293630703557",
         "leafCategoryIds": [
@@ -3992,11 +3075,11 @@
           "imageUrl": "https://i.ebayimg.com/images/g/I6MAAOSwolphVaKX/s-l225.jpg"
         },
         "price": {
-          "value": "245.00",
+          "value": "13.50",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C293630703557%7C592447709885",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C293630703557%7C592447709902",
         "seller": {
           "username": "justcreationus",
           "feedbackPercentage": "99.7",
@@ -4036,11 +3119,11 @@
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 20,
-        "imageUrl": "https://i.ebayimg.com/images/g/n2oAAOSw5FVe-Qih/s-l1600.jpg",
+        "quantitySold": 16190,
+        "imageUrl": "https://i.ebayimg.com/images/g/IJMAAOSw2ide-QSB/s-l1600.jpg",
         "additionalImages": [
           {
-            "imageUrl": "https://i.ebayimg.com/images/g/GlMAAOSwu1Je-Qie/s-l1600.jpg",
+            "imageUrl": "https://i.ebayimg.com/images/g/GL0AAOSw1fBe-QR-/s-l1600.jpg",
             "width": 1600,
             "height": 1600
           }
@@ -4062,8 +3145,9 @@
         "returnsAccepted": true,
         "returnPeriod": "30 CALENDAR_DAY",
         "returnShippingPayer": "BUYER",
-        "estimatedAvailableQuantity": 6,
-        "estimatedRemainingQuantity": 6,
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 3623,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -5158,7 +4242,7 @@
           "imageUrl": "https://i.ebayimg.com/images/g/NTIAAOSwd31lzVXW/s-l225.jpg"
         },
         "price": {
-          "value": "269.98",
+          "value": "7.98",
           "currency": "USD"
         },
         "itemGroupType": "SELLER_DEFINED_VARIATIONS",
@@ -5239,7 +4323,7 @@
         "topRatedBuyingExperience": false,
         "priorityListing": false,
         "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 0,
+        "quantitySold": 679,
         "imageUrl": "https://i.ebayimg.com/images/g/NTIAAOSwd31lzVXW/s-l1600.jpg",
         "shortDescription": "Used as a spice in various cuisines around the world, including Indian, Middle Eastern, and Southeast Asian dishes. SPICY ORGANIC is certified to the USDA Organic Regulations 7 CFR Part 205 and the Provisions of Chapter 18 of the Texas Agriculture Code.",
         "categoryPath": "Home & Garden|Food & Beverages|Pantry|Herbs, Spices & Seasonings|Herbs & Spices|Single",
@@ -6174,7 +5258,7 @@
         "returnShippingPayer": "BUYER",
         "availabilityThreshold": 10,
         "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 100,
+        "estimatedRemainingQuantity": 2586,
         "deliveryOptions": [
           "SHIP_TO_HOME"
         ],
@@ -6236,7 +5320,7 @@
         "buyingOptions": [
           "FIXED_PRICE"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/406163062582?hash=item5e91347f36:g:vJAAAeSwhmporWX0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYiairkLlg0sdfFoHUYZqD%2FaisCasfpLeSAwZ7W%2FWJBLwQkcvot1UO8gmgLop9mVYgT6cEQKnZK5d9u3V7AavXmzuq4x1Cxo8c4Kq3j6FyERHo6FbCbFI60DDBoQWO8x8hez5KrojB9nkngDLC54QcW2SNODjW7YIYilZsG4VFGK7eCLgcQW%2FkagZf2qLiY%2FeqGCFU84kyYZo88NPb8xwoDwucvwij3slenOmPX4JJUdOg1ssi4v3gEO9UR7r6qEf4mBBmQsOES%2Bdl0WoO4VrOo",
+        "itemWebUrl": "https://www.ebay.com/itm/406163062582?hash=item5e91347f36:g:vJAAAeSwhmporWX0&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UYiairkLlg0sdfFoHUYZqD%2FaisCasfpLeSAwZ7W%2FWJBLwQkcvot1UO8gmgLop9mVYgT6cEQKnZK5d9u3V7AavXmzuq4x1Cxo8c4Kq3j6FyERHo6FbCbFI60DDBoQWO8x8jwGlJBRJRR5ilzNvbo%2FBHKYkbKcYMtciMvEaS%2BDwvDOW%2BUIUOncZ0NzY87wGWrdB%2BkFffPIfcmDU2MxyrN6Y5nKIEihBuSzvZFup0zfUYlrEuSpzIzuUUNZbPUiBF6JWoe6tX1bT8q2dfVgDGLRGVo",
         "itemLocation": {
           "postalCode": "900**",
           "country": "US"
@@ -6348,7 +5432,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/266765028570?hash=item3e1c6f4cda:g:RpsAAOSwZSpnFpXN&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaeuvYlAf9IiVSH2zzw4x%2FmpNDhQbwWrIGNmGX%2FF30Ez1oHzLKzNinDt48mFbc%2B3EtD7NCZalYQeml0bOBYljzLYqIJMl0OaIZ6VJz2jVHtTKMNmne7Q1TL%2FtYg4HRddtMQ1SkG93xr9YAjEsOMqm6s9%2F9kgPL7lbWaF2McpKQ4W3RNWKTRW6rVMDwOFM0ffI9vIrum%2FLrfHFwD%2FFrab1rSuV6lx3OjymTd9jvTw97md0ALwjpj4RavxKizRCLF0QfsM1%2FzzNA65bdNFtJbz6jF",
+        "itemWebUrl": "https://www.ebay.com/itm/266765028570?hash=item3e1c6f4cda:g:RpsAAOSwZSpnFpXN&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaeuvYlAf9IiVSH2zzw4x%2FmpNDhQbwWrIGNmGX%2FF30Ez1oHzLKzNinDt48mFbc%2B3EtD7NCZalYQeml0bOBYljzLYqIJMl0OaIZ6VJz2jVHtTKMNmne7Q1TL%2FtYg4HRddtOEKHiAq3mD3SQqPf7mT71Ph%2BFM7Zh0sMMh98XLCvv1z9joxpbup07hQiuD%2BjQLnqdn7ZV2xhDR%2BblvWJPSYvgP7Q578T3YA8kgH%2B1c14fp29P%2BGG%2BDwDYwDYs9%2FKlMFhUGjusz5qCKpPDFIzbBeCoq",
         "itemLocation": {
           "postalCode": "810**",
           "country": "US"
@@ -7269,6 +6353,478 @@
         "itemLocationCountry": "US"
       },
       {
+        "itemId": "v1|317394890041|0",
+        "title": "Sealed 3x Elkay 51300C WaterSentry Plus Replacement Filter (Bottle Fillers) New",
+        "leafCategoryIds": [
+          "20684"
+        ],
+        "categories": [
+          {
+            "categoryId": "20684",
+            "categoryName": "Water Filters"
+          },
+          {
+            "categoryId": "11700",
+            "categoryName": "Home & Garden"
+          },
+          {
+            "categoryId": "20625",
+            "categoryName": "Kitchen, Dining & Bar"
+          },
+          {
+            "categoryId": "20667",
+            "categoryName": "Small Kitchen Appliances"
+          },
+          {
+            "categoryId": "54144",
+            "categoryName": "Water Purification & Soda Makers"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/JhkAAeSwtvdo6J0K/s-l225.jpg"
+        },
+        "price": {
+          "value": "104.99",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C317394890041%7C0",
+        "seller": {
+          "username": "trusty3067",
+          "feedbackPercentage": "100.0",
+          "feedbackScore": 1
+        },
+        "marketingPrice": {
+          "originalPrice": {
+            "value": "131.24",
+            "currency": "USD"
+          },
+          "discountPercentage": "20.0",
+          "discountAmount": {
+            "value": "26.25",
+            "currency": "USD"
+          },
+          "priceTreatment": "MARKDOWN"
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/JhkAAeSwtvdo6J0K/s-l1200.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-28T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE",
+          "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/317394890041?hash=item49e635ad39:g:JhkAAeSwtvdo6J0K&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UavwiH%2Bvv4CMtfiibF9k6%2B0%2Bv5KJcinM8QWXqo3wtCG2teBOgCTv7U0NPHjEdiwaxMeg4FAVT8K1gyd2JHbprbUcEFta7fvhd4CXhi8C1HTIOVD0Y9oXbjKkgpsOxgsVYqjBTkbaFJnRDnlFsmFVL0rqRFdD8yatS%2BUt1n3XuQ0RiI5N%2FC28sPNNgb77PXedFHDkvetwuSvatCTw%2F2fHaoZo5q2danMcfJHDGeo%2FhF%2FXL7ZMzzKRXLdkLDvBLV1O9YQ7t7Ss7QLBkD1mH53rJ%2F3",
+        "itemLocation": {
+          "postalCode": "113**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/YrUAAeSwsPdo6J0J/s-l1600.jpg",
+            "width": 1200,
+            "height": 1115
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/dawAAeSwVNZo6J0J/s-l1600.jpg",
+            "width": 1200,
+            "height": 1096
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/eDIAAeSwYFFo6J0J/s-l1600.jpg",
+            "width": 1200,
+            "height": 1069
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/V70AAeSwV8Jo6J0J/s-l1600.jpg",
+            "width": 1200,
+            "height": 1150
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "317394890041",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-10-10T05:43:39.000Z",
+        "itemCreationDate": "2025-10-10T05:43:39.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 29,
+        "imageUrl": "https://i.ebayimg.com/images/g/JhkAAeSwtvdo6J0K/s-l1600.jpg",
+        "categoryPath": "Home & Garden|Kitchen, Dining & Bar|Small Kitchen Appliances|Water Purification & Soda Makers|Water Filters",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "14 CALENDAR_DAY",
+        "returnShippingPayer": "BUYER",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 37,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "College Point",
+        "itemLocationState": "New York",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|397138324243|0",
+        "title": "NEW DEWALT DCB609 20V/60V MAX FLEXVOLT 9.0Ah Lithium-Ion Battery",
+        "leafCategoryIds": [
+          "260204"
+        ],
+        "categories": [
+          {
+            "categoryId": "260204",
+            "categoryName": "Power Tool Batteries"
+          },
+          {
+            "categoryId": "631",
+            "categoryName": "Tools & Workshop Equipment"
+          },
+          {
+            "categoryId": "11700",
+            "categoryName": "Home & Garden"
+          },
+          {
+            "categoryId": "260176",
+            "categoryName": "Power Tool & Air Tool Accessories"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/lzIAAeSww11o524J/s-l225.jpg"
+        },
+        "price": {
+          "value": "125.00",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C397138324243%7C0",
+        "seller": {
+          "username": "jeliaiven",
+          "feedbackPercentage": "99.0",
+          "feedbackScore": 348
+        },
+        "condition": "New",
+        "conditionId": "1000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/lzIAAeSww11o524J/s-l960.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-23T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-29T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE",
+          "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/397138324243?hash=item5c7749eb13:g:lzIAAeSww11o524J",
+        "itemLocation": {
+          "postalCode": "900**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/nYIAAeSwwt5o525V/s-l1600.jpg",
+            "width": 694,
+            "height": 687
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "397138324243",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-10-09T04:12:02.000Z",
+        "itemCreationDate": "2025-10-09T04:12:02.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 124,
+        "imageUrl": "https://i.ebayimg.com/images/g/lzIAAeSww11o524J/s-l1600.jpg",
+        "shortDescription": "NEW Battery.",
+        "categoryPath": "Home & Garden|Tools & Workshop Equipment|Power Tool & Air Tool Accessories|Power Tool Batteries",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "estimatedAvailableQuantity": 3,
+        "estimatedRemainingQuantity": 3,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Los Angeles",
+        "itemLocationState": "California",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|126448889446|428373423519",
+        "title": "KitchenAid Refurbished 5.5 Quart Bowl-Lift Stand Mixer, RKSM55",
+        "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=126448889446",
+        "leafCategoryIds": [
+          "133701"
+        ],
+        "categories": [
+          {
+            "categoryId": "133701",
+            "categoryName": "Countertop Mixers"
+          },
+          {
+            "categoryId": "11700",
+            "categoryName": "Home & Garden"
+          },
+          {
+            "categoryId": "20625",
+            "categoryName": "Kitchen, Dining & Bar"
+          },
+          {
+            "categoryId": "20667",
+            "categoryName": "Small Kitchen Appliances"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/fMIAAeSwu~RoL06N/s-l225.jpg"
+        },
+        "price": {
+          "value": "229.99",
+          "currency": "USD"
+        },
+        "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C126448889446%7C428373423519",
+        "seller": {
+          "username": "kitchenaid",
+          "feedbackPercentage": "98.0",
+          "feedbackScore": 53114
+        },
+        "marketingPrice": {
+          "originalPrice": {
+            "value": "449.99",
+            "currency": "USD"
+          },
+          "discountPercentage": "49.0",
+          "discountAmount": {
+            "value": "220.00",
+            "currency": "USD"
+          },
+          "priceTreatment": "LIST_PRICE"
+        },
+        "condition": "Certified - Refurbished",
+        "conditionId": "2000",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/fMIAAeSwu~RoL06N/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-25T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE"
+        ],
+        "epid": "18066986330",
+        "itemWebUrl": "https://www.ebay.com/itm/126448889446?hash=item1d70f0ee66:g:fMIAAeSwu~RoL06N",
+        "itemLocation": {
+          "postalCode": "453**",
+          "country": "US"
+        },
+        "adultOnly": false,
+        "legacyItemId": "126448889446",
+        "availableCoupons": false,
+        "itemOriginDate": "2024-04-24T19:09:58.000Z",
+        "itemCreationDate": "2024-04-24T19:09:58.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": false,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 1174,
+        "imageUrl": "https://d3d71ba2asa5oz.cloudfront.net/73001144/images/additional-p210943kp-060.tif-1280px.jpeg",
+        "additionalImages": [],
+        "shortDescription": "Up your culinary caliber with 2x the power in the bowl than our Tilt Head Stand Mixer.* Professional-style performance paired with a 3-point locking bowl provides you with stability for mixing heavy, dense ingredients. Designed with 11 distinct speeds, including 1/2 speed, you'll have power and control from high to low, and everything in between. So no matter if you're folding, kneading, mixing, shredding, or beating, the Refurbished KitchenAid® 5.5 Quart Bowl-Lift Stand Mixer is designed to take it all on. To amplify your creativity, explore 10+ stand mixer attachments, each with the power to open a world of untapped cooking techniques, experimentation and inspiration.** *Compared to KSM150 when measuring peak HP in the bowl; above speed 2.**Attachments sold separately.",
+        "categoryPath": "Home & Garden|Kitchen, Dining & Bar|Small Kitchen Appliances|Countertop Mixers",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Standard Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": true,
+        "returnPeriod": "30 CALENDAR_DAY",
+        "returnShippingPayer": "SELLER",
+        "estimatedAvailableQuantity": 0,
+        "estimatedRemainingQuantity": 1288,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Greenville",
+        "itemLocationState": "Ohio",
+        "itemLocationCountry": "US"
+      },
+      {
+        "itemId": "v1|197726864503|0",
+        "title": "Wilkins 1-NR3XLDUC 1\" NR3XL Pressure Reducing Valve with Double Union FNPT Coppe",
+        "leafCategoryIds": [
+          "259858"
+        ],
+        "categories": [
+          {
+            "categoryId": "259858",
+            "categoryName": "Valves"
+          },
+          {
+            "categoryId": "11700",
+            "categoryName": "Home & Garden"
+          },
+          {
+            "categoryId": "20601",
+            "categoryName": "Plumbing & Fixtures"
+          },
+          {
+            "categoryId": "159907",
+            "categoryName": "Home Improvement"
+          }
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/XP4AAeSweCpouiOw/s-l225.jpg"
+        },
+        "price": {
+          "value": "115.00",
+          "currency": "USD"
+        },
+        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C197726864503%7C0",
+        "seller": {
+          "username": "ismat0078",
+          "feedbackPercentage": "100.0",
+          "feedbackScore": 213
+        },
+        "condition": "Open box",
+        "conditionId": "1500",
+        "thumbnailImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/XP4AAeSweCpouiOw/s-l1600.jpg"
+          }
+        ],
+        "shippingOptions": [
+          {
+            "shippingCostType": "FIXED",
+            "shippingCost": {
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
+          }
+        ],
+        "buyingOptions": [
+          "FIXED_PRICE",
+          "BEST_OFFER"
+        ],
+        "itemWebUrl": "https://www.ebay.com/itm/197726864503?hash=item2e09708477:g:XP4AAeSweCpouiOw&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaI2O2RxWE6%2FpA%2B8dec3NzRmHqP%2BL2OlcWGWgtWt5PEl%2BDTicjAfj0%2F49h1u6Gv5v27NVbx5298ArCAHXI2gs36Fw39o5MDiu5HNL%2FOHWbJbI9SoU0PyMinPoV1E8KvBS0sPBILm5UYV4nF3v6XZLp8qpyJyjItu8nYoF2VpcfWP59virmdtEsN82zabN7rDcC3XNAXibHOd1qKRsTddJbyyQc4MdOOOqNwuHedntXlFhJDSPQva77hhVfK5x2EVKxdiLeGYbItZBzY9Nb4hH3C",
+        "itemLocation": {
+          "postalCode": "923**",
+          "country": "US"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/XhIAAeSwFD9ouiOw/s-l1600.jpg",
+            "width": 1600,
+            "height": 1513
+          },
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/XhQAAeSwFD9ouiOw/s-l1600.jpg",
+            "width": 639,
+            "height": 1600
+          }
+        ],
+        "adultOnly": false,
+        "legacyItemId": "197726864503",
+        "availableCoupons": false,
+        "itemOriginDate": "2025-09-26T03:51:32.000Z",
+        "itemCreationDate": "2025-09-26T03:51:32.000Z",
+        "topRatedBuyingExperience": false,
+        "priorityListing": true,
+        "listingMarketplaceId": "EBAY_US",
+        "quantitySold": 25,
+        "imageUrl": "https://i.ebayimg.com/images/g/XP4AAeSweCpouiOw/s-l1600.jpg",
+        "shortDescription": "Wilkins 1-NR3XLDUC 1\" NR3XL Pressure Reducing Valve with Double Union FNPT Coppe. Shipped with USPS Priority Mail.",
+        "categoryPath": "Home & Garden|Home Improvement|Plumbing & Fixtures|Valves",
+        "shippingCost": {
+          "value": "0.00",
+          "currency": "USD"
+        },
+        "shippingType": "Expedited Shipping",
+        "shipToLocations": [
+          {
+            "regionName": "United States",
+            "regionType": "COUNTRY",
+            "regionId": "US"
+          }
+        ],
+        "returnsAccepted": false,
+        "returnPeriod": "undefined undefined",
+        "availabilityThreshold": 10,
+        "availabilityThresholdType": "MORE_THAN",
+        "estimatedRemainingQuantity": 18,
+        "deliveryOptions": [
+          "SHIP_TO_HOME"
+        ],
+        "itemLocationCity": "Fontana",
+        "itemLocationState": "California",
+        "itemLocationCountry": "US"
+      },
+      {
         "itemId": "v1|266772271486|0",
         "title": "Royal Berkey Unit/Housing ONLY- Open Box (Filters NOT included PLEASE READ)",
         "leafCategoryIds": [
@@ -7331,7 +6887,7 @@
           "FIXED_PRICE",
           "BEST_OFFER"
         ],
-        "itemWebUrl": "https://www.ebay.com/itm/266772271486?hash=item3e1cddd17e:g:KoEAAOSwdwBnFsqW&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UamdETvKGvW4uBVh6a8JvbFF2Wd6HPCb6X4B3N5pHVneo8dZ5v%2BydcHYy1pZGzHifLaKvdS8Q9ojsSSQ0GwvPvjX5Fd%2B11PrD3L2A6BNlyn0vCZBx3zIFSTUcx0EDBiLWEKbHYjRlG%2Bv8vsvm5UWQBaAy%2BgXA1HjCGBjNekdBffZsxdisAUCRsX5OFEQ56%2Bdk%2BnO%2Ffq8lGkLsYuwuG37%2FBVWawHdZkH5qHwNY6cQ%2FYFKMTVTc3z9sfPeBYS7QbtcDjGkTT9uJP3Wjk39v%2FP3U6o",
+        "itemWebUrl": "https://www.ebay.com/itm/266772271486?hash=item3e1cddd17e:g:KoEAAOSwdwBnFsqW&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UamdETvKGvW4uBVh6a8JvbFF2Wd6HPCb6X4B3N5pHVneo8dZ5v%2BydcHYy1pZGzHifLaKvdS8Q9ojsSSQ0GwvPvjX5Fd%2B11PrD3L2A6BNlyn0vCZBx3zIFSTUcx0EDBiLWH%2FPnT3Cjo%2FbGWByWqz82JWDu7nTJrW6%2Fx8Oj3MgFaTLLHu0RxJzqrsS9N36VjWuMuhXylBXvjEWrxi0CuryqINHDbRnaMrHi2EOW5qz79UM7izNodF5snnyrVWOx%2Bm4uin%2FEmt8NiWo%2FoIcLCgusAC",
         "itemLocation": {
           "postalCode": "810**",
           "country": "US"
@@ -8251,547 +7807,20 @@
         "itemLocationCity": "Pueblo",
         "itemLocationState": "Colorado",
         "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|365870257976|0",
-        "title": "20x20' Metal Carport Heavy Duty Upgraded Reinforce Car Shelter Garage w/Sidewall",
-        "leafCategoryIds": [
-          "180994"
-        ],
-        "categories": [
-          {
-            "categoryId": "180994",
-            "categoryName": "Tents"
-          },
-          {
-            "categoryId": "11700",
-            "categoryName": "Home & Garden"
-          },
-          {
-            "categoryId": "159912",
-            "categoryName": "Yard, Garden & Outdoor Living"
-          },
-          {
-            "categoryId": "177017",
-            "categoryName": "Garden Structures & Shade"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/2NcAAeSwxFNozVAe/s-l225.jpg"
-        },
-        "price": {
-          "value": "495.86",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C365870257976%7C0",
-        "seller": {
-          "username": "ngjnfdhjgxgnjfnhf",
-          "feedbackPercentage": "33.3",
-          "feedbackScore": -1
-        },
-        "condition": "New",
-        "conditionId": "1000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/2NcAAeSwxFNozVAe/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            }
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/365870257976?hash=item552f911738:g:2NcAAeSwxFNozVAe",
-        "itemLocation": {
-          "postalCode": "******",
-          "country": "CN"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/qgAAAeSwMaxozVAf/s-l1600.jpg",
-            "width": 1500,
-            "height": 1500
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/1YQAAeSwqPxozVAg/s-l1600.jpg",
-            "width": 1500,
-            "height": 1500
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/NiMAAeSwlaFozVAg/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/VE4AAeSwoUlozVAh/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/x7EAAeSwtVhozVAi/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/0LEAAeSwkq9ozVAi/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/3f4AAeSwqAlozVAj/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/UOgAAeSwMPNozVAk/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/04UAAeSwWQVozVAl/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/mN4AAeSwhlNozVAl/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "365870257976",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-09-18T11:00:28.000Z",
-        "itemCreationDate": "2025-09-19T23:00:33.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 73,
-        "imageUrl": "https://i.ebayimg.com/images/g/2NcAAeSwxFNozVAe/s-l1600.jpg",
-        "shortDescription": "✅ 【Stable and Safe Outdoor Carport】 For safety and stability, our carport is equipped with a protective strip and heavy-duty anchor rods, suitable for installation on various surfaces such as mud, asphalt, or concrete.",
-        "categoryPath": "Home & Garden|Yard, Garden & Outdoor Living|Garden Structures & Shade|Tents",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Economy Shipping from outside",
-        "shipToLocations": [
-          {
-            "regionName": "Worldwide",
-            "regionType": "WORLDWIDE",
-            "regionId": "WORLDWIDE"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "SELLER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 15,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "广州市",
-        "itemLocationCountry": "CN"
-      },
-      {
-        "itemId": "v1|277412239964|0",
-        "title": "Dyson V11 Cordless Vacuum Cleaner | Iron/Blue | Refurbished",
-        "leafCategoryIds": [
-          "20614"
-        ],
-        "categories": [
-          {
-            "categoryId": "20614",
-            "categoryName": "Vacuum Cleaners"
-          },
-          {
-            "categoryId": "299",
-            "categoryName": "Household Supplies & Cleaning"
-          },
-          {
-            "categoryId": "11700",
-            "categoryName": "Home & Garden"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/n04AAeSw~FRo9QfP/s-l225.jpg"
-        },
-        "price": {
-          "value": "307.99",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C277412239964%7C0",
-        "seller": {
-          "username": "dysonofficial",
-          "feedbackPercentage": "96.3",
-          "feedbackScore": 116684
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "629.99",
-            "currency": "USD"
-          },
-          "discountPercentage": "51",
-          "discountAmount": {
-            "value": "322.00",
-            "currency": "USD"
-          },
-          "priceTreatment": "LIST_PRICE"
-        },
-        "condition": "Certified - Refurbished",
-        "conditionId": "2000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/n04AAeSw~FRo9QfP/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-25T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE"
-        ],
-        "epid": "27072176507",
-        "itemWebUrl": "https://www.ebay.com/itm/277412239964?hash=item40970eda5c:g:n04AAeSw~FRo9QfP",
-        "itemLocation": {
-          "postalCode": "450**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/6DYAAeSwdeNo9QfP/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/B5EAAeSwlnxo9QfP/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/KUsAAeSwQFNo9QfP/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/nu0AAeSw4V9o9QfP/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/v8AAAeSwfH1o9QfP/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/Fq8AAeSw419o9QfP/s-l1600.jpg",
-            "width": 1600,
-            "height": 1600
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "277412239964",
-        "availableCoupons": true,
-        "itemOriginDate": "2025-09-29T19:37:49.000Z",
-        "itemCreationDate": "2025-09-29T19:37:49.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": false,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 398,
-        "imageUrl": "https://i.ebayimg.com/images/g/n04AAeSw~FRo9QfP/s-l1600.jpg",
-        "shortDescription": "The Dyson V11 cordless vacuum is engineered with the power, versatility, and run time to deep clean homes with pets. An LCD screen displays the run time countdown to the second, as well as power mode and maintenance alerts. Dyson’s de-tangling Motorbar™ cleaner head deep cleans carpets and hard floors. With hair removal vanes that clear long hair and pet hair from the brush bar as you clean. The innovative Hair screw tool with a conical brush bar is perfect for cleaning upholstery and pet beds. The Dyson V11 has advanced, whole-machine filtration that captures fine dust and expels cleaner air.",
-        "categoryPath": "Home & Garden|Household Supplies & Cleaning|Vacuum Cleaners",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "30 CALENDAR_DAY",
-        "returnShippingPayer": "SELLER",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 499,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Bloomington",
-        "itemLocationState": "CA",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|197726864503|0",
-        "title": "Wilkins 1-NR3XLDUC 1\" NR3XL Pressure Reducing Valve with Double Union FNPT Coppe",
-        "leafCategoryIds": [
-          "259858"
-        ],
-        "categories": [
-          {
-            "categoryId": "259858",
-            "categoryName": "Valves"
-          },
-          {
-            "categoryId": "11700",
-            "categoryName": "Home & Garden"
-          },
-          {
-            "categoryId": "20601",
-            "categoryName": "Plumbing & Fixtures"
-          },
-          {
-            "categoryId": "159907",
-            "categoryName": "Home Improvement"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/XP4AAeSweCpouiOw/s-l225.jpg"
-        },
-        "price": {
-          "value": "115.00",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C197726864503%7C0",
-        "seller": {
-          "username": "ismat0078",
-          "feedbackPercentage": "100.0",
-          "feedbackScore": 213
-        },
-        "condition": "Open box",
-        "conditionId": "1500",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/XP4AAeSweCpouiOw/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE",
-          "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/197726864503?hash=item2e09708477:g:XP4AAeSweCpouiOw&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UaI2O2RxWE6%2FpA%2B8dec3NzRmHqP%2BL2OlcWGWgtWt5PEl%2BDTicjAfj0%2F49h1u6Gv5v27NVbx5298ArCAHXI2gs36Fw39o5MDiu5HNL%2FOHWbJbI9SoU0PyMinPoV1E8KvBS05l5btMaABQkOBOXNqfEK2KWmrmpD3VgVI%2FbW%2BNzFP7EpORlwPNANBKvdyUi5bhUDudqrKiIRe9UlOO%2FL9v83p3NnRvbiIvABMTKFQSSM2uoypshly17V01oqEAWx4IS2g%2BwZ8VNddQC0QfvsxUkT6",
-        "itemLocation": {
-          "postalCode": "923**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/XhIAAeSwFD9ouiOw/s-l1600.jpg",
-            "width": 1600,
-            "height": 1513
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/XhQAAeSwFD9ouiOw/s-l1600.jpg",
-            "width": 639,
-            "height": 1600
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "197726864503",
-        "availableCoupons": false,
-        "itemOriginDate": "2025-09-26T03:51:32.000Z",
-        "itemCreationDate": "2025-09-26T03:51:32.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 25,
-        "imageUrl": "https://i.ebayimg.com/images/g/XP4AAeSweCpouiOw/s-l1600.jpg",
-        "shortDescription": "Wilkins 1-NR3XLDUC 1\" NR3XL Pressure Reducing Valve with Double Union FNPT Coppe. Shipped with USPS Priority Mail.",
-        "categoryPath": "Home & Garden|Home Improvement|Plumbing & Fixtures|Valves",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Expedited Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "United States",
-            "regionType": "COUNTRY",
-            "regionId": "US"
-          }
-        ],
-        "returnsAccepted": false,
-        "returnPeriod": "undefined undefined",
-        "availabilityThreshold": 10,
-        "availabilityThresholdType": "MORE_THAN",
-        "estimatedRemainingQuantity": 18,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Fontana",
-        "itemLocationState": "California",
-        "itemLocationCountry": "US"
-      },
-      {
-        "itemId": "v1|195868981214|0",
-        "title": "~Roomba J7 J7+ J5 J8 Motherboard PCB Circuit Board irobot rumba J unregistered",
-        "leafCategoryIds": [
-          "42146"
-        ],
-        "categories": [
-          {
-            "categoryId": "42146",
-            "categoryName": "Vacuum Cleaner Parts"
-          },
-          {
-            "categoryId": "299",
-            "categoryName": "Household Supplies & Cleaning"
-          },
-          {
-            "categoryId": "11700",
-            "categoryName": "Home & Garden"
-          }
-        ],
-        "image": {
-          "imageUrl": "https://i.ebayimg.com/images/g/nJsAAOSwdfhhaJbT/s-l225.jpg"
-        },
-        "price": {
-          "value": "51.97",
-          "currency": "USD"
-        },
-        "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C195868981214%7C0",
-        "seller": {
-          "username": "casino187",
-          "feedbackPercentage": "99.9",
-          "feedbackScore": 51474
-        },
-        "marketingPrice": {
-          "originalPrice": {
-            "value": "79.95",
-            "currency": "USD"
-          },
-          "discountPercentage": "35",
-          "discountAmount": {
-            "value": "27.98",
-            "currency": "USD"
-          },
-          "priceTreatment": "MARKDOWN"
-        },
-        "condition": "Used",
-        "conditionId": "3000",
-        "thumbnailImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/nJsAAOSwdfhhaJbT/s-l1600.jpg"
-          }
-        ],
-        "shippingOptions": [
-          {
-            "shippingCostType": "FIXED",
-            "shippingCost": {
-              "value": "0.00",
-              "currency": "USD"
-            },
-            "minEstimatedDeliveryDate": "2025-10-22T07:00:00.000Z",
-            "maxEstimatedDeliveryDate": "2025-10-24T07:00:00.000Z"
-          }
-        ],
-        "buyingOptions": [
-          "FIXED_PRICE",
-          "BEST_OFFER"
-        ],
-        "itemWebUrl": "https://www.ebay.com/itm/195868981214?hash=item2d9ab377de:g:nJsAAOSwdfhhaJbT&amdata=enc%3AAQAKAAAA4PeG5RIuIyokJHJy903%2F5UZH%2FLZcL1kd0XacBl5w%2BsrLwn%2Fq1vOPB0dyIn%2BRzoo6%2FZIJGOT0G6p06ytDK3XLmphkBuTMguPiArwzFC1a1VQTElBJ%2B3kVCffbLNrEfNw3NSl8pI4qcfFlFt1oF9vIJqIfinAeucuMRSn1ivZiQEcF7RMQPGDKJJCV14GtcDPh%2BviRGdfG7dPIig85QOonU9qD%2BeYj4sHDT6EvOUo0JRiQN%2FWJIYUzHFlSBL4TuWj2%2F3gfVJDCYi%2BXHbpPYsK3sqkxIW6oeSzCEldM8o4PuEQk",
-        "itemLocation": {
-          "postalCode": "727**",
-          "country": "US"
-        },
-        "additionalImages": [
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/8CAAAOSwoHxhaJbO/s-l1600.jpg",
-            "width": 1563,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/NrwAAOSw8jJhaJbS/s-l1600.jpg",
-            "width": 1410,
-            "height": 1600
-          },
-          {
-            "imageUrl": "https://i.ebayimg.com/images/g/IAIAAOSwCf1haJbV/s-l1600.jpg",
-            "width": 1410,
-            "height": 1600
-          }
-        ],
-        "adultOnly": false,
-        "legacyItemId": "195868981214",
-        "availableCoupons": false,
-        "itemOriginDate": "2023-07-09T21:14:47.000Z",
-        "itemCreationDate": "2023-07-09T21:14:47.000Z",
-        "topRatedBuyingExperience": false,
-        "priorityListing": true,
-        "listingMarketplaceId": "EBAY_US",
-        "quantitySold": 189,
-        "imageUrl": "https://i.ebayimg.com/images/g/nJsAAOSwdfhhaJbT/s-l1600.jpg",
-        "shortDescription": "Authentic Roomba J5/J6/J7/J7+/J8 Motherboard PCB. Works with J5/J6/J7/J7+. These are 100% Authentic and made by irobot.",
-        "categoryPath": "Home & Garden|Household Supplies & Cleaning|Vacuum Cleaner Parts",
-        "shippingCost": {
-          "value": "0.00",
-          "currency": "USD"
-        },
-        "shippingType": "Standard Shipping",
-        "shipToLocations": [
-          {
-            "regionName": "Worldwide",
-            "regionType": "WORLDWIDE",
-            "regionId": "WORLDWIDE"
-          }
-        ],
-        "returnsAccepted": true,
-        "returnPeriod": "14 CALENDAR_DAY",
-        "returnShippingPayer": "BUYER",
-        "estimatedAvailableQuantity": 8,
-        "estimatedRemainingQuantity": 8,
-        "deliveryOptions": [
-          "SHIP_TO_HOME"
-        ],
-        "itemLocationCity": "Fayetteville",
-        "itemLocationState": "Arkansas",
-        "itemLocationCountry": "US"
       }
     ],
-    "total": 44126304,
+    "total": 45125518,
     "limit": 20,
     "offset": 0,
     "categoryId": "11700",
     "source": "eBay Browse API (Official)",
     "apiEndpoint": "https://api.ebay.com/buy/browse/v1",
-    "timestamp": "2025-10-19T16:18:00.765Z",
+    "timestamp": "2025-10-19T17:48:42.067Z",
     "metadata": {
       "ack": "Success",
-      "timestamp": "2025-10-19T16:18:00.768Z",
-      "totalPages": 2206316
+      "timestamp": "2025-10-19T17:48:42.067Z",
+      "totalPages": 2256276
     }
   },
-  "expiresAt": "2025-10-20T16:18:02.128Z"
+  "expiresAt": "2025-10-20T17:48:44.263Z"
 }
