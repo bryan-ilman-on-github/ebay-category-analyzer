@@ -10,7 +10,8 @@
       "Bash(npm install)",
       "Bash(node test-api.js)",
       "Bash(node test-api-debug.js)",
-      "Bash(node test-browse-api.js)"
+      "Bash(node test-browse-api.js)",
+      "Bash(timeout:*)"
     ],
     "deny": [],
     "ask": []

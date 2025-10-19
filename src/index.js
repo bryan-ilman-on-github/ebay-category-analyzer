@@ -98,14 +98,14 @@ class TrendSpotter {
   }
 
   /**
-   * Analyze products and calculate trends
+   * Extract metrics from products (no sorting, API already sorted by price)
    */
   analyzeProducts(items) {
     const products = [];
 
     for (const item of items) {
       const metrics = this.analyzer.extractMetrics(item);
-      const trend = this.analyzer.analyzeTrend(item, items);
+      const trend = { symbol: '', label: '' }; // No trend analysis
 
       products.push({
         item,
@@ -114,13 +114,7 @@ class TrendSpotter {
       });
     }
 
-    // Sort by trend score (hottest first)
-    products.sort((a, b) => {
-      const scoreA = this.analyzer.calculateTrendScore(a.item, items);
-      const scoreB = this.analyzer.calculateTrendScore(b.item, items);
-      return scoreB - scoreA;
-    });
-
+    // No sorting - keep API order (sorted by price low to high)
     return products;
   }
 
@@ -138,8 +132,8 @@ class TrendSpotter {
       console.log(this.formatter.formatMarketComparison(comparison));
     }
 
-    // Top 20 trending products
-    console.log(chalk.bold('TOP 20 TRENDING PRODUCTS:\n'));
+    // Top 20 products (sorted by price)
+    console.log(chalk.bold('TOP 20 PRODUCTS (LOWEST PRICE FIRST):\n'));
 
     products.slice(0, 20).forEach((product, index) => {
       console.log(
@@ -161,10 +155,10 @@ class TrendSpotter {
   printHeader() {
     console.clear();
     console.log(chalk.bold.cyan(`
-📊 TRENDSPOTTER - eBay Analyzer
+📊 eBay Category Browser
 
-Analyze trending products in eBay categories
-Real-time data from eBay Finding API
+Browse products in eBay categories
+Real-time data from eBay Browse API
     `));
   }
 

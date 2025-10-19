@@ -22,16 +22,14 @@ export class ProductFormatter {
     const price = `${metrics.currency} ${metrics.price.toFixed(2)}`;
 
     // Format seller info for trust
-    const sellerBadge = metrics.topRatedSeller ? chalk.yellow('⭐ Business') : '';
+    const sellerBadge = metrics.topRatedSeller ? chalk.yellow('⭐') : '';
 
     return `
-${chalk.bold(`${index}. ${trend.symbol} ${title}`)}
+${chalk.bold(`${index}. ${title}`)}
    ${chalk.gray('├─')} Price: ${chalk.green(price)}
-   ${chalk.gray('├─')} Watchers: ${chalk.cyan(metrics.watchers)} | Bids: ${chalk.cyan(metrics.bidCount || 0)} | Trend: ${chalk.bold(trend.label)}
-   ${chalk.gray('├─')} Seller: ${metrics.sellerFeedback} feedback (${metrics.sellerRating.toFixed(1)}%) ${sellerBadge}
    ${chalk.gray('├─')} Condition: ${metrics.condition}
-   ${chalk.gray('└─')} Link: ${chalk.blue(itemUrl)}
-   ${chalk.gray('    eBay ID:')} ${chalk.dim(itemId)}`;
+   ${chalk.gray('├─')} Seller: ${metrics.sellerFeedback} feedback (${metrics.sellerRating.toFixed(1)}%) ${sellerBadge}
+   ${chalk.gray('└─')} ${chalk.blue(itemUrl)}`;
   }
 
   /**

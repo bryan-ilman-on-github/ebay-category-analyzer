@@ -17,53 +17,17 @@ export class TrendAnalyzer {
   }
 
   /**
-   * Analyze a product and determine its trend
-   * Uses multiple factors: watchers, listing count, seller quality
+   * No trend analysis - just return empty object
    */
   analyzeTrend(item, allItems = []) {
-    const score = this.calculateTrendScore(item, allItems);
-
-    if (score >= this.trends.HOT.threshold) return this.trends.HOT;
-    if (score >= this.trends.RISING.threshold) return this.trends.RISING;
-    if (score >= this.trends.STABLE.threshold) return this.trends.STABLE;
-    return this.trends.DECLINING;
+    return { symbol: '', label: '' };
   }
 
   /**
-   * Calculate trend score (0-1) based on multiple signals
-   * Updated for Browse API format
+   * No trend scoring - removed
    */
   calculateTrendScore(item, allItems) {
-    let score = 0;
-    const weights = {
-      watcherCount: 0.3,
-      bidCount: 0.2,
-      sellerQuality: 0.2,
-      priceCompetitiveness: 0.3,
-    };
-
-    // 1. Watchers score (normalized) - Browse API format
-    const watcherCount = parseInt(item.watchCount || 0);
-    const maxWatchers = Math.max(...allItems.map(i => parseInt(i.watchCount || 0)), 1);
-    score += (watcherCount / maxWatchers) * weights.watcherCount;
-
-    // 2. Bid count (engagement indicator)
-    const bidCount = parseInt(item.bidCount || 0);
-    const maxBids = Math.max(...allItems.map(i => parseInt(i.bidCount || 0)), 1);
-    score += (bidCount / maxBids) * weights.bidCount;
-
-    // 3. Seller quality (feedback percentage)
-    const sellerFeedback = parseFloat(item.seller?.feedbackPercentage || 0);
-    const sellerScore = sellerFeedback > 95 ? 1 : sellerFeedback / 100;
-    score += sellerScore * weights.sellerQuality;
-
-    // 4. Price competitiveness (lower than average = more competitive)
-    const price = parseFloat(item.price?.value || 0);
-    const avgPrice = allItems.reduce((sum, i) => sum + parseFloat(i.price?.value || 0), 0) / allItems.length;
-    const priceScore = avgPrice > 0 ? Math.min(1, avgPrice / price - 0.5) : 0.5;
-    score += Math.max(0, priceScore) * weights.priceCompetitiveness;
-
-    return Math.min(1, Math.max(0, score));
+    return 0;
   }
 
   /**
