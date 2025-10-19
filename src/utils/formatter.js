@@ -14,22 +14,22 @@ export class ProductFormatter {
    * Format a single product with all credibility markers
    */
   formatProduct(item, index, trend, metrics) {
-    const title = this.truncateTitle(item.title?.[0] || 'Unknown Product');
-    const itemUrl = item.viewItemURL?.[0] || '#';
-    const itemId = item.itemId?.[0] || 'N/A';
+    const title = this.truncateTitle(item.title || 'Unknown Product');
+    const itemUrl = metrics.itemUrl || '#';
+    const itemId = metrics.itemId || 'N/A';
 
     // Format price with currency
     const price = `${metrics.currency} ${metrics.price.toFixed(2)}`;
 
     // Format seller info for trust
-    const sellerBadge = metrics.topRatedSeller ? chalk.yellow('⭐ Top Rated') : '';
+    const sellerBadge = metrics.topRatedSeller ? chalk.yellow('⭐ Business') : '';
 
     return `
 ${chalk.bold(`${index}. ${trend.symbol} ${title}`)}
    ${chalk.gray('├─')} Price: ${chalk.green(price)}
-   ${chalk.gray('├─')} Watchers: ${chalk.cyan(metrics.watchers)} | Trend: ${chalk.bold(trend.label)}
-   ${chalk.gray('├─')} Seller: ${metrics.sellerFeedback} feedback (${metrics.sellerRating}%) ${sellerBadge}
-   ${chalk.gray('├─')} Listed: ${this.formatDate(metrics.startTime)}
+   ${chalk.gray('├─')} Watchers: ${chalk.cyan(metrics.watchers)} | Bids: ${chalk.cyan(metrics.bidCount || 0)} | Trend: ${chalk.bold(trend.label)}
+   ${chalk.gray('├─')} Seller: ${metrics.sellerFeedback} feedback (${metrics.sellerRating.toFixed(1)}%) ${sellerBadge}
+   ${chalk.gray('├─')} Condition: ${metrics.condition}
    ${chalk.gray('└─')} Link: ${chalk.blue(itemUrl)}
    ${chalk.gray('    eBay ID:')} ${chalk.dim(itemId)}`;
   }
@@ -49,9 +49,8 @@ ${chalk.bold('Market Overview:')}
   ${chalk.gray('•')} Avg Watchers/Item: ${chalk.cyan(stats.avgWatchers.toFixed(1))}
 
 ${chalk.bold('Data Source:')}
-  ${chalk.gray('•')} API: ${chalk.blue('eBay Finding API (Official)')}
+  ${chalk.gray('•')} API: ${chalk.blue('eBay Browse API (Official)')}
   ${chalk.gray('•')} Status: ${chalk.green(metadata.ack)}
-  ${chalk.gray('•')} API Version: ${chalk.gray(metadata.version)}
   ${chalk.gray('•')} Fetched: ${chalk.gray(this.formatTimestamp(metadata.timestamp))}
   ${chalk.gray('•')} Showing top 20 of ${metadata.totalPages} pages available
 `;
@@ -82,7 +81,7 @@ ${chalk.bold('Market Health (vs Recently Sold Items):')}
    */
   formatFooter() {
     return `
-${chalk.dim('Data Source: eBay Finding API')}
+${chalk.dim('Data Source: eBay Browse API')}
 ${chalk.dim('All prices and statistics are real-time from eBay.com')}
 ${chalk.dim('Click product links to verify data authenticity')}
 `;

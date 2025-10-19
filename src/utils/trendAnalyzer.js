@@ -31,40 +31,35 @@ export class TrendAnalyzer {
 
   /**
    * Calculate trend score (0-1) based on multiple signals
+   * Updated for Browse API format
    */
   calculateTrendScore(item, allItems) {
     let score = 0;
     const weights = {
-      watchers: 0.4,
+      watcherCount: 0.3,
+      bidCount: 0.2,
       sellerQuality: 0.2,
-      listingVelocity: 0.2,
-      priceCompetitiveness: 0.2,
+      priceCompetitiveness: 0.3,
     };
 
-    // 1. Watchers score (normalized)
-    const watcherCount = parseInt(item.listingInfo?.[0]?.watchCount?.[0] || 0);
-    const maxWatchers = Math.max(...allItems.map(i =>
-      parseInt(i.listingInfo?.[0]?.watchCount?.[0] || 0)
-    ), 1);
-    score += (watcherCount / maxWatchers) * weights.watchers;
+    // 1. Watchers score (normalized) - Browse API format
+    const watcherCount = parseInt(item.watchCount || 0);
+    const maxWatchers = Math.max(...allItems.map(i => parseInt(i.watchCount || 0)), 1);
+    score += (watcherCount / maxWatchers) * weights.watcherCount;
 
-    // 2. Seller quality (positive feedback ratio)
-    const feedbackScore = parseInt(item.sellerInfo?.[0]?.feedbackScore?.[0] || 0);
-    const positiveFeedback = parseFloat(item.sellerInfo?.[0]?.positiveFeedbackPercent?.[0] || 0);
-    const sellerScore = feedbackScore > 100 && positiveFeedback > 95 ? 1 : 0.5;
+    // 2. Bid count (engagement indicator)
+    const bidCount = parseInt(item.bidCount || 0);
+    const maxBids = Math.max(...allItems.map(i => parseInt(i.bidCount || 0)), 1);
+    score += (bidCount / maxBids) * weights.bidCount;
+
+    // 3. Seller quality (feedback percentage)
+    const sellerFeedback = parseFloat(item.seller?.feedbackPercentage || 0);
+    const sellerScore = sellerFeedback > 95 ? 1 : sellerFeedback / 100;
     score += sellerScore * weights.sellerQuality;
 
-    // 3. Listing velocity (newer listings = trending)
-    const listingDate = new Date(item.listingInfo?.[0]?.startTime?.[0]);
-    const daysSinceListing = (Date.now() - listingDate) / (1000 * 60 * 60 * 24);
-    const velocityScore = Math.max(0, 1 - (daysSinceListing / 30)); // Newer = higher score
-    score += velocityScore * weights.listingVelocity;
-
     // 4. Price competitiveness (lower than average = more competitive)
-    const price = parseFloat(item.sellingStatus?.[0]?.currentPrice?.[0].__value__ || 0);
-    const avgPrice = allItems.reduce((sum, i) =>
-      sum + parseFloat(i.sellingStatus?.[0]?.currentPrice?.[0].__value__ || 0), 0
-    ) / allItems.length;
+    const price = parseFloat(item.price?.value || 0);
+    const avgPrice = allItems.reduce((sum, i) => sum + parseFloat(i.price?.value || 0), 0) / allItems.length;
     const priceScore = avgPrice > 0 ? Math.min(1, avgPrice / price - 0.5) : 0.5;
     score += Math.max(0, priceScore) * weights.priceCompetitiveness;
 
@@ -72,23 +67,21 @@ export class TrendAnalyzer {
   }
 
   /**
-   * Extract key metrics from eBay item data
+   * Extract key metrics from eBay item data (Browse API format)
    */
   extractMetrics(item) {
-    const sellingStatus = item.sellingStatus?.[0] || {};
-    const listingInfo = item.listingInfo?.[0] || {};
-    const sellerInfo = item.sellerInfo?.[0] || {};
-
     return {
-      price: parseFloat(sellingStatus.currentPrice?.[0].__value__ || 0),
-      currency: sellingStatus.currentPrice?.[0]['@currencyId'] || 'USD',
-      watchers: parseInt(listingInfo.watchCount?.[0] || 0),
-      listingType: listingInfo.listingType?.[0] || 'Unknown',
-      startTime: listingInfo.startTime?.[0],
-      endTime: listingInfo.endTime?.[0],
-      sellerFeedback: parseInt(sellerInfo.feedbackScore?.[0] || 0),
-      sellerRating: parseFloat(sellerInfo.positiveFeedbackPercent?.[0] || 0),
-      topRatedSeller: sellerInfo.topRatedSeller?.[0] === 'true',
+      price: parseFloat(item.price?.value || 0),
+      currency: item.price?.currency || 'USD',
+      watchers: parseInt(item.watchCount || 0),
+      bidCount: parseInt(item.bidCount || 0),
+      listingType: item.buyingOptions?.[0] || 'Unknown',
+      condition: item.condition || 'Unknown',
+      sellerFeedback: parseInt(item.seller?.feedbackScore || 0),
+      sellerRating: parseFloat(item.seller?.feedbackPercentage || 0),
+      topRatedSeller: item.seller?.sellerAccountType === 'BUSINESS',
+      itemUrl: item.itemWebUrl || item.itemAffiliateWebUrl || '#',
+      itemId: item.itemId || 'N/A',
     };
   }
 
@@ -108,11 +101,11 @@ export class TrendAnalyzer {
     }
 
     const prices = items.map(item =>
-      parseFloat(item.sellingStatus?.[0]?.currentPrice?.[0].__value__ || 0)
+      parseFloat(item.price?.value || 0)
     ).filter(p => p > 0);
 
     const watchers = items.map(item =>
-      parseInt(item.listingInfo?.[0]?.watchCount?.[0] || 0)
+      parseInt(item.watchCount || 0)
     );
 
     return {

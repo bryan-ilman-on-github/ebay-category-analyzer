@@ -3,126 +3,122 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const EBAY_FINDING_API_URL = 'https://svcs.ebay.com/services/search/FindingService/v1';
+const EBAY_BROWSE_API_URL = 'https://api.ebay.com/buy/browse/v1';
+const EBAY_OAUTH_URL = 'https://api.ebay.com/identity/v1/oauth2/token';
 
 class EbayClient {
   constructor() {
     this.appId = process.env.EBAY_APP_ID;
-    this.siteId = process.env.EBAY_SITE_ID || 'EBAY-US';
-    this.version = process.env.EBAY_API_VERSION || '1.13.0';
+    this.certId = process.env.EBAY_CERT_ID;
+    this.marketplace = process.env.EBAY_MARKETPLACE || 'EBAY_US';
+    this.accessToken = null;
+    this.tokenExpiry = null;
 
-    if (!this.appId) {
-      throw new Error('EBAY_APP_ID is required. Please set it in .env file');
+    if (!this.appId || !this.certId) {
+      throw new Error('EBAY_APP_ID and EBAY_CERT_ID are required. Please set them in .env file');
+    }
+  }
+
+  /**
+   * Get OAuth access token (client credentials flow)
+   */
+  async getAccessToken() {
+    // Return cached token if still valid
+    if (this.accessToken && this.tokenExpiry && Date.now() < this.tokenExpiry) {
+      return this.accessToken;
+    }
+
+    try {
+      const credentials = Buffer.from(`${this.appId}:${this.certId}`).toString('base64');
+
+      const response = await axios.post(
+        EBAY_OAUTH_URL,
+        'grant_type=client_credentials&scope=https://api.ebay.com/oauth/api_scope',
+        {
+          headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'Authorization': `Basic ${credentials}`,
+          },
+        }
+      );
+
+      this.accessToken = response.data.access_token;
+      // Set expiry to 5 minutes before actual expiry for safety
+      this.tokenExpiry = Date.now() + (response.data.expires_in - 300) * 1000;
+
+      return this.accessToken;
+
+    } catch (error) {
+      console.error('OAuth error:', error.response?.data || error.message);
+      throw new Error('Failed to get OAuth token. Check your EBAY_APP_ID and EBAY_CERT_ID.');
     }
   }
 
   /**
    * Fetches trending products from a specific category
-   * Uses eBay's official Finding API - all data is real and verifiable
+   * Uses eBay's Browse API - all data is real and verifiable
    * @param {string} categoryId - eBay category ID
-   * @param {number} limit - Number of items to fetch (max 100)
+   * @param {number} limit - Number of items to fetch (max 200)
    * @returns {Promise<Object>} API response with metadata for credibility
    */
   async findItemsByCategory(categoryId, limit = 20) {
     try {
+      const token = await this.getAccessToken();
+
       const params = {
-        'OPERATION-NAME': 'findItemsAdvanced',
-        'SERVICE-VERSION': this.version,
-        'SECURITY-APPNAME': this.appId,
-        'RESPONSE-DATA-FORMAT': 'JSON',
-        'REST-PAYLOAD': true,
-        'categoryId': categoryId,
-        'sortOrder': 'BestMatch',
-        'paginationInput.entriesPerPage': limit,
-        // Focus on active listings with watchers (trending indicator)
-        'itemFilter(0).name': 'ListingType',
-        'itemFilter(0).value': 'FixedPrice',
-        'itemFilter(1).name': 'MinPrice',
-        'itemFilter(1).value': '1',
-        'itemFilter(2).name': 'HideDuplicateItems',
-        'itemFilter(2).value': 'true',
-        // Additional filters for quality data
-        'outputSelector(0)': 'SellerInfo',
-        'outputSelector(1)': 'StoreInfo',
+        category_ids: categoryId,
+        limit: Math.min(limit, 200),
+        sort: 'newlyListed',
+        filter: 'price:[1..],buyingOptions:{FIXED_PRICE}',
       };
 
-      const response = await axios.get(EBAY_FINDING_API_URL, { params });
+      const response = await axios.get(`${EBAY_BROWSE_API_URL}/item_summary/search`, {
+        params,
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'X-EBAY-C-MARKETPLACE-ID': this.marketplace,
+          'X-EBAY-C-ENDUSERCTX': 'contextualLocation=country=US',
+        },
+      });
 
-      // Add metadata for credibility and transparency
-      const result = response.data.findItemsAdvancedResponse?.[0];
+      const data = response.data;
 
-      if (!result || result.ack?.[0] !== 'Success') {
-        throw new Error('eBay API request failed: ' + JSON.stringify(result?.errorMessage));
+      if (!data.itemSummaries || data.itemSummaries.length === 0) {
+        throw new Error('No items found in this category');
       }
 
       return {
         success: true,
-        items: result.searchResult?.[0]?.item || [],
-        timestamp: result.timestamp?.[0],
-        version: result.version?.[0],
-        totalEntries: parseInt(result.paginationOutput?.[0]?.totalEntries?.[0] || 0),
+        items: data.itemSummaries,
+        total: data.total || 0,
+        limit: data.limit || limit,
+        offset: data.offset || 0,
         categoryId,
-        source: 'eBay Finding API (Official)',
-        apiEndpoint: EBAY_FINDING_API_URL,
-        // Proof of authenticity
+        source: 'eBay Browse API (Official)',
+        apiEndpoint: EBAY_BROWSE_API_URL,
+        timestamp: new Date().toISOString(),
         metadata: {
-          ack: result.ack?.[0],
-          version: result.version?.[0],
-          timestamp: result.timestamp?.[0],
-          totalPages: result.paginationOutput?.[0]?.totalPages?.[0],
+          ack: 'Success',
+          timestamp: new Date().toISOString(),
+          totalPages: Math.ceil((data.total || 0) / limit),
         }
       };
 
     } catch (error) {
-      // Check for rate limit error
-      if (error.response?.data?.errorMessage?.[0]?.error?.[0]?.errorId?.[0] === '10001') {
-        throw new Error('eBay API rate limit exceeded. Please wait 1 hour and try again.');
-      }
-
-      console.error('Error fetching eBay data:', error.message);
+      console.error('Error fetching eBay data:', error.response?.data || error.message);
       throw new Error(`Failed to fetch data from eBay: ${error.message}`);
     }
   }
 
   /**
-   * Get completed listings to analyze price trends
-   * This helps calculate average sold prices (market reality)
+   * Get completed/sold listings to analyze price trends
+   * Browse API doesn't support sold items search, so we return empty
    */
   async findCompletedItems(categoryId, limit = 20) {
-    try {
-      const params = {
-        'OPERATION-NAME': 'findCompletedItems',
-        'SERVICE-VERSION': this.version,
-        'SECURITY-APPNAME': this.appId,
-        'RESPONSE-DATA-FORMAT': 'JSON',
-        'REST-PAYLOAD': true,
-        'categoryId': categoryId,
-        'sortOrder': 'EndTimeSoonest',
-        'paginationInput.entriesPerPage': limit,
-        'itemFilter(0).name': 'SoldItemsOnly',
-        'itemFilter(0).value': 'true',
-      };
-
-      const response = await axios.get(EBAY_FINDING_API_URL, { params });
-      const result = response.data.findCompletedItemsResponse?.[0];
-
-      if (!result || result.ack?.[0] !== 'Success') {
-        // Completed items might not be available for all categories
-        return { success: false, items: [], reason: 'No completed items data' };
-      }
-
-      return {
-        success: true,
-        items: result.searchResult?.[0]?.item || [],
-        timestamp: result.timestamp?.[0],
-        source: 'eBay Finding API - Completed Items (Official)',
-      };
-
-    } catch (error) {
-      // Non-critical error - just log and continue
-      console.warn('Could not fetch completed items:', error.message);
-      return { success: false, items: [], reason: error.message };
-    }
+    // Browse API doesn't have a direct equivalent for sold items
+    // This would require the Trading API or third-party data
+    console.warn('Sold items data not available in Browse API');
+    return { success: false, items: [], reason: 'Browse API does not support sold items search' };
   }
 }
 
