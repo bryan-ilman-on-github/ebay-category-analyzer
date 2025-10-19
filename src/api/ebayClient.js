@@ -74,6 +74,11 @@ class EbayClient {
       };
 
     } catch (error) {
+      // Check for rate limit error
+      if (error.response?.data?.errorMessage?.[0]?.error?.[0]?.errorId?.[0] === '10001') {
+        throw new Error('eBay API rate limit exceeded. Please wait 1 hour and try again.');
+      }
+
       console.error('Error fetching eBay data:', error.message);
       throw new Error(`Failed to fetch data from eBay: ${error.message}`);
     }

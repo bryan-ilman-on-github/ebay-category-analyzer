@@ -5,7 +5,11 @@
       "Bash(mkdir:*)",
       "Bash(git remote add:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "WebFetch(domain:developer.ebay.com)",
+      "Bash(npm install)",
+      "Bash(node test-api.js)",
+      "Bash(node test-api-debug.js)"
     ],
     "deny": [],
     "ask": []
