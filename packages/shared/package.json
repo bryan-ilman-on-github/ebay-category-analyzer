@@ -1,0 +1,10 @@
+{
+  "name": "@ebay-analyzer/shared",
+  "version": "1.0.0",
+  "description": "Shared types and constants",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    "./categories": "./categories.js"
+  }
+}

@@ -12,6 +12,12 @@ data/*.json
 data/*.cache
 .cache/
 
+# Build outputs
+dist/
+build/
+.vercel/
+.render/
+
 # Logs
 *.log
 logs/

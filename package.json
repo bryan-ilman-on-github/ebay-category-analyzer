@@ -2,19 +2,16 @@
   "name": "ebay-category-analyzer",
   "version": "1.0.0",
   "description": "TrendSpotter - Analyze trending products in eBay categories",
-  "main": "src/index.js",
-  "type": "module",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "node --watch src/index.js"
+    "dev:api": "npm run dev --workspace=packages/api",
+    "dev:web": "npm run dev --workspace=packages/web",
+    "build": "npm run build --workspaces --if-present"
   },
-  "keywords": ["ebay", "trends", "analytics", "cli"],
+  "keywords": ["ebay", "trends", "analytics"],
   "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^1.6.2",
-    "chalk": "^5.3.0",
-    "dotenv": "^16.3.1",
-    "inquirer": "^9.2.12"
-  }
+  "license": "MIT"
 }

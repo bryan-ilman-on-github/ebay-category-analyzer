@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: trendspotter-api
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: EBAY_APP_ID
+        sync: false
+      - key: EBAY_CERT_ID
+        sync: false
+      - key: EBAY_MARKETPLACE
+        value: EBAY_US
+      - key: CACHE_DURATION
+        value: 24
