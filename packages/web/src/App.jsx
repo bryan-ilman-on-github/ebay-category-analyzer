@@ -224,7 +224,10 @@ function App() {
         <main className="main-content">
           {!selectedCategory && (
             <div className="empty-state">
-              <p>Select a category to view trending products</p>
+              <p>
+                Pick a category to see trending products, or hang tight if
+                nothing’s showing yet!
+              </p>
             </div>
           )}
 
