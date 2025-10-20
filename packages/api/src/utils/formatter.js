@@ -1,4 +1,4 @@
-import chalk from 'chalk';
+import chalk from "chalk";
 
 /**
  * Formats product data for CLI display with source attribution
@@ -14,37 +14,45 @@ export class ProductFormatter {
    * Format a single product with all credibility markers
    */
   formatProduct(item, index, trend, metrics) {
-    const title = this.truncateTitle(item.title || 'Unknown Product');
-    const itemUrl = metrics.itemUrl || '#';
+    const title = this.truncateTitle(item.title || "Unknown Product");
+    const itemUrl = metrics.itemUrl || "#";
 
     // Format price with discount if available
     let priceDisplay = chalk.green(`$${metrics.price.toFixed(2)}`);
     if (metrics.originalPrice) {
-      priceDisplay = chalk.green(`$${metrics.price.toFixed(2)}`) +
-                     chalk.gray(` (was $${metrics.originalPrice.toFixed(2)})`) +
-                     chalk.red(` -${metrics.discountPercent}%`);
+      priceDisplay =
+        chalk.green(`$${metrics.price.toFixed(2)}`) +
+        chalk.gray(` (was $${metrics.originalPrice.toFixed(2)})`) +
+        chalk.red(` -${metrics.discountPercent}%`);
     }
 
     // Badges for hot indicators
     const badges = [];
-    if (metrics.topRated) badges.push(chalk.yellow('⭐ Top Rated'));
-    if (metrics.promoted) badges.push(chalk.magenta('🔥 Promoted'));
-    if (metrics.freeShipping) badges.push(chalk.cyan('📦 Free Ship'));
+    if (metrics.topRated) badges.push(chalk.yellow("⭐ Top Rated"));
+    if (metrics.promoted) badges.push(chalk.magenta("🔥 Promoted"));
+    if (metrics.freeShipping) badges.push(chalk.cyan("📦 Free Ship"));
 
-    const badgeStr = badges.length > 0 ? ' ' + badges.join(' ') : '';
+    const badgeStr = badges.length > 0 ? " " + badges.join(" ") : "";
 
     // Hot indicators
     const hotIndicators = [];
-    if (metrics.watchCount > 0) hotIndicators.push(`${metrics.watchCount} watching`);
-    if (metrics.quantitySold > 0) hotIndicators.push(`${metrics.quantitySold} sold`);
-    const hotStr = hotIndicators.length > 0 ? chalk.yellow(` 🔥 ${hotIndicators.join(', ')}`) : '';
+    if (metrics.watchCount > 0)
+      hotIndicators.push(`${metrics.watchCount} watching`);
+    if (metrics.quantitySold > 0)
+      hotIndicators.push(`${metrics.quantitySold} sold`);
+    const hotStr =
+      hotIndicators.length > 0
+        ? chalk.yellow(` 🔥 ${hotIndicators.join(", ")}`)
+        : "";
 
     return `
 ${chalk.bold(`${index}. ${title}`)}${badgeStr}${hotStr}
-   ${chalk.gray('├─')} Price: ${priceDisplay}
-   ${chalk.gray('├─')} Condition: ${metrics.condition}
-   ${chalk.gray('├─')} Seller: @${metrics.sellerUsername} (${metrics.sellerFeedback} feedback, ${metrics.sellerRating.toFixed(1)}%)
-   ${chalk.gray('└─')} ${chalk.blue(itemUrl)}`;
+   ${chalk.gray("├─")} Price: ${priceDisplay}
+   ${chalk.gray("├─")} Condition: ${metrics.condition}
+   ${chalk.gray("├─")} Seller: @${metrics.sellerUsername} (${
+      metrics.sellerFeedback
+    } feedback, ${metrics.sellerRating.toFixed(1)}%)
+   ${chalk.gray("└─")} ${chalk.blue(itemUrl)}`;
   }
 
   /**
@@ -54,18 +62,30 @@ ${chalk.bold(`${index}. ${title}`)}${badgeStr}${hotStr}
     return `
 ${chalk.bold.cyan(`CATEGORY: ${categoryName.toUpperCase()}`)}
 
-${chalk.bold('Market Overview:')}
-  ${chalk.gray('•')} Total Active Listings: ${chalk.yellow(stats.totalListings.toLocaleString())}
-  ${chalk.gray('•')} Average Price: ${chalk.green(`$${stats.avgPrice.toFixed(2)}`)}
-  ${chalk.gray('•')} Price Range: ${chalk.gray(`$${stats.minPrice.toFixed(2)} - $${stats.maxPrice.toFixed(2)}`)}
-  ${chalk.gray('•')} Total Watchers: ${chalk.cyan(stats.totalWatchers.toLocaleString())}
-  ${chalk.gray('•')} Avg Watchers/Item: ${chalk.cyan(stats.avgWatchers.toFixed(1))}
+${chalk.bold("Market Overview:")}
+  ${chalk.gray("•")} Total Active Listings: ${chalk.yellow(
+      stats.totalListings.toLocaleString()
+    )}
+  ${chalk.gray("•")} Average Price: ${chalk.green(
+      `$${stats.avgPrice.toFixed(2)}`
+    )}
+  ${chalk.gray("•")} Price Range: ${chalk.gray(
+      `$${stats.minPrice.toFixed(2)} - $${stats.maxPrice.toFixed(2)}`
+    )}
+  ${chalk.gray("•")} Total Watchers: ${chalk.cyan(
+      stats.totalWatchers.toLocaleString()
+    )}
+  ${chalk.gray("•")} Avg Watchers/Item: ${chalk.cyan(
+      stats.avgWatchers.toFixed(1)
+    )}
 
-${chalk.bold('Data Source:')}
-  ${chalk.gray('•')} API: ${chalk.blue('eBay Browse API (Official)')}
-  ${chalk.gray('•')} Status: ${chalk.green(metadata.ack)}
-  ${chalk.gray('•')} Fetched: ${chalk.gray(this.formatTimestamp(metadata.timestamp))}
-  ${chalk.gray('•')} Showing top 20 of ${metadata.totalPages} pages available
+${chalk.bold("Data Source:")}
+  ${chalk.gray("•")} API: ${chalk.blue("eBay Browse API (Official)")}
+  ${chalk.gray("•")} Status: ${chalk.green(metadata.ack)}
+  ${chalk.gray("•")} Fetched: ${chalk.gray(
+      this.formatTimestamp(metadata.timestamp)
+    )}
+  ${chalk.gray("•")} Showing top 100 of ${metadata.totalPages} pages available
 `;
   }
 
@@ -74,18 +94,28 @@ ${chalk.bold('Data Source:')}
    */
   formatMarketComparison(comparison) {
     if (!comparison.available) {
-      return `\n${chalk.yellow('ℹ Market comparison data not available for this category')}\n`;
+      return `\n${chalk.yellow(
+        "ℹ Market comparison data not available for this category"
+      )}\n`;
     }
 
     const trendColor = comparison.priceChange > 0 ? chalk.red : chalk.green;
-    const trendSymbol = comparison.priceChange > 0 ? '📈' : '📉';
+    const trendSymbol = comparison.priceChange > 0 ? "📈" : "📉";
 
     return `
-${chalk.bold('Market Health (vs Recently Sold Items):')}
-  ${chalk.gray('•')} Avg Active Price: ${chalk.green(`$${comparison.avgActivePrice.toFixed(2)}`)}
-  ${chalk.gray('•')} Avg Sold Price: ${chalk.gray(`$${comparison.avgSoldPrice.toFixed(2)}`)}
-  ${chalk.gray('•')} Price Change: ${trendColor(`${comparison.priceChange > 0 ? '+' : ''}${comparison.priceChange.toFixed(1)}%`)} ${trendSymbol}
-  ${chalk.gray('•')} Market Trend: ${chalk.bold(comparison.trend)}
+${chalk.bold("Market Health (vs Recently Sold Items):")}
+  ${chalk.gray("•")} Avg Active Price: ${chalk.green(
+      `$${comparison.avgActivePrice.toFixed(2)}`
+    )}
+  ${chalk.gray("•")} Avg Sold Price: ${chalk.gray(
+      `$${comparison.avgSoldPrice.toFixed(2)}`
+    )}
+  ${chalk.gray("•")} Price Change: ${trendColor(
+      `${comparison.priceChange > 0 ? "+" : ""}${comparison.priceChange.toFixed(
+        1
+      )}%`
+    )} ${trendSymbol}
+  ${chalk.gray("•")} Market Trend: ${chalk.bold(comparison.trend)}
 `;
   }
 
@@ -94,9 +124,9 @@ ${chalk.bold('Market Health (vs Recently Sold Items):')}
    */
   formatFooter() {
     return `
-${chalk.dim('Data Source: eBay Browse API')}
-${chalk.dim('All prices and statistics are real-time from eBay.com')}
-${chalk.dim('Click product links to verify data authenticity')}
+${chalk.dim("Data Source: eBay Browse API")}
+${chalk.dim("All prices and statistics are real-time from eBay.com")}
+${chalk.dim("Click product links to verify data authenticity")}
 `;
   }
 
@@ -105,19 +135,21 @@ ${chalk.dim('Click product links to verify data authenticity')}
    */
   formatError(error) {
     let troubleshooting = `
-${chalk.yellow('Troubleshooting:')}
-  ${chalk.gray('•')} Verify your EBAY_APP_ID in .env file
-  ${chalk.gray('•')} Check internet connection
-  ${chalk.gray('•')} Verify eBay API status: https://developer.ebay.com`;
+${chalk.yellow("Troubleshooting:")}
+  ${chalk.gray("•")} Verify your EBAY_APP_ID in .env file
+  ${chalk.gray("•")} Check internet connection
+  ${chalk.gray("•")} Verify eBay API status: https://developer.ebay.com`;
 
     // Add cache-specific help if it's a cache issue
-    if (error.message.includes('cache') || error.message.includes('format')) {
+    if (error.message.includes("cache") || error.message.includes("format")) {
       troubleshooting += `
-  ${chalk.gray('•')} ${chalk.yellow('Try clearing cache:')} Delete files in data/ folder`;
+  ${chalk.gray("•")} ${chalk.yellow(
+        "Try clearing cache:"
+      )} Delete files in data/ folder`;
     }
 
     return `
-${chalk.bold.red('ERROR:')} ${error.message}
+${chalk.bold.red("ERROR:")} ${error.message}
 ${troubleshooting}
 `;
   }
@@ -126,22 +158,22 @@ ${troubleshooting}
    * Truncate long titles by word count
    */
   truncateTitle(title) {
-    const words = title.split(' ');
+    const words = title.split(" ");
     if (words.length <= this.maxTitleWords) return title;
-    return words.slice(0, this.maxTitleWords).join(' ') + '...';
+    return words.slice(0, this.maxTitleWords).join(" ") + "...";
   }
 
   /**
    * Format date to readable string
    */
   formatDate(dateString) {
-    if (!dateString) return 'Unknown';
+    if (!dateString) return "Unknown";
     const date = new Date(dateString);
     const now = new Date();
     const diffDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
 
-    if (diffDays === 0) return 'Today';
-    if (diffDays === 1) return 'Yesterday';
+    if (diffDays === 0) return "Today";
+    if (diffDays === 1) return "Yesterday";
     if (diffDays < 7) return `${diffDays} days ago`;
     if (diffDays < 30) return `${Math.floor(diffDays / 7)} weeks ago`;
     return date.toLocaleDateString();
@@ -151,7 +183,7 @@ ${troubleshooting}
    * Format API timestamp
    */
   formatTimestamp(timestamp) {
-    if (!timestamp) return 'Unknown';
+    if (!timestamp) return "Unknown";
     const date = new Date(timestamp);
     return date.toLocaleString();
   }

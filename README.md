@@ -104,7 +104,7 @@ npm run cli
 Interactive menu shows 13 categories. Select one to see:
 
 - Market overview (total listings, avg price, watchers)
-- Top 20 trending products (Best Match algorithm)
+- Top 100 trending products (Best Match algorithm)
 - Price discounts, seller ratings, engagement metrics
 - Direct eBay links for verification
 
@@ -128,6 +128,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for complete zero-cost deployment guide:
 ## API Limits
 
 eBay Browse API free tier:
+
 - 5,000 calls/day per App ID
 - This app uses 21 calls per category (1 search + 20 item details)
 - Caching reduces usage to ~1 analysis per day per category
@@ -144,34 +145,40 @@ All data is fetched from official eBay Browse API:
 ## Technical Stack
 
 ### Frontend
+
 - React 19 with Vite
 - AWS-style corporate UI (inspired by AWS Console)
 - Responsive data tables
 - Zero animations, data-dense design
 
 ### Backend
+
 - Express.js REST API
 - OAuth 2.0 client credentials flow
 - File-based caching (24-hour TTL)
 - eBay Browse API integration
 
 ### Shared
+
 - Category definitions
 - TypeScript-ready structure
 
 ## Troubleshooting
 
 ### API not starting
+
 - Verify `.env` has valid EBAY_APP_ID and EBAY_CERT_ID
 - Check eBay Developer dashboard for key status
 - Ensure credentials are Production keys (not Sandbox)
 
 ### Frontend can't connect to API
+
 - Verify API is running on port 3001
 - Check browser console for CORS errors
 - Ensure VITE_API_URL matches API URL
 
 ### eBay API errors
+
 - Verify credentials are correct
 - Check rate limits (5,000 calls/day)
 - Confirm internet connection

@@ -266,7 +266,7 @@ function App() {
 
               <div className="table-wrapper">
                 <div className="table-header">
-                  <h3>Top 20 Trending Products</h3>
+                  <h3>Top 100 Trending Products</h3>
                   <p className="algorithm-note">
                     Shows the hottest items across all subcategories, ranked
                     internally by eBay's algorithm based on sales, popularity,
@@ -428,7 +428,7 @@ function App() {
 
               <div className="table-wrapper">
                 <div className="table-header">
-                  <h3>Top 20 Trending Products</h3>
+                  <h3>Top 100 Trending Products</h3>
                   <p className="algorithm-note">
                     Shows the hottest items across all subcategories, ranked
                     internally by eBay's algorithm based on sales, popularity,
