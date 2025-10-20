@@ -229,6 +229,15 @@ body {
   font-style: italic;
 }
 
+.algorithm-note a {
+  color: #0972d3;
+  text-decoration: none;
+}
+
+.algorithm-note a:hover {
+  text-decoration: underline;
+}
+
 .data-table {
   width: 100%;
   border-collapse: collapse;
