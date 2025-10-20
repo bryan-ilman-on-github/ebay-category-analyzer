@@ -269,8 +269,15 @@ function App() {
                   <h3>Top 100 Trending Products</h3>
                   <p className="algorithm-note">
                     Shows the hottest items across all subcategories, ranked
-                    internally by eBay's algorithm based on sales, popularity,
-                    and seller quality
+                    internally by{" "}
+                    <a
+                      href="https://www.ebay.com/help/selling/listings/listing-tips/optimising-listings-best-match?id=4166"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      eBay's algorithm
+                    </a>{" "}
+                    based on sales, popularity, and seller quality
                   </p>
                 </div>
                 <div className="table-container">
@@ -431,8 +438,15 @@ function App() {
                   <h3>Top 100 Trending Products</h3>
                   <p className="algorithm-note">
                     Shows the hottest items across all subcategories, ranked
-                    internally by eBay's algorithm based on sales, popularity,
-                    and seller quality
+                    internally by{" "}
+                    <a
+                      href="https://www.ebay.com/help/selling/listings/listing-tips/optimising-listings-best-match?id=4166"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      eBay's algorithm
+                    </a>{" "}
+                    based on sales, popularity, and seller quality
                   </p>
                 </div>
                 <div className="table-container">
