@@ -91,7 +91,7 @@ app.get("/api/category/:id", async (req, res) => {
     }
 
     // Fetch fresh data
-    const activeData = await ebayClient.findItemsByCategory(id, 20);
+    const activeData = await ebayClient.findItemsByCategory(id, 100);
 
     if (!activeData.success) {
       throw new Error("Failed to fetch category data from eBay");
